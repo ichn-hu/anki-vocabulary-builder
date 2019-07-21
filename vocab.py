@@ -72,10 +72,11 @@ def lookup(word):
 
     result.update({
         'has_audio': True,
-        'audio_url': audio_data.url,
-        'audio_data_base64_ascii': base64.encodebytes(audio_data.content).decode('ascii')
+        'audio_url': audio_data.url
+        # 'audio_data_base64_ascii': base64.encodebytes(audio_data.content).decode('ascii')
     })
-
+    os.makedirs('audio', exist_ok=True)
+    open('audio/{}.mp3'.format(word), 'wb').write(audio_data.content)
     return result
 
 
@@ -118,10 +119,20 @@ def add_note(result):
         print('can not connect to server, not added')
 
 
+def remove_audio_data(db):
+    res = {}
+    for word, data in db.items():
+        if 'audio_data_base64_ascii' in data:
+            del data['audio_data_base64_ascii']
+        res[word] = data
+    return res
+
+
 if __name__ == "__main__":
     db_path = 'db.json'
     try:
         db = json.load(open(db_path, 'r'))
+        # db = remove_audio_data(db)
     except:
         db = {}
     try:
