@@ -29,7 +29,6 @@ def lookup(word):
         'raw_long': None,
         'has_audio': False,
         'audio_url': None,
-        'audio_data': None,
     }
 
     try:
@@ -124,6 +123,8 @@ def remove_audio_data(db):
     for word, data in db.items():
         if 'audio_data_base64_ascii' in data:
             del data['audio_data_base64_ascii']
+        if 'audio_data' in data:
+            del data['audio_data']
         res[word] = data
     return res
 
