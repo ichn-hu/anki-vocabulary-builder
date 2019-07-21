@@ -1,4 +1,41 @@
 {
+  "accost": {
+    "audio_url": "https://audio.vocab.com/1.0/us/A/I8YAZGIKOQ6R.mp3",
+    "colored_long": "\u001b[31mAccost\u001b[0m describes a confrontation \u00e2\u20ac\u201d one that's often aggressive in nature. You're likely to be accosted by angry picketers if you wear your finest fur coat to a march against animal cruelty. The paparazzi make their living by accosting celebrities, pushing in close to snap candid photos as the stars leave their limos. The drunk man who accosts his attractive female co-worker at a company cocktail party is looking for more than conversation.",
+    "colored_short": "To \u001b[31maccost\u001b[0m is to approach someone aggressively or confront them in an inappropriate way.",
+    "has_audio": true,
+    "long": "Accost describes a confrontation \u00e2\u20ac\u201d one that's often aggressive in nature. You're likely to be accosted by angry picketers if you wear your finest fur coat to a march against animal cruelty. The paparazzi make their living by accosting celebrities, pushing in close to snap candid photos as the stars leave their limos. The drunk man who accosts his attractive female co-worker at a company cocktail party is looking for more than conversation.",
+    "masked_long": "[...] describes a confrontation \u00e2\u20ac\u201d one that's often aggressive in nature. You're likely to be accosted by angry picketers if you wear your finest fur coat to a march against animal cruelty. The paparazzi make their living by accosting celebrities, pushing in close to snap candid photos as the stars leave their limos. The drunk man who accosts his attractive female co-worker at a company cocktail party is looking for more than conversation.",
+    "masked_short": "To [...] is to approach someone aggressively or confront them in an inappropriate way.",
+    "query_time": 1563737166.6013865,
+    "raw_long": [
+      [
+        1,
+        "Accost"
+      ],
+      [
+        0,
+        " describes a confrontation \u00e2\u20ac\u201d one that's often aggressive in nature. You're likely to be accosted by angry picketers if you wear your finest fur coat to a march against animal cruelty. The paparazzi make their living by accosting celebrities, pushing in close to snap candid photos as the stars leave their limos. The drunk man who accosts his attractive female co-worker at a company cocktail party is looking for more than conversation."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "To "
+      ],
+      [
+        1,
+        "accost"
+      ],
+      [
+        0,
+        " is to approach someone aggressively or confront them in an inappropriate way."
+      ]
+    ],
+    "short": "To accost is to approach someone aggressively or confront them in an inappropriate way.",
+    "url": "https://www.vocabulary.com/dictionary/accost",
+    "word": "accost"
+  },
   "adroit": {
     "audio_url": "https://audio.vocab.com/1.0/us/A/B8ICZ198Q17U.mp3",
     "colored_long": "If you've ever studied French you know that \u001b[31mdroit\u001b[0m means \"right,\" both as in \"right of free speech\" and as in \"left and right,\" and \u001b[31m\u00e0 droit\u001b[0m means both \"turn right\" and \"properly.\" Once English people borrowed \u001b[31m\u00e0 droit,\u001b[0m they changed the meaning slightly, from doing something \"properly\" to \"doing something well.\" You may have heard the expression \"surprisingly \u001b[31madroit\u001b[0m,\" as in, \"For a guy whose wife does all the cooking, he is surprisingly \u001b[31madroit\u001b[0m in the kitchen.\"",
@@ -239,6 +276,59 @@
     "url": "https://www.vocabulary.com/dictionary/austere",
     "word": "austere"
   },
+  "bequeath": {
+    "audio_url": "https://audio.vocab.com/1.0/us/B/1OCOVTDR5AJ27.mp3",
+    "colored_long": "\u001b[31mBequeath\u001b[0m often is used about making plans to give away property and possessions after a person's death: \"It was strange to leave a house to a one-year-old baby, but he planned what he would \u001b[31mbequeath\u001b[0m in his will while he was young, and the baby would be 23 when he finally did die.\" Sometimes \u001b[31mbequeath\u001b[0m is used for things handed down without death, as when living parents and grandparents pass, or bequeath, a legacy of stories or family traits and talents as an inheritance.",
+    "colored_short": "To \u001b[31mbequeath\u001b[0m is to leave your possessions to another person after you die. A man might love his classic cars but would be happy to bequeath them to his grandchildren when he writes out his last will and testament.",
+    "has_audio": true,
+    "long": "Bequeath often is used about making plans to give away property and possessions after a person's death: \"It was strange to leave a house to a one-year-old baby, but he planned what he would bequeath in his will while he was young, and the baby would be 23 when he finally did die.\" Sometimes bequeath is used for things handed down without death, as when living parents and grandparents pass, or bequeath, a legacy of stories or family traits and talents as an inheritance.",
+    "masked_long": "[...] often is used about making plans to give away property and possessions after a person's death: \"It was strange to leave a house to a one-year-old baby, but he planned what he would [...] in his will while he was young, and the baby would be 23 when he finally did die.\" Sometimes [...] is used for things handed down without death, as when living parents and grandparents pass, or bequeath, a legacy of stories or family traits and talents as an inheritance.",
+    "masked_short": "To [...] is to leave your possessions to another person after you die. A man might love his classic cars but would be happy to bequeath them to his grandchildren when he writes out his last will and testament.",
+    "query_time": 1563737563.688168,
+    "raw_long": [
+      [
+        1,
+        "Bequeath"
+      ],
+      [
+        0,
+        " often is used about making plans to give away property and possessions after a person's death: \"It was strange to leave a house to a one-year-old baby, but he planned what he would "
+      ],
+      [
+        1,
+        "bequeath"
+      ],
+      [
+        0,
+        " in his will while he was young, and the baby would be 23 when he finally did die.\" Sometimes "
+      ],
+      [
+        1,
+        "bequeath"
+      ],
+      [
+        0,
+        " is used for things handed down without death, as when living parents and grandparents pass, or bequeath, a legacy of stories or family traits and talents as an inheritance."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "To "
+      ],
+      [
+        1,
+        "bequeath"
+      ],
+      [
+        0,
+        " is to leave your possessions to another person after you die. A man might love his classic cars but would be happy to bequeath them to his grandchildren when he writes out his last will and testament."
+      ]
+    ],
+    "short": "To bequeath is to leave your possessions to another person after you die. A man might love his classic cars but would be happy to bequeath them to his grandchildren when he writes out his last will and testament.",
+    "url": "https://www.vocabulary.com/dictionary/bequeath",
+    "word": "bequeath"
+  },
   "bereavement": {
     "audio_url": "https://audio.vocab.com/1.0/us/B/RRJGE0N9SHEI.mp3",
     "colored_long": "\u001b[31mBereavement\u001b[0m comes from an Old English word that means \u201crob,\u201d \u201cdeprive,\u201d and \u201cseize.\u201d  When a loved one is taken, usually through death, those who remain are often left in a state of bereavement.  \u001b[31mBereavement\u001b[0m is not only reserved for the death of a human family member or friend, but the loss of a pet can also induce bereavement.",
@@ -450,6 +540,71 @@
     "short": "To cajole someone is to persuade them by using insincere compliments or promises. If you say \"Please, pretty-please, I'll be your best friend,\" when asking for a stick of gum, you are cajoling the gum holder.",
     "url": "https://www.vocabulary.com/dictionary/cajole?family=cajoling",
     "word": "cajoling"
+  },
+  "comportment": {
+    "audio_url": "https://audio.vocab.com/1.0/us/C/1Q3X702DAG2I9.mp3",
+    "colored_long": "You can use the noun \u001b[31mcomportment\u001b[0m to describe both the way a person behaves and also the way he carries himself \u00e2\u20ac\u201d his general manner. A queen's comportment is usually regal, a bit stiff, and dignified. The comportment of a bunch of little kids at an amusement park is very different. The Middle French root is \u001b[31mcomportement\u001b[0m, \"bearing or behavior,\" from the Latin \u001b[31mcomportare\u001b[0m, \"to bring together or collect.\"",
+    "colored_short": "Your \u001b[31mcomportment\u001b[0m is the way you act, especially when you behave well. You might compliment a patient little boy on his \u001b[31mcomportment\u001b[0m as he waits in line for a turn on the swings.",
+    "has_audio": true,
+    "long": "You can use the noun comportment to describe both the way a person behaves and also the way he carries himself \u00e2\u20ac\u201d his general manner. A queen's comportment is usually regal, a bit stiff, and dignified. The comportment of a bunch of little kids at an amusement park is very different. The Middle French root is comportement, \"bearing or behavior,\" from the Latin comportare, \"to bring together or collect.\"",
+    "masked_long": "You can use the noun [...] to describe both the way a person behaves and also the way he carries himself \u00e2\u20ac\u201d his general manner. A queen's comportment is usually regal, a bit stiff, and dignified. The comportment of a bunch of little kids at an amusement park is very different. The Middle French root is [...], \"bearing or behavior,\" from the Latin [...], \"to bring together or collect.\"",
+    "masked_short": "Your [...] is the way you act, especially when you behave well. You might compliment a patient little boy on his [...] as he waits in line for a turn on the swings.",
+    "query_time": 1563738172.3051176,
+    "raw_long": [
+      [
+        0,
+        "You can use the noun "
+      ],
+      [
+        1,
+        "comportment"
+      ],
+      [
+        0,
+        " to describe both the way a person behaves and also the way he carries himself \u00e2\u20ac\u201d his general manner. A queen's comportment is usually regal, a bit stiff, and dignified. The comportment of a bunch of little kids at an amusement park is very different. The Middle French root is "
+      ],
+      [
+        1,
+        "comportement"
+      ],
+      [
+        0,
+        ", \"bearing or behavior,\" from the Latin "
+      ],
+      [
+        1,
+        "comportare"
+      ],
+      [
+        0,
+        ", \"to bring together or collect.\""
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "Your "
+      ],
+      [
+        1,
+        "comportment"
+      ],
+      [
+        0,
+        " is the way you act, especially when you behave well. You might compliment a patient little boy on his "
+      ],
+      [
+        1,
+        "comportment"
+      ],
+      [
+        0,
+        " as he waits in line for a turn on the swings."
+      ]
+    ],
+    "short": "Your comportment is the way you act, especially when you behave well. You might compliment a patient little boy on his comportment as he waits in line for a turn on the swings.",
+    "url": "https://www.vocabulary.com/dictionary/comportment",
+    "word": "comportment"
   },
   "conspiracy": {
     "audio_url": "https://audio.vocab.com/1.0/us/C/1073CP7D1G3KU.mp3",
@@ -1024,6 +1179,55 @@
     "url": "https://www.vocabulary.com/dictionary/divulge",
     "word": "divulge"
   },
+  "dodge": {
+    "audio_url": "https://audio.vocab.com/1.0/us/D/1O9QPWUQXGY7M.mp3",
+    "colored_long": "Dodging is making quick, sudden movements, usually to avoid something. You have to move quickly to dodge a flower pot that's falling from a ledge. In football, running backs are good at dodging defensive players. Politicians do a lot of maneuvers and manipulations to dodge blame, and plenty of people dodge responsibility for something they're supposed to take care of. So any kind of evasion strategy is a dodge.",
+    "colored_short": "To \u001b[31mdodge\u001b[0m something is to avoid it. In \u001b[31mdodge\u001b[0m ball, players \u001b[31mdodge\u001b[0m the balls being thrown at them.",
+    "has_audio": true,
+    "long": "Dodging is making quick, sudden movements, usually to avoid something. You have to move quickly to dodge a flower pot that's falling from a ledge. In football, running backs are good at dodging defensive players. Politicians do a lot of maneuvers and manipulations to dodge blame, and plenty of people dodge responsibility for something they're supposed to take care of. So any kind of evasion strategy is a dodge.",
+    "masked_long": "Dodging is making quick, sudden movements, usually to avoid something. You have to move quickly to dodge a flower pot that's falling from a ledge. In football, running backs are good at dodging defensive players. Politicians do a lot of maneuvers and manipulations to dodge blame, and plenty of people dodge responsibility for something they're supposed to take care of. So any kind of evasion strategy is a dodge.",
+    "masked_short": "To [...] something is to avoid it. In [...] ball, players [...] the balls being thrown at them.",
+    "query_time": 1563737572.423357,
+    "raw_long": [
+      [
+        0,
+        "Dodging is making quick, sudden movements, usually to avoid something. You have to move quickly to dodge a flower pot that's falling from a ledge. In football, running backs are good at dodging defensive players. Politicians do a lot of maneuvers and manipulations to dodge blame, and plenty of people dodge responsibility for something they're supposed to take care of. So any kind of evasion strategy is a dodge."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "To "
+      ],
+      [
+        1,
+        "dodge"
+      ],
+      [
+        0,
+        " something is to avoid it. In "
+      ],
+      [
+        1,
+        "dodge"
+      ],
+      [
+        0,
+        " ball, players "
+      ],
+      [
+        1,
+        "dodge"
+      ],
+      [
+        0,
+        " the balls being thrown at them."
+      ]
+    ],
+    "short": "To dodge something is to avoid it. In dodge ball, players dodge the balls being thrown at them.",
+    "url": "https://www.vocabulary.com/dictionary/dodge",
+    "word": "dodge"
+  },
   "downplay": {
     "audio_url": "https://audio.vocab.com/1.0/us/D/E3THED5VYFGB.mp3",
     "colored_long": "Politicians who depend on contributions from oil and gas companies tend to downplay the environmental effects of their products, and a boy who wants a trampoline for his birthday might downplay the possible dangers when he talks to his parents about it. \u001b[31mDownplay\u001b[0m is a relatively recent addition to the English language, dating from the late 1960s.",
@@ -1194,6 +1398,63 @@
     "short": "If you rudely behave as if you have a right to something that you have no right to, you're committing effrontery. When a couple stroll into a crowded restaurant, demand the best table, and threaten the staff unless they're seated right away, that's effrontery.",
     "url": "https://www.vocabulary.com/dictionary/effrontery",
     "word": "effrontery"
+  },
+  "egotistical": {
+    "audio_url": "https://audio.vocab.com/1.0/us/E/1TM8W3A7YL9YM.mp3",
+    "colored_long": "The prefix \u001b[31mego\u001b[0m refers to a person's sense of self, or self-importance. To be \u001b[31megotistical\u001b[0m is to have an inflated view of your self-importance \u00e2\u20ac\u201d basically to think you're better than everyone else. You might express this egotism by constantly reminding your friends that you have a fantastic figure or a magnificent mind.",
+    "colored_short": "Someone who is \u001b[31megotistical\u001b[0m is full of himself, completely self-absorbed. Like the \u001b[31megotistical\u001b[0m actor who blocks the audience's view of every other actor in the play during the curtain call so that he can hog the applause.",
+    "has_audio": true,
+    "long": "The prefix ego refers to a person's sense of self, or self-importance. To be egotistical is to have an inflated view of your self-importance \u00e2\u20ac\u201d basically to think you're better than everyone else. You might express this egotism by constantly reminding your friends that you have a fantastic figure or a magnificent mind.",
+    "masked_long": "The prefix [...] refers to a person's sense of self, or self-importance. To be [...] is to have an inflated view of your self-importance \u00e2\u20ac\u201d basically to think you're better than everyone else. You might express this egotism by constantly reminding your friends that you have a fantastic figure or a magnificent mind.",
+    "masked_short": "Someone who is [...] is full of himself, completely self-absorbed. Like the [...] actor who blocks the audience's view of every other actor in the play during the curtain call so that he can hog the applause.",
+    "query_time": 1563738191.7053118,
+    "raw_long": [
+      [
+        0,
+        "The prefix "
+      ],
+      [
+        1,
+        "ego"
+      ],
+      [
+        0,
+        " refers to a person's sense of self, or self-importance. To be "
+      ],
+      [
+        1,
+        "egotistical"
+      ],
+      [
+        0,
+        " is to have an inflated view of your self-importance \u00e2\u20ac\u201d basically to think you're better than everyone else. You might express this egotism by constantly reminding your friends that you have a fantastic figure or a magnificent mind."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "Someone who is "
+      ],
+      [
+        1,
+        "egotistical"
+      ],
+      [
+        0,
+        " is full of himself, completely self-absorbed. Like the "
+      ],
+      [
+        1,
+        "egotistical"
+      ],
+      [
+        0,
+        " actor who blocks the audience's view of every other actor in the play during the curtain call so that he can hog the applause."
+      ]
+    ],
+    "short": "Someone who is egotistical is full of himself, completely self-absorbed. Like the egotistical actor who blocks the audience's view of every other actor in the play during the curtain call so that he can hog the applause.",
+    "url": "https://www.vocabulary.com/dictionary/egotistical",
+    "word": "egotistical"
   },
   "embroil": {
     "audio_url": "https://audio.vocab.com/1.0/us/E/1S2313ZFMOTIF.mp3",
@@ -1505,6 +1766,79 @@
     "url": "https://www.vocabulary.com/dictionary/flagrant",
     "word": "flagrant"
   },
+  "galvanize": {
+    "audio_url": "https://audio.vocab.com/1.0/us/G/1WKF9GFCRGGOP.mp3",
+    "colored_long": "The word \u001b[31mgalvanize\u001b[0m was coined to honor the 18th Century scientist Luigi Galvani, who found that a spark could make a frog's legs move. This discovery led to further studies in bioelectrogenesis, or what Galvani called \"animal electricity,\" and became the basis for Mary Shelley's \u001b[31mFrankenstein\u001b[0m (a novel in which a mad scientist attempts to use electricity to \u001b[31mgalvanize\u001b[0m a monster to life). Nowadays, people use this term much more figuratively, like when they describe \u001b[31mgalvanizing\u001b[0m a political movement or even a sports team into action.",
+    "colored_short": "The verb \u001b[31mgalvanize\u001b[0m refers to stimulating muscles with an electrical current, and this word is also used to suggest stimulating someone into action. We advise not using electricity in \u001b[31mgalvanizing\u001b[0m children to do their homework.",
+    "has_audio": true,
+    "long": "The word galvanize was coined to honor the 18th Century scientist Luigi Galvani, who found that a spark could make a frog's legs move. This discovery led to further studies in bioelectrogenesis, or what Galvani called \"animal electricity,\" and became the basis for Mary Shelley's Frankenstein (a novel in which a mad scientist attempts to use electricity to galvanize a monster to life). Nowadays, people use this term much more figuratively, like when they describe galvanizing a political movement or even a sports team into action.",
+    "masked_long": "The word [...] was coined to honor the 18th Century scientist Luigi Galvani, who found that a spark could make a frog's legs move. This discovery led to further studies in bioelectrogenesis, or what Galvani called \"animal electricity,\" and became the basis for Mary Shelley's [...] (a novel in which a mad scientist attempts to use electricity to [...] a monster to life). Nowadays, people use this term much more figuratively, like when they describe [...] a political movement or even a sports team into action.",
+    "masked_short": "The verb [...] refers to stimulating muscles with an electrical current, and this word is also used to suggest stimulating someone into action. We advise not using electricity in [...] children to do their homework.",
+    "query_time": 1563737360.994947,
+    "raw_long": [
+      [
+        0,
+        "The word "
+      ],
+      [
+        1,
+        "galvanize"
+      ],
+      [
+        0,
+        " was coined to honor the 18th Century scientist Luigi Galvani, who found that a spark could make a frog's legs move. This discovery led to further studies in bioelectrogenesis, or what Galvani called \"animal electricity,\" and became the basis for Mary Shelley's "
+      ],
+      [
+        1,
+        "Frankenstein"
+      ],
+      [
+        0,
+        " (a novel in which a mad scientist attempts to use electricity to "
+      ],
+      [
+        1,
+        "galvanize"
+      ],
+      [
+        0,
+        " a monster to life). Nowadays, people use this term much more figuratively, like when they describe "
+      ],
+      [
+        1,
+        "galvanizing"
+      ],
+      [
+        0,
+        " a political movement or even a sports team into action."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "The verb "
+      ],
+      [
+        1,
+        "galvanize"
+      ],
+      [
+        0,
+        " refers to stimulating muscles with an electrical current, and this word is also used to suggest stimulating someone into action. We advise not using electricity in "
+      ],
+      [
+        1,
+        "galvanizing"
+      ],
+      [
+        0,
+        " children to do their homework."
+      ]
+    ],
+    "short": "The verb galvanize refers to stimulating muscles with an electrical current, and this word is also used to suggest stimulating someone into action. We advise not using electricity in galvanizing children to do their homework.",
+    "url": "https://www.vocabulary.com/dictionary/galvanize",
+    "word": "galvanize"
+  },
   "garnish": {
     "audio_url": "https://audio.vocab.com/1.0/us/G/1N8T8ND1QN56O.mp3",
     "colored_long": "Long ago, in 14th-century France, the word \u001b[31mgarnir\u001b[0m meant, in part, \"to warn or defend,\" a meaning that survived in one of the meanings of \u001b[31mgarnish\u001b[0m, \"to seize wages to pay a debt.\" But word meanings often branch out, and \"to warn\" came to mean \"to arm oneself,\" and later \"to fit out or equip.\" It came to mean \"to embellish\" in Middle English, and, from the late 17th century on, the word was used commonly for the embellishment or decoration of food.",
@@ -1650,6 +1984,63 @@
     "short": "Use the noun guile for cunning, craftiness, and artful duplicity. Acting like you have a job on Wall Street when you're actually unemployed would take a lot of guile.",
     "url": "https://www.vocabulary.com/dictionary/guile",
     "word": "guile"
+  },
+  "hedonistic": {
+    "audio_url": "https://audio.vocab.com/1.0/us/H/1UJ0YSXGZBDZR.mp3",
+    "colored_long": "This term \u2014 along with the related words \u001b[31mhedonist\u001b[0m and \u001b[31mhedonistic\u001b[0m \u2014 is derived from the Greek word \u001b[31mhedone\u001b[0m, \"pleasure.\" The Cyreniacs taught that physical gratification is superior to the mental satisfaction offered by anticipation and remembrance. That's why hedonistic folks revel in pleasure, and demand it in the present tense.",
+    "colored_short": "A \u001b[31mhedonistic\u001b[0m person is committed to seeking sensual pleasure \u2014 the type of guy you might find in a massage parlor or at an all-you-can-eat buffet.",
+    "has_audio": true,
+    "long": "This term \u2014 along with the related words hedonist and hedonistic \u2014 is derived from the Greek word hedone, \"pleasure.\" The Cyreniacs taught that physical gratification is superior to the mental satisfaction offered by anticipation and remembrance. That's why hedonistic folks revel in pleasure, and demand it in the present tense.",
+    "masked_long": "This term \u2014 along with the related words [...] and [...] \u2014 is derived from the Greek word [...], \"pleasure.\" The Cyreniacs taught that physical gratification is superior to the mental satisfaction offered by anticipation and remembrance. That's why hedonistic folks revel in pleasure, and demand it in the present tense.",
+    "masked_short": "A [...] person is committed to seeking sensual pleasure \u2014 the type of guy you might find in a massage parlor or at an all-you-can-eat buffet.",
+    "query_time": 1563738198.1849294,
+    "raw_long": [
+      [
+        0,
+        "This term \u2014 along with the related words "
+      ],
+      [
+        1,
+        "hedonist"
+      ],
+      [
+        0,
+        " and "
+      ],
+      [
+        1,
+        "hedonistic"
+      ],
+      [
+        0,
+        " \u2014 is derived from the Greek word "
+      ],
+      [
+        1,
+        "hedone"
+      ],
+      [
+        0,
+        ", \"pleasure.\" The Cyreniacs taught that physical gratification is superior to the mental satisfaction offered by anticipation and remembrance. That's why hedonistic folks revel in pleasure, and demand it in the present tense."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "A "
+      ],
+      [
+        1,
+        "hedonistic"
+      ],
+      [
+        0,
+        " person is committed to seeking sensual pleasure \u2014 the type of guy you might find in a massage parlor or at an all-you-can-eat buffet."
+      ]
+    ],
+    "short": "A hedonistic person is committed to seeking sensual pleasure \u2014 the type of guy you might find in a massage parlor or at an all-you-can-eat buffet.",
+    "url": "https://www.vocabulary.com/dictionary/hedonistic",
+    "word": "hedonistic"
   },
   "instigate": {
     "audio_url": "https://audio.vocab.com/1.0/us/I/7R21ZI59ST2K.mp3",
@@ -2033,6 +2424,71 @@
     "short": "Obdurate is a formal word meaning stubborn. If you want to major in English, but your parents are obdurate that you should go premed, they might go so far as to threaten not to pay your tuition.",
     "url": "https://www.vocabulary.com/dictionary/obdurate",
     "word": "obdurate"
+  },
+  "parlor": {
+    "audio_url": "https://audio.vocab.com/1.0/us/P/1CFJLBIHYP3MT.mp3",
+    "colored_long": "The noun \u001b[31mparlor\u001b[0m is an old-fashioned one. Still, almost anyone would know what you meant if you invited them to join you in the parlor for tea. These days, a hotel, inn, or historic house is more likely to have a parlor than a private home is. The thirteenth century version, \u001b[31mparlur\u001b[0m, meant \"room in a monastery for holding conversations.\" The \"conversations\" part stems from \u001b[31mparler\u001b[0m, \"to speak\" in French.",
+    "colored_short": "A \u001b[31mparlor\u001b[0m is a living room or a sitting room, the place in your house with comfortable chairs and sofas. You might also decide to put your giant new TV in the \u001b[31mparlor\u001b[0m.",
+    "has_audio": true,
+    "long": "The noun parlor is an old-fashioned one. Still, almost anyone would know what you meant if you invited them to join you in the parlor for tea. These days, a hotel, inn, or historic house is more likely to have a parlor than a private home is. The thirteenth century version, parlur, meant \"room in a monastery for holding conversations.\" The \"conversations\" part stems from parler, \"to speak\" in French.",
+    "masked_long": "The noun [...] is an old-fashioned one. Still, almost anyone would know what you meant if you invited them to join you in the parlor for tea. These days, a hotel, inn, or historic house is more likely to have a parlor than a private home is. The thirteenth century version, [...], meant \"room in a monastery for holding conversations.\" The \"conversations\" part stems from [...], \"to speak\" in French.",
+    "masked_short": "A [...] is a living room or a sitting room, the place in your house with comfortable chairs and sofas. You might also decide to put your giant new TV in the [...].",
+    "query_time": 1563738212.9703705,
+    "raw_long": [
+      [
+        0,
+        "The noun "
+      ],
+      [
+        1,
+        "parlor"
+      ],
+      [
+        0,
+        " is an old-fashioned one. Still, almost anyone would know what you meant if you invited them to join you in the parlor for tea. These days, a hotel, inn, or historic house is more likely to have a parlor than a private home is. The thirteenth century version, "
+      ],
+      [
+        1,
+        "parlur"
+      ],
+      [
+        0,
+        ", meant \"room in a monastery for holding conversations.\" The \"conversations\" part stems from "
+      ],
+      [
+        1,
+        "parler"
+      ],
+      [
+        0,
+        ", \"to speak\" in French."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "A "
+      ],
+      [
+        1,
+        "parlor"
+      ],
+      [
+        0,
+        " is a living room or a sitting room, the place in your house with comfortable chairs and sofas. You might also decide to put your giant new TV in the "
+      ],
+      [
+        1,
+        "parlor"
+      ],
+      [
+        0,
+        "."
+      ]
+    ],
+    "short": "A parlor is a living room or a sitting room, the place in your house with comfortable chairs and sofas. You might also decide to put your giant new TV in the parlor.",
+    "url": "https://www.vocabulary.com/dictionary/parlor",
+    "word": "parlor"
   },
   "pedant": {
     "audio_url": "https://audio.vocab.com/1.0/us/P/133WBMR1S7DQ7.mp3",
@@ -2913,5 +3369,143 @@
     "short": "If you enjoy the vernal lushness of the landscape, that\u2019s a kind of fancy way to say you like the way nature looks in the springtime.",
     "url": "https://www.vocabulary.com/dictionary/vernal",
     "word": "vernal"
+  },
+  "vilify": {
+    "audio_url": "https://audio.vocab.com/1.0/us/V/10IUMCPQEYRTU.mp3",
+    "colored_long": "The verb \u001b[31mvilify\u001b[0m comes from the same root as the word \u001b[31mvile\u001b[0m and is a negative word if ever there was one! One way to remember the word is to think about how it sounds \u00e2\u20ac\u201d like the word \u001b[31mvillain\u001b[0m (which is unrelated and comes from \u001b[31mvilla\u001b[0m). This suggests that when you vilify someone, you make them sound villainous. So avoid spreading vile words that vilify another and make him or her seem like a villain.",
+    "colored_short": "To \u001b[31mvilify\u001b[0m someone is to spread nasty stories about them, whether true or not.",
+    "has_audio": true,
+    "long": "The verb vilify comes from the same root as the word vile and is a negative word if ever there was one! One way to remember the word is to think about how it sounds \u00e2\u20ac\u201d like the word villain (which is unrelated and comes from villa). This suggests that when you vilify someone, you make them sound villainous. So avoid spreading vile words that vilify another and make him or her seem like a villain.",
+    "masked_long": "The verb [...] comes from the same root as the word [...] and is a negative word if ever there was one! One way to remember the word is to think about how it sounds \u00e2\u20ac\u201d like the word [...] (which is unrelated and comes from [...]). This suggests that when you vilify someone, you make them sound villainous. So avoid spreading vile words that vilify another and make him or her seem like a villain.",
+    "masked_short": "To [...] someone is to spread nasty stories about them, whether true or not.",
+    "query_time": 1563737257.194825,
+    "raw_long": [
+      [
+        0,
+        "The verb "
+      ],
+      [
+        1,
+        "vilify"
+      ],
+      [
+        0,
+        " comes from the same root as the word "
+      ],
+      [
+        1,
+        "vile"
+      ],
+      [
+        0,
+        " and is a negative word if ever there was one! One way to remember the word is to think about how it sounds \u00e2\u20ac\u201d like the word "
+      ],
+      [
+        1,
+        "villain"
+      ],
+      [
+        0,
+        " (which is unrelated and comes from "
+      ],
+      [
+        1,
+        "villa"
+      ],
+      [
+        0,
+        "). This suggests that when you vilify someone, you make them sound villainous. So avoid spreading vile words that vilify another and make him or her seem like a villain."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "To "
+      ],
+      [
+        1,
+        "vilify"
+      ],
+      [
+        0,
+        " someone is to spread nasty stories about them, whether true or not."
+      ]
+    ],
+    "short": "To vilify someone is to spread nasty stories about them, whether true or not.",
+    "url": "https://www.vocabulary.com/dictionary/vilify",
+    "word": "vilify"
+  },
+  "villain": {
+    "audio_url": "https://audio.vocab.com/1.0/us/V/1LP3WPF82C2S8.mp3",
+    "colored_long": "Today a villain is a wicked person, whether in fact or fiction. In the 1300s, \u001b[31mvillain\u001b[0m described a low-born rustic. It came from the Medieval Latin word \u001b[31mvillanus\u001b[0m, or farmhand. Just why a word would evolve from meaning \u001b[31mfarmer\u001b[0m into \u001b[31mevildoer\u001b[0m is a little mysterious, although it probably has to do with farmers not being chivalrous, like the knights who were so admired in those days.",
+    "colored_short": "A \u001b[31mvillain\u001b[0m is a bad person \u2014 real or made up. In books, movies, current events, or history, the \u001b[31mvillain\u001b[0m is the character who does mean, evil things on purpose.",
+    "has_audio": true,
+    "long": "Today a villain is a wicked person, whether in fact or fiction. In the 1300s, villain described a low-born rustic. It came from the Medieval Latin word villanus, or farmhand. Just why a word would evolve from meaning farmer into evildoer is a little mysterious, although it probably has to do with farmers not being chivalrous, like the knights who were so admired in those days.",
+    "masked_long": "Today a villain is a wicked person, whether in fact or fiction. In the 1300s, [...] described a low-born rustic. It came from the Medieval Latin word [...], or farmhand. Just why a word would evolve from meaning [...] into [...] is a little mysterious, although it probably has to do with farmers not being chivalrous, like the knights who were so admired in those days.",
+    "masked_short": "A [...] is a bad person \u2014 real or made up. In books, movies, current events, or history, the [...] is the character who does mean, evil things on purpose.",
+    "query_time": 1563737309.919215,
+    "raw_long": [
+      [
+        0,
+        "Today a villain is a wicked person, whether in fact or fiction. In the 1300s, "
+      ],
+      [
+        1,
+        "villain"
+      ],
+      [
+        0,
+        " described a low-born rustic. It came from the Medieval Latin word "
+      ],
+      [
+        1,
+        "villanus"
+      ],
+      [
+        0,
+        ", or farmhand. Just why a word would evolve from meaning "
+      ],
+      [
+        1,
+        "farmer"
+      ],
+      [
+        0,
+        " into "
+      ],
+      [
+        1,
+        "evildoer"
+      ],
+      [
+        0,
+        " is a little mysterious, although it probably has to do with farmers not being chivalrous, like the knights who were so admired in those days."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "A "
+      ],
+      [
+        1,
+        "villain"
+      ],
+      [
+        0,
+        " is a bad person \u2014 real or made up. In books, movies, current events, or history, the "
+      ],
+      [
+        1,
+        "villain"
+      ],
+      [
+        0,
+        " is the character who does mean, evil things on purpose."
+      ]
+    ],
+    "short": "A villain is a bad person \u2014 real or made up. In books, movies, current events, or history, the villain is the character who does mean, evil things on purpose.",
+    "url": "https://www.vocabulary.com/dictionary/villain",
+    "word": "villain"
   }
 }
