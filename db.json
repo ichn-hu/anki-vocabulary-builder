@@ -2587,6 +2587,47 @@
     "url": "https://www.vocabulary.com/dictionary/pedant",
     "word": "pedant"
   },
+  "plethora": {
+    "audio_url": "https://audio.vocab.com/1.0/us/P/1HEDW68S3BKP9.mp3",
+    "colored_long": "\u001b[31mPlethora\u001b[0m comes from the Greek for \"fullness.\" Although it was originally used only in old-fashioned medicine to describe the condition of having too much blood, we use it to talk about any excessive supply.  If you run a theater and all the seats are taken, that's a full house. But if the seats are full and people are standing in the aisles, you have a plethora of patrons. The stress is on the first syllable: PLETH-uh-ruh.",
+    "colored_short": "\u001b[31mPlethora\u001b[0m means an abundance or excess of something. If you have 15 different people who want to take you on a date, you have a \u001b[31mplethora\u001b[0m of romantic possibilities.",
+    "has_audio": true,
+    "long": "Plethora comes from the Greek for \"fullness.\" Although it was originally used only in old-fashioned medicine to describe the condition of having too much blood, we use it to talk about any excessive supply.  If you run a theater and all the seats are taken, that's a full house. But if the seats are full and people are standing in the aisles, you have a plethora of patrons. The stress is on the first syllable: PLETH-uh-ruh.",
+    "masked_long": "[...] comes from the Greek for \"fullness.\" Although it was originally used only in old-fashioned medicine to describe the condition of having too much blood, we use it to talk about any excessive supply.  If you run a theater and all the seats are taken, that's a full house. But if the seats are full and people are standing in the aisles, you have a plethora of patrons. The stress is on the first syllable: PLETH-uh-ruh.",
+    "masked_short": "[...] means an abundance or excess of something. If you have 15 different people who want to take you on a date, you have a [...] of romantic possibilities.",
+    "query_time": 1563818831.212671,
+    "raw_long": [
+      [
+        1,
+        "Plethora"
+      ],
+      [
+        0,
+        " comes from the Greek for \"fullness.\" Although it was originally used only in old-fashioned medicine to describe the condition of having too much blood, we use it to talk about any excessive supply.  If you run a theater and all the seats are taken, that's a full house. But if the seats are full and people are standing in the aisles, you have a plethora of patrons. The stress is on the first syllable: PLETH-uh-ruh."
+      ]
+    ],
+    "raw_short": [
+      [
+        1,
+        "Plethora"
+      ],
+      [
+        0,
+        " means an abundance or excess of something. If you have 15 different people who want to take you on a date, you have a "
+      ],
+      [
+        1,
+        "plethora"
+      ],
+      [
+        0,
+        " of romantic possibilities."
+      ]
+    ],
+    "short": "Plethora means an abundance or excess of something. If you have 15 different people who want to take you on a date, you have a plethora of romantic possibilities.",
+    "url": "https://www.vocabulary.com/dictionary/plethora",
+    "word": "plethora"
+  },
   "prosaic": {
     "audio_url": "https://audio.vocab.com/1.0/us/P/1WWWTCMQSRB1Y.mp3",
     "colored_long": "This adjective is from Latin \u001b[31mprosa\u001b[0m \"prose,\" which is ordinary writing intended to communicate ideas and information. \u001b[31mProse\u001b[0m is often contrasted with poetry, which usually has a more imaginative and original style.",
