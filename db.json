@@ -422,6 +422,91 @@
     "url": "https://www.vocabulary.com/dictionary/anathematize",
     "word": "anathematize"
   },
+  "arable": {
+    "audio_url": "https://audio.vocab.com/1.0/us/A/U6V2WSDTZTQ8.mp3",
+    "colored_long": "\u001b[31mArable\u001b[0m has its Latin roots in the word \u001b[31marare\u001b[0m, which means \"to plow.\" Arable soil is ground that can be plowed and cultivated. Chances are \u2014 if you are using the word \u001b[31marable\u001b[0m, then either the word \u001b[31mland\u001b[0m or the word \u001b[31msoil\u001b[0m is following it; however, you might also see the phrase \"\u001b[31marable\u001b[0m crops\" \u2014 meaning those crops that are able to be grown on arable land.",
+    "colored_short": "If you describe land as \u001b[31marable\u001b[0m, it means that something can grow there. If you're looking to raise crops, you better find yourself a patch of \u001b[31marable\u001b[0m land.",
+    "has_audio": true,
+    "long": "Arable has its Latin roots in the word arare, which means \"to plow.\" Arable soil is ground that can be plowed and cultivated. Chances are \u2014 if you are using the word arable, then either the word land or the word soil is following it; however, you might also see the phrase \"arable crops\" \u2014 meaning those crops that are able to be grown on arable land.",
+    "masked_long": "[...] has its Latin roots in the word [...], which means \"to plow.\" Arable soil is ground that can be plowed and cultivated. Chances are \u2014 if you are using the word [...], then either the word [...] or the word [...] is following it; however, you might also see the phrase \"[...] crops\" \u2014 meaning those crops that are able to be grown on arable land.",
+    "masked_short": "If you describe land as [...], it means that something can grow there. If you're looking to raise crops, you better find yourself a patch of [...] land.",
+    "query_time": 1564271155.3805113,
+    "raw_long": [
+      [
+        1,
+        "Arable"
+      ],
+      [
+        0,
+        " has its Latin roots in the word "
+      ],
+      [
+        1,
+        "arare"
+      ],
+      [
+        0,
+        ", which means \"to plow.\" Arable soil is ground that can be plowed and cultivated. Chances are \u2014 if you are using the word "
+      ],
+      [
+        1,
+        "arable"
+      ],
+      [
+        0,
+        ", then either the word "
+      ],
+      [
+        1,
+        "land"
+      ],
+      [
+        0,
+        " or the word "
+      ],
+      [
+        1,
+        "soil"
+      ],
+      [
+        0,
+        " is following it; however, you might also see the phrase \""
+      ],
+      [
+        1,
+        "arable"
+      ],
+      [
+        0,
+        " crops\" \u2014 meaning those crops that are able to be grown on arable land."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "If you describe land as "
+      ],
+      [
+        1,
+        "arable"
+      ],
+      [
+        0,
+        ", it means that something can grow there. If you're looking to raise crops, you better find yourself a patch of "
+      ],
+      [
+        1,
+        "arable"
+      ],
+      [
+        0,
+        " land."
+      ]
+    ],
+    "short": "If you describe land as arable, it means that something can grow there. If you're looking to raise crops, you better find yourself a patch of arable land.",
+    "url": "https://www.vocabulary.com/dictionary/arable",
+    "word": "arable"
+  },
   "ascertain": {
     "audio_url": "https://audio.vocab.com/1.0/us/A/1N5LYF5M0TM9Q.mp3",
     "colored_long": "This is a formal word that often applies to discovering the facts or truth about something through examination or experimentation. Information that is \u001b[31mascertained\u001b[0m is certain beyond a doubt. If you want a less formal synonym, use \u001b[31mdiscover\u001b[0m.",
@@ -3595,6 +3680,59 @@
     "short": "A hose is a long plastic or rubber tube that's used for moving a liquid from one place to another. You may use a hose to water your lawn, or to get gas from the pump into your car's tank.  Don't use a hose to ingest liquids; use a glass instead.",
     "url": "https://www.vocabulary.com/dictionary/hose",
     "word": "hose"
+  },
+  "impeach": {
+    "audio_url": "https://audio.vocab.com/1.0/us/I/1JGBOK3AFEZUI.mp3",
+    "colored_long": "If you impeach a president, you charge him or her with a crime. Congress may vote to impeach a president, but being impeached is only the first step in removing an official from office. \u001b[31mImpeach\u001b[0m comes from the Latin \u001b[31mimpedicare\u001b[0m, meaning \"catch, entangle.\" To impeach also means to cast doubt on someone's character.  In a courtroom, a lawyer could impeach the credibility of a witness in order to discredit whatever that person said.",
+    "colored_short": "\u001b[31mImpeach\u001b[0m means to charge someone with doing something wrong, specifically a high government official, such as the U.S. president, a senator, or a federal judge. Fortunately, very few presidents have had the dishonor of being \u001b[31mimpeached\u001b[0m.",
+    "has_audio": true,
+    "long": "If you impeach a president, you charge him or her with a crime. Congress may vote to impeach a president, but being impeached is only the first step in removing an official from office. Impeach comes from the Latin impedicare, meaning \"catch, entangle.\" To impeach also means to cast doubt on someone's character.  In a courtroom, a lawyer could impeach the credibility of a witness in order to discredit whatever that person said.",
+    "masked_long": "If you impeach a president, you charge him or her with a crime. Congress may vote to impeach a president, but being impeached is only the first step in removing an official from office. [...] comes from the Latin [...], meaning \"catch, entangle.\" To impeach also means to cast doubt on someone's character.  In a courtroom, a lawyer could impeach the credibility of a witness in order to discredit whatever that person said.",
+    "masked_short": "[...] means to charge someone with doing something wrong, specifically a high government official, such as the U.S. president, a senator, or a federal judge. Fortunately, very few presidents have had the dishonor of being [...].",
+    "query_time": 1564271379.1234238,
+    "raw_long": [
+      [
+        0,
+        "If you impeach a president, you charge him or her with a crime. Congress may vote to impeach a president, but being impeached is only the first step in removing an official from office. "
+      ],
+      [
+        1,
+        "Impeach"
+      ],
+      [
+        0,
+        " comes from the Latin "
+      ],
+      [
+        1,
+        "impedicare"
+      ],
+      [
+        0,
+        ", meaning \"catch, entangle.\" To impeach also means to cast doubt on someone's character.  In a courtroom, a lawyer could impeach the credibility of a witness in order to discredit whatever that person said."
+      ]
+    ],
+    "raw_short": [
+      [
+        1,
+        "Impeach"
+      ],
+      [
+        0,
+        " means to charge someone with doing something wrong, specifically a high government official, such as the U.S. president, a senator, or a federal judge. Fortunately, very few presidents have had the dishonor of being "
+      ],
+      [
+        1,
+        "impeached"
+      ],
+      [
+        0,
+        "."
+      ]
+    ],
+    "short": "Impeach means to charge someone with doing something wrong, specifically a high government official, such as the U.S. president, a senator, or a federal judge. Fortunately, very few presidents have had the dishonor of being impeached.",
+    "url": "https://www.vocabulary.com/dictionary/impeach",
+    "word": "impeach"
   },
   "imperious": {
     "audio_url": "https://audio.vocab.com/1.0/us/I/17Y5J584U3JVL.mp3",
