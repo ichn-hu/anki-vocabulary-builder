@@ -483,6 +483,83 @@
     "url": "https://www.vocabulary.com/dictionary/anathematize",
     "word": "anathematize"
   },
+  "anise": {
+    "audio_url": "https://audio.vocab.com/1.0/us/A/I7E7BKAYMR76.mp3",
+    "colored_long": "The anise plant produces white flowers and small fruits or seeds. It's the seeds that are used, whole or ground, to flavor various foods \u00e2\u20ac\u201d in fact, anise is often referred to as \u001b[31maniseed\u001b[0m. \u001b[31mAnise\u001b[0m itself is an Old English word, from the 13th century Old French \u001b[31manis\u001b[0m and ultimately the Greek root \u001b[31manison\u001b[0m, which confusingly means both \u001b[31manise\u001b[0m and \"dill.\"",
+    "colored_short": "\u001b[31mAnise\u001b[0m is a plant that produces seeds that smell and taste like black licorice. Cookies, vegetables, and liqueurs can all be flavored with \u001b[31manise\u001b[0m.",
+    "has_audio": true,
+    "long": "The anise plant produces white flowers and small fruits or seeds. It's the seeds that are used, whole or ground, to flavor various foods \u00e2\u20ac\u201d in fact, anise is often referred to as aniseed. Anise itself is an Old English word, from the 13th century Old French anis and ultimately the Greek root anison, which confusingly means both anise and \"dill.\"",
+    "masked_long": "The anise plant produces white flowers and small fruits or seeds. It's the seeds that are used, whole or ground, to flavor various foods \u00e2\u20ac\u201d in fact, anise is often referred to as [...]. [...] itself is an Old English word, from the 13th century Old French [...] and ultimately the Greek root [...], which confusingly means both [...] and \"dill.\"",
+    "masked_short": "[...] is a plant that produces seeds that smell and taste like black licorice. Cookies, vegetables, and liqueurs can all be flavored with [...].",
+    "query_time": 1564653701.3877974,
+    "raw_long": [
+      [
+        0,
+        "The anise plant produces white flowers and small fruits or seeds. It's the seeds that are used, whole or ground, to flavor various foods \u00e2\u20ac\u201d in fact, anise is often referred to as "
+      ],
+      [
+        1,
+        "aniseed"
+      ],
+      [
+        0,
+        ". "
+      ],
+      [
+        1,
+        "Anise"
+      ],
+      [
+        0,
+        " itself is an Old English word, from the 13th century Old French "
+      ],
+      [
+        1,
+        "anis"
+      ],
+      [
+        0,
+        " and ultimately the Greek root "
+      ],
+      [
+        1,
+        "anison"
+      ],
+      [
+        0,
+        ", which confusingly means both "
+      ],
+      [
+        1,
+        "anise"
+      ],
+      [
+        0,
+        " and \"dill.\""
+      ]
+    ],
+    "raw_short": [
+      [
+        1,
+        "Anise"
+      ],
+      [
+        0,
+        " is a plant that produces seeds that smell and taste like black licorice. Cookies, vegetables, and liqueurs can all be flavored with "
+      ],
+      [
+        1,
+        "anise"
+      ],
+      [
+        0,
+        "."
+      ]
+    ],
+    "short": "Anise is a plant that produces seeds that smell and taste like black licorice. Cookies, vegetables, and liqueurs can all be flavored with anise.",
+    "url": "https://www.vocabulary.com/dictionary/anise",
+    "word": "anise"
+  },
   "arable": {
     "audio_url": "https://audio.vocab.com/1.0/us/A/U6V2WSDTZTQ8.mp3",
     "colored_long": "\u001b[31mArable\u001b[0m has its Latin roots in the word \u001b[31marare\u001b[0m, which means \"to plow.\" Arable soil is ground that can be plowed and cultivated. Chances are \u2014 if you are using the word \u001b[31marable\u001b[0m, then either the word \u001b[31mland\u001b[0m or the word \u001b[31msoil\u001b[0m is following it; however, you might also see the phrase \"\u001b[31marable\u001b[0m crops\" \u2014 meaning those crops that are able to be grown on arable land.",
@@ -5786,6 +5863,47 @@
     "url": "https://www.vocabulary.com/dictionary/leash",
     "word": "leash"
   },
+  "licorice": {
+    "audio_url": "https://audio.vocab.com/1.0/us/L/IPXWLL92HD5F.mp3",
+    "colored_long": "Licorice is a blue-flowered plant from the Mediterranean region. Its long roots are used to make candy also known as licorice. People have been eating licorice for so long that you can find people comparing sweet things to licorice as far back as the 1300's. The licorice plant is known for its blue flowers and compound leaves, though it's the long roots beneath the surface that are so delicious.",
+    "colored_short": "If you've ever had a long, sweet, chewy, black candy, you've probably had \u001b[31mlicorice\u001b[0m. This is a common type of candy made from the dried roots of the \u001b[31mlicorice\u001b[0m plant.",
+    "has_audio": true,
+    "long": "Licorice is a blue-flowered plant from the Mediterranean region. Its long roots are used to make candy also known as licorice. People have been eating licorice for so long that you can find people comparing sweet things to licorice as far back as the 1300's. The licorice plant is known for its blue flowers and compound leaves, though it's the long roots beneath the surface that are so delicious.",
+    "masked_long": "Licorice is a blue-flowered plant from the Mediterranean region. Its long roots are used to make candy also known as licorice. People have been eating licorice for so long that you can find people comparing sweet things to licorice as far back as the 1300's. The licorice plant is known for its blue flowers and compound leaves, though it's the long roots beneath the surface that are so delicious.",
+    "masked_short": "If you've ever had a long, sweet, chewy, black candy, you've probably had [...]. This is a common type of candy made from the dried roots of the [...] plant.",
+    "query_time": 1564653738.9733958,
+    "raw_long": [
+      [
+        0,
+        "Licorice is a blue-flowered plant from the Mediterranean region. Its long roots are used to make candy also known as licorice. People have been eating licorice for so long that you can find people comparing sweet things to licorice as far back as the 1300's. The licorice plant is known for its blue flowers and compound leaves, though it's the long roots beneath the surface that are so delicious."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "If you've ever had a long, sweet, chewy, black candy, you've probably had "
+      ],
+      [
+        1,
+        "licorice"
+      ],
+      [
+        0,
+        ". This is a common type of candy made from the dried roots of the "
+      ],
+      [
+        1,
+        "licorice"
+      ],
+      [
+        0,
+        " plant."
+      ]
+    ],
+    "short": "If you've ever had a long, sweet, chewy, black candy, you've probably had licorice. This is a common type of candy made from the dried roots of the licorice plant.",
+    "url": "https://www.vocabulary.com/dictionary/licorice",
+    "word": "licorice"
+  },
   "lugubrious": {
     "audio_url": "https://audio.vocab.com/1.0/us/L/BXCS002B92L1.mp3",
     "colored_long": "\u001b[31mLugubrious\u001b[0m comes from the Latin verb \u001b[31ml\u016bg\u0113re\u001b[0m, \"to mourn.\" You can also listen to the sound of the word: \u001b[31mlugubrious\u001b[0m sounds slow, heavy, and sad. Sometimes, just the \"feel\" of a word is enough to clue you in to its meaning, and \u001b[31mlugubrious\u001b[0m is one of those words. I was feeling great when I got to the concert, but the lugubrious music left me in a terrible mood.",
@@ -9112,6 +9230,55 @@
     "short": "A tidbit is a small amount of something delicious. You might have a tidbit to tide you over between lunch and dinner.",
     "url": "https://www.vocabulary.com/dictionary/tidbit",
     "word": "tidbit"
+  },
+  "toddler": {
+    "audio_url": "https://audio.vocab.com/1.0/us/T/1LYUJ40UH4SZ1.mp3",
+    "colored_long": "A toddler is older than a baby but not quite old enough for elementary school. It's the time in a child's life when she reaches all kinds of milestones: walking, talking, playing with other kids, and more. The word \u001b[31mtoddler\u001b[0m was first used in 1793, and it developed out of the Scottish word \u001b[31mtoddle\u001b[0m, or \"to run or walk with short, unsteady steps.\"",
+    "colored_short": "Use the noun \u001b[31mtoddler\u001b[0m to describe a small child who is just learning how to walk.",
+    "has_audio": true,
+    "long": "A toddler is older than a baby but not quite old enough for elementary school. It's the time in a child's life when she reaches all kinds of milestones: walking, talking, playing with other kids, and more. The word toddler was first used in 1793, and it developed out of the Scottish word toddle, or \"to run or walk with short, unsteady steps.\"",
+    "masked_long": "A toddler is older than a baby but not quite old enough for elementary school. It's the time in a child's life when she reaches all kinds of milestones: walking, talking, playing with other kids, and more. The word [...] was first used in 1793, and it developed out of the Scottish word [...], or \"to run or walk with short, unsteady steps.\"",
+    "masked_short": "Use the noun [...] to describe a small child who is just learning how to walk.",
+    "query_time": 1564655238.417461,
+    "raw_long": [
+      [
+        0,
+        "A toddler is older than a baby but not quite old enough for elementary school. It's the time in a child's life when she reaches all kinds of milestones: walking, talking, playing with other kids, and more. The word "
+      ],
+      [
+        1,
+        "toddler"
+      ],
+      [
+        0,
+        " was first used in 1793, and it developed out of the Scottish word "
+      ],
+      [
+        1,
+        "toddle"
+      ],
+      [
+        0,
+        ", or \"to run or walk with short, unsteady steps.\""
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "Use the noun "
+      ],
+      [
+        1,
+        "toddler"
+      ],
+      [
+        0,
+        " to describe a small child who is just learning how to walk."
+      ]
+    ],
+    "short": "Use the noun toddler to describe a small child who is just learning how to walk.",
+    "url": "https://www.vocabulary.com/dictionary/toddler",
+    "word": "toddler"
   },
   "transitory": {
     "audio_url": "https://audio.vocab.com/1.0/us/T/H3L4LU1CTDQH.mp3",
