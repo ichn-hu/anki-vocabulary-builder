@@ -560,6 +560,71 @@
     "url": "https://www.vocabulary.com/dictionary/anise",
     "word": "anise"
   },
+  "appurtenant": {
+    "audio_url": "https://audio.vocab.com/1.0/us/A/CX59RY7VEGPG.mp3",
+    "colored_long": "The adjective \u001b[31mappurtenant\u001b[0m sounds similar to \u001b[31mpertinent\u001b[0m, and you can use the two words in the same way, to show that something relates or belongs to something else. \u001b[31mAppurtenant\u001b[0m shows up a lot in scholarly writing, in situations like a building addition that fits, or is appurtenant to the original structure, or a legal decision about whether a claim of discrimination is appurtenant to a particular law.",
+    "colored_short": "Something that is \u001b[31mappurtenant\u001b[0m helps or supports something else. Good physical health is \u001b[31mappurtenant\u001b[0m to mental well-being.",
+    "has_audio": true,
+    "long": "The adjective appurtenant sounds similar to pertinent, and you can use the two words in the same way, to show that something relates or belongs to something else. Appurtenant shows up a lot in scholarly writing, in situations like a building addition that fits, or is appurtenant to the original structure, or a legal decision about whether a claim of discrimination is appurtenant to a particular law.",
+    "masked_long": "The adjective [...] sounds similar to [...], and you can use the two words in the same way, to show that something relates or belongs to something else. [...] shows up a lot in scholarly writing, in situations like a building addition that fits, or is appurtenant to the original structure, or a legal decision about whether a claim of discrimination is appurtenant to a particular law.",
+    "masked_short": "Something that is [...] helps or supports something else. Good physical health is [...] to mental well-being.",
+    "query_time": 1565110996.1872594,
+    "raw_long": [
+      [
+        0,
+        "The adjective "
+      ],
+      [
+        1,
+        "appurtenant"
+      ],
+      [
+        0,
+        " sounds similar to "
+      ],
+      [
+        1,
+        "pertinent"
+      ],
+      [
+        0,
+        ", and you can use the two words in the same way, to show that something relates or belongs to something else. "
+      ],
+      [
+        1,
+        "Appurtenant"
+      ],
+      [
+        0,
+        " shows up a lot in scholarly writing, in situations like a building addition that fits, or is appurtenant to the original structure, or a legal decision about whether a claim of discrimination is appurtenant to a particular law."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "Something that is "
+      ],
+      [
+        1,
+        "appurtenant"
+      ],
+      [
+        0,
+        " helps or supports something else. Good physical health is "
+      ],
+      [
+        1,
+        "appurtenant"
+      ],
+      [
+        0,
+        " to mental well-being."
+      ]
+    ],
+    "short": "Something that is appurtenant helps or supports something else. Good physical health is appurtenant to mental well-being.",
+    "url": "https://www.vocabulary.com/dictionary/appurtenant",
+    "word": "appurtenant"
+  },
   "arable": {
     "audio_url": "https://audio.vocab.com/1.0/us/A/U6V2WSDTZTQ8.mp3",
     "colored_long": "\u001b[31mArable\u001b[0m has its Latin roots in the word \u001b[31marare\u001b[0m, which means \"to plow.\" Arable soil is ground that can be plowed and cultivated. Chances are \u2014 if you are using the word \u001b[31marable\u001b[0m, then either the word \u001b[31mland\u001b[0m or the word \u001b[31msoil\u001b[0m is following it; however, you might also see the phrase \"\u001b[31marable\u001b[0m crops\" \u2014 meaning those crops that are able to be grown on arable land.",
@@ -978,6 +1043,63 @@
     "url": "https://www.vocabulary.com/dictionary/austere",
     "word": "austere"
   },
+  "ballad": {
+    "audio_url": "https://audio.vocab.com/1.0/us/B/1C6QA4DZFLAEY.mp3",
+    "colored_long": "The ballad is an old musical form. Ballads are often by anonymous composers, passed down from generation to generation. You may know \u00e2\u20ac\u0153The Ballad of Jesse James,\" about the notorious bank robber, which dates from the 1880s and has been recorded by everybody from Woody Guthrie to Springsteen. A ballad can also be a slow, romantic song, the kind of thing crooners like Johnny Mathis and Bing Crosby made famous. The word \u001b[31mballad\u001b[0m comes from medieval French \u001b[31mbalade,\u001b[0m a dancing song.",
+    "colored_short": "A \u001b[31mballad\u001b[0m is a song that tells a story, and it can be dramatic, funny, or romantic. You can find \u001b[31mballads\u001b[0m in a variety of musical styles, from country-western to rock n' roll.",
+    "has_audio": true,
+    "long": "The ballad is an old musical form. Ballads are often by anonymous composers, passed down from generation to generation. You may know \u00e2\u20ac\u0153The Ballad of Jesse James,\" about the notorious bank robber, which dates from the 1880s and has been recorded by everybody from Woody Guthrie to Springsteen. A ballad can also be a slow, romantic song, the kind of thing crooners like Johnny Mathis and Bing Crosby made famous. The word ballad comes from medieval French balade, a dancing song.",
+    "masked_long": "The ballad is an old musical form. Ballads are often by anonymous composers, passed down from generation to generation. You may know \u00e2\u20ac\u0153The Ballad of Jesse James,\" about the notorious bank robber, which dates from the 1880s and has been recorded by everybody from Woody Guthrie to Springsteen. A ballad can also be a slow, romantic song, the kind of thing crooners like Johnny Mathis and Bing Crosby made famous. The word [...] comes from medieval French [...] a dancing song.",
+    "masked_short": "A [...] is a song that tells a story, and it can be dramatic, funny, or romantic. You can find [...] in a variety of musical styles, from country-western to rock n' roll.",
+    "query_time": 1565110973.86501,
+    "raw_long": [
+      [
+        0,
+        "The ballad is an old musical form. Ballads are often by anonymous composers, passed down from generation to generation. You may know \u00e2\u20ac\u0153The Ballad of Jesse James,\" about the notorious bank robber, which dates from the 1880s and has been recorded by everybody from Woody Guthrie to Springsteen. A ballad can also be a slow, romantic song, the kind of thing crooners like Johnny Mathis and Bing Crosby made famous. The word "
+      ],
+      [
+        1,
+        "ballad"
+      ],
+      [
+        0,
+        " comes from medieval French "
+      ],
+      [
+        1,
+        "balade,"
+      ],
+      [
+        0,
+        " a dancing song."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "A "
+      ],
+      [
+        1,
+        "ballad"
+      ],
+      [
+        0,
+        " is a song that tells a story, and it can be dramatic, funny, or romantic. You can find "
+      ],
+      [
+        1,
+        "ballads"
+      ],
+      [
+        0,
+        " in a variety of musical styles, from country-western to rock n' roll."
+      ]
+    ],
+    "short": "A ballad is a song that tells a story, and it can be dramatic, funny, or romantic. You can find ballads in a variety of musical styles, from country-western to rock n' roll.",
+    "url": "https://www.vocabulary.com/dictionary/ballad",
+    "word": "ballad"
+  },
   "belligerent": {
     "audio_url": "https://audio.vocab.com/1.0/us/B/1PKQ9FE704GQ6.mp3",
     "colored_long": "\u001b[31mBelligerent\u001b[0m comes from the Latin word \u001b[31mbellum\u001b[0m, for \"war.\" You can use it to talk about actual wars \u2014 the nations taking part in a war are called \u001b[31mbelligerents\u001b[0m \u2014 but usually \u001b[31mbelligerent\u001b[0m describes a psychological disposition. If you're running a school for aggressive boys, do plenty of arts and crafts to prevent them from becoming too belligerent. The stress is on the second syllable: b\u0259-LIJ-\u0259-r\u0259nt.",
@@ -1345,6 +1467,75 @@
     "url": "https://www.vocabulary.com/dictionary/bolster",
     "word": "bolster"
   },
+  "bombast": {
+    "audio_url": "https://audio.vocab.com/1.0/us/B/LRHC56O278TC.mp3",
+    "colored_long": "Originally, \u001b[31mbombast\u001b[0m was cotton padding used to stuff or pad things like seat cushions. The meaning was extended to include padded and overstuffed speaking or writing, especially speech that's pretentious and showy. Other words with \u001b[31mbombast\u001b[0m at their roots include the adjective \u001b[31mbombastic\u001b[0m and the adverb \u001b[31mbombastically\u001b[0m. For all your coach's bluster and bombast, he's a pretty nice guy \u00e2\u20ac\u201d too bad his overblown rhetoric turns people off before they get to know him.",
+    "colored_short": "\u001b[31mBombast\u001b[0m is a noun meaning pretentious or boastful talk. If your football coach is known for his \u001b[31mbombast\u001b[0m, he probably gives a pompous speech before each game about the greatness of the team and, of course, his coaching.",
+    "has_audio": true,
+    "long": "Originally, bombast was cotton padding used to stuff or pad things like seat cushions. The meaning was extended to include padded and overstuffed speaking or writing, especially speech that's pretentious and showy. Other words with bombast at their roots include the adjective bombastic and the adverb bombastically. For all your coach's bluster and bombast, he's a pretty nice guy \u00e2\u20ac\u201d too bad his overblown rhetoric turns people off before they get to know him.",
+    "masked_long": "Originally, [...] was cotton padding used to stuff or pad things like seat cushions. The meaning was extended to include padded and overstuffed speaking or writing, especially speech that's pretentious and showy. Other words with [...] at their roots include the adjective [...] and the adverb [...]. For all your coach's bluster and bombast, he's a pretty nice guy \u00e2\u20ac\u201d too bad his overblown rhetoric turns people off before they get to know him.",
+    "masked_short": "[...] is a noun meaning pretentious or boastful talk. If your football coach is known for his [...], he probably gives a pompous speech before each game about the greatness of the team and, of course, his coaching.",
+    "query_time": 1565110923.974113,
+    "raw_long": [
+      [
+        0,
+        "Originally, "
+      ],
+      [
+        1,
+        "bombast"
+      ],
+      [
+        0,
+        " was cotton padding used to stuff or pad things like seat cushions. The meaning was extended to include padded and overstuffed speaking or writing, especially speech that's pretentious and showy. Other words with "
+      ],
+      [
+        1,
+        "bombast"
+      ],
+      [
+        0,
+        " at their roots include the adjective "
+      ],
+      [
+        1,
+        "bombastic"
+      ],
+      [
+        0,
+        " and the adverb "
+      ],
+      [
+        1,
+        "bombastically"
+      ],
+      [
+        0,
+        ". For all your coach's bluster and bombast, he's a pretty nice guy \u00e2\u20ac\u201d too bad his overblown rhetoric turns people off before they get to know him."
+      ]
+    ],
+    "raw_short": [
+      [
+        1,
+        "Bombast"
+      ],
+      [
+        0,
+        " is a noun meaning pretentious or boastful talk. If your football coach is known for his "
+      ],
+      [
+        1,
+        "bombast"
+      ],
+      [
+        0,
+        ", he probably gives a pompous speech before each game about the greatness of the team and, of course, his coaching."
+      ]
+    ],
+    "short": "Bombast is a noun meaning pretentious or boastful talk. If your football coach is known for his bombast, he probably gives a pompous speech before each game about the greatness of the team and, of course, his coaching.",
+    "url": "https://www.vocabulary.com/dictionary/bombast",
+    "word": "bombast"
+  },
   "budding": {
     "audio_url": "https://audio.vocab.com/1.0/us/B/S7B2NINFR0K9.mp3",
     "colored_long": "When a tree or flower is budding, it's showing signs of the branches and blossoms that will soon appear. The same is true of a person who's described as \u001b[31mbudding\u001b[0m \u00e2\u20ac\u201d if you're a budding filmmaker, you're new at making movies but already show great promise. \u001b[31mBudding\u001b[0m most likely comes from the Old French \u001b[31mboter\u001b[0m, \"push forward or thrust.\"",
@@ -1528,6 +1719,181 @@
     "url": "https://www.vocabulary.com/dictionary/cajole?family=cajoling",
     "word": "cajoling"
   },
+  "captivate": {
+    "audio_url": "https://audio.vocab.com/1.0/us/C/1BEBEAJDPBALA.mp3",
+    "colored_long": "Notice the similarity between the verbs \u001b[31mcaptivate\u001b[0m and \u001b[31mcapture\u001b[0m. Both come ultimately from the Latin \u001b[31mcaptus\u001b[0m \"taken captive.\" Still, while both words mean some sort of hold on someone, \u001b[31mcapture\u001b[0m sounds harsh, as though a trap has been set, while \u001b[31mcaptivate\u001b[0m is a softer, more attractive word that suggests there might be a willingness to be caught. Robert S. McNamara, a former U.S. secretary of defense, said, \"Coercion, after all, merely captures man. Freedom captivates him.\u201d",
+    "colored_short": "To \u001b[31mcaptivate\u001b[0m means to attract others, fascinating or enchanting them. Some people are able to \u001b[31mcaptivate\u001b[0m with wit and charm, others with physical beauty, still others with intelligence.",
+    "has_audio": true,
+    "long": "Notice the similarity between the verbs captivate and capture. Both come ultimately from the Latin captus \"taken captive.\" Still, while both words mean some sort of hold on someone, capture sounds harsh, as though a trap has been set, while captivate is a softer, more attractive word that suggests there might be a willingness to be caught. Robert S. McNamara, a former U.S. secretary of defense, said, \"Coercion, after all, merely captures man. Freedom captivates him.\u201d",
+    "masked_long": "Notice the similarity between the verbs [...] and [...]. Both come ultimately from the Latin [...] \"taken captive.\" Still, while both words mean some sort of hold on someone, [...] sounds harsh, as though a trap has been set, while [...] is a softer, more attractive word that suggests there might be a willingness to be caught. Robert S. McNamara, a former U.S. secretary of defense, said, \"Coercion, after all, merely captures man. Freedom captivates him.\u201d",
+    "masked_short": "To [...] means to attract others, fascinating or enchanting them. Some people are able to [...] with wit and charm, others with physical beauty, still others with intelligence.",
+    "query_time": 1565110601.9172797,
+    "raw_long": [
+      [
+        0,
+        "Notice the similarity between the verbs "
+      ],
+      [
+        1,
+        "captivate"
+      ],
+      [
+        0,
+        " and "
+      ],
+      [
+        1,
+        "capture"
+      ],
+      [
+        0,
+        ". Both come ultimately from the Latin "
+      ],
+      [
+        1,
+        "captus"
+      ],
+      [
+        0,
+        " \"taken captive.\" Still, while both words mean some sort of hold on someone, "
+      ],
+      [
+        1,
+        "capture"
+      ],
+      [
+        0,
+        " sounds harsh, as though a trap has been set, while "
+      ],
+      [
+        1,
+        "captivate"
+      ],
+      [
+        0,
+        " is a softer, more attractive word that suggests there might be a willingness to be caught. Robert S. McNamara, a former U.S. secretary of defense, said, \"Coercion, after all, merely captures man. Freedom captivates him.\u201d"
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "To "
+      ],
+      [
+        1,
+        "captivate"
+      ],
+      [
+        0,
+        " means to attract others, fascinating or enchanting them. Some people are able to "
+      ],
+      [
+        1,
+        "captivate"
+      ],
+      [
+        0,
+        " with wit and charm, others with physical beauty, still others with intelligence."
+      ]
+    ],
+    "short": "To captivate means to attract others, fascinating or enchanting them. Some people are able to captivate with wit and charm, others with physical beauty, still others with intelligence.",
+    "url": "https://www.vocabulary.com/dictionary/captivate",
+    "word": "captivate"
+  },
+  "cogent": {
+    "audio_url": "https://audio.vocab.com/1.0/us/C/MJ91CVF1LY8V.mp3",
+    "colored_long": "\u001b[31mCogent\u001b[0m comes from a Latin word meaning to drive together, so cogent thinking is well-organized: it hangs together. If you try to convince your mayor to build a new park by saying that playgrounds are good, seeing the sky is nice, and raccoons are cool\u2026well that\u2019s not a cogent argument; it\u2019s just random. But you could cogently argue that parks contribute to civic happiness by providing space for exercise, community, and encounters with nature.",
+    "colored_short": "When you make a \u001b[31mcogent\u001b[0m argument, it means your argument is clear and persuasive. In these days of 24-hour entertainment news and sound-bite sized explanations of complex government policy, it\u2019s hard to find a \u001b[31mcogent\u001b[0m argument amidst all the emotional outbursts.",
+    "has_audio": true,
+    "long": "Cogent comes from a Latin word meaning to drive together, so cogent thinking is well-organized: it hangs together. If you try to convince your mayor to build a new park by saying that playgrounds are good, seeing the sky is nice, and raccoons are cool\u2026well that\u2019s not a cogent argument; it\u2019s just random. But you could cogently argue that parks contribute to civic happiness by providing space for exercise, community, and encounters with nature.",
+    "masked_long": "[...] comes from a Latin word meaning to drive together, so cogent thinking is well-organized: it hangs together. If you try to convince your mayor to build a new park by saying that playgrounds are good, seeing the sky is nice, and raccoons are cool\u2026well that\u2019s not a cogent argument; it\u2019s just random. But you could cogently argue that parks contribute to civic happiness by providing space for exercise, community, and encounters with nature.",
+    "masked_short": "When you make a [...] argument, it means your argument is clear and persuasive. In these days of 24-hour entertainment news and sound-bite sized explanations of complex government policy, it\u2019s hard to find a [...] argument amidst all the emotional outbursts.",
+    "query_time": 1565110767.1085951,
+    "raw_long": [
+      [
+        1,
+        "Cogent"
+      ],
+      [
+        0,
+        " comes from a Latin word meaning to drive together, so cogent thinking is well-organized: it hangs together. If you try to convince your mayor to build a new park by saying that playgrounds are good, seeing the sky is nice, and raccoons are cool\u2026well that\u2019s not a cogent argument; it\u2019s just random. But you could cogently argue that parks contribute to civic happiness by providing space for exercise, community, and encounters with nature."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "When you make a "
+      ],
+      [
+        1,
+        "cogent"
+      ],
+      [
+        0,
+        " argument, it means your argument is clear and persuasive. In these days of 24-hour entertainment news and sound-bite sized explanations of complex government policy, it\u2019s hard to find a "
+      ],
+      [
+        1,
+        "cogent"
+      ],
+      [
+        0,
+        " argument amidst all the emotional outbursts."
+      ]
+    ],
+    "short": "When you make a cogent argument, it means your argument is clear and persuasive. In these days of 24-hour entertainment news and sound-bite sized explanations of complex government policy, it\u2019s hard to find a cogent argument amidst all the emotional outbursts.",
+    "url": "https://www.vocabulary.com/dictionary/cogent",
+    "word": "cogent"
+  },
+  "complicity": {
+    "audio_url": "https://audio.vocab.com/1.0/us/C/OOQI96D8XVNC.mp3",
+    "colored_long": "\u001b[31mComplicity\u001b[0m refers to the act of helping someone else behave inappropriately or illegally. If you find yourself accused of \u001b[31mcomplicity\u001b[0m, it's often helpful to show that you were unaware of the other person's intentions. In the case of the trip to the fast food restaurant, that's going to be hard to prove. You'll probably be scorned for being an \u001b[31maccomplice\u001b[0m, or someone who is complicit, in your friend's shameful act.",
+    "colored_short": "\u001b[31mComplicity\u001b[0m is involvement in a wrongful act \u2014 like when you drove your newly-turned-vegetarian friend to a fast food joint so that she could scarf down a hamburger.",
+    "has_audio": true,
+    "long": "Complicity refers to the act of helping someone else behave inappropriately or illegally. If you find yourself accused of complicity, it's often helpful to show that you were unaware of the other person's intentions. In the case of the trip to the fast food restaurant, that's going to be hard to prove. You'll probably be scorned for being an accomplice, or someone who is complicit, in your friend's shameful act.",
+    "masked_long": "[...] refers to the act of helping someone else behave inappropriately or illegally. If you find yourself accused of [...], it's often helpful to show that you were unaware of the other person's intentions. In the case of the trip to the fast food restaurant, that's going to be hard to prove. You'll probably be scorned for being an [...], or someone who is complicit, in your friend's shameful act.",
+    "masked_short": "[...] is involvement in a wrongful act \u2014 like when you drove your newly-turned-vegetarian friend to a fast food joint so that she could scarf down a hamburger.",
+    "query_time": 1565110899.467749,
+    "raw_long": [
+      [
+        1,
+        "Complicity"
+      ],
+      [
+        0,
+        " refers to the act of helping someone else behave inappropriately or illegally. If you find yourself accused of "
+      ],
+      [
+        1,
+        "complicity"
+      ],
+      [
+        0,
+        ", it's often helpful to show that you were unaware of the other person's intentions. In the case of the trip to the fast food restaurant, that's going to be hard to prove. You'll probably be scorned for being an "
+      ],
+      [
+        1,
+        "accomplice"
+      ],
+      [
+        0,
+        ", or someone who is complicit, in your friend's shameful act."
+      ]
+    ],
+    "raw_short": [
+      [
+        1,
+        "Complicity"
+      ],
+      [
+        0,
+        " is involvement in a wrongful act \u2014 like when you drove your newly-turned-vegetarian friend to a fast food joint so that she could scarf down a hamburger."
+      ]
+    ],
+    "short": "Complicity is involvement in a wrongful act \u2014 like when you drove your newly-turned-vegetarian friend to a fast food joint so that she could scarf down a hamburger.",
+    "url": "https://www.vocabulary.com/dictionary/complicity",
+    "word": "complicity"
+  },
   "comportment": {
     "audio_url": "https://audio.vocab.com/1.0/us/C/1Q3X702DAG2I9.mp3",
     "colored_long": "You can use the noun \u001b[31mcomportment\u001b[0m to describe both the way a person behaves and also the way he carries himself \u00e2\u20ac\u201d his general manner. A queen's comportment is usually regal, a bit stiff, and dignified. The comportment of a bunch of little kids at an amusement park is very different. The Middle French root is \u001b[31mcomportement\u001b[0m, \"bearing or behavior,\" from the Latin \u001b[31mcomportare\u001b[0m, \"to bring together or collect.\"",
@@ -1593,6 +1959,59 @@
     "url": "https://www.vocabulary.com/dictionary/comportment",
     "word": "comportment"
   },
+  "concord": {
+    "audio_url": "https://audio.vocab.com/1.0/us/C/18MDJ5TYHDWRA.mp3",
+    "colored_long": "\u001b[31mConcord\u001b[0m can be used as a verb meaning \"to arrange by agreement,\" but this usage is rare. Much more common is \u001b[31mconcord\u001b[0m used as a noun. The United Nations could work tirelessly to establish a concord between warring nations, or you might even work to establish a concord among the warring factions on your cheerleading team. A concord brings peace and harmony \u00e2\u20ac\u201d just like a peace treaty.",
+    "colored_short": "A \u001b[31mconcord\u001b[0m is an agreement. If you want to watch a romantic comedy and your date wants to watch a horror film, you might compromise and come to a \u001b[31mconcord\u001b[0m by agreeing to watch an action comedy.",
+    "has_audio": true,
+    "long": "Concord can be used as a verb meaning \"to arrange by agreement,\" but this usage is rare. Much more common is concord used as a noun. The United Nations could work tirelessly to establish a concord between warring nations, or you might even work to establish a concord among the warring factions on your cheerleading team. A concord brings peace and harmony \u00e2\u20ac\u201d just like a peace treaty.",
+    "masked_long": "[...] can be used as a verb meaning \"to arrange by agreement,\" but this usage is rare. Much more common is [...] used as a noun. The United Nations could work tirelessly to establish a concord between warring nations, or you might even work to establish a concord among the warring factions on your cheerleading team. A concord brings peace and harmony \u00e2\u20ac\u201d just like a peace treaty.",
+    "masked_short": "A [...] is an agreement. If you want to watch a romantic comedy and your date wants to watch a horror film, you might compromise and come to a [...] by agreeing to watch an action comedy.",
+    "query_time": 1565110636.665006,
+    "raw_long": [
+      [
+        1,
+        "Concord"
+      ],
+      [
+        0,
+        " can be used as a verb meaning \"to arrange by agreement,\" but this usage is rare. Much more common is "
+      ],
+      [
+        1,
+        "concord"
+      ],
+      [
+        0,
+        " used as a noun. The United Nations could work tirelessly to establish a concord between warring nations, or you might even work to establish a concord among the warring factions on your cheerleading team. A concord brings peace and harmony \u00e2\u20ac\u201d just like a peace treaty."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "A "
+      ],
+      [
+        1,
+        "concord"
+      ],
+      [
+        0,
+        " is an agreement. If you want to watch a romantic comedy and your date wants to watch a horror film, you might compromise and come to a "
+      ],
+      [
+        1,
+        "concord"
+      ],
+      [
+        0,
+        " by agreeing to watch an action comedy."
+      ]
+    ],
+    "short": "A concord is an agreement. If you want to watch a romantic comedy and your date wants to watch a horror film, you might compromise and come to a concord by agreeing to watch an action comedy.",
+    "url": "https://www.vocabulary.com/dictionary/concord",
+    "word": "concord"
+  },
   "condone": {
     "audio_url": "https://audio.vocab.com/1.0/us/C/1VCCJU31ZS4TQ.mp3",
     "colored_long": "Things that are condoned are allowed, even if everyone isn't exactly thrilled about it. People often say, \"I don't \u001b[31mcondone\u001b[0m what he did, but I understand it.\" Condoning is like excusing something. People seem to talk more about things they don't condone than things they do condone. Your mom might say, \"I don't \u001b[31mcondone\u001b[0m you staying up till 10, but I know you need to read.\" That's a way of giving approval and not giving approval at the same time.",
@@ -1649,6 +2068,201 @@
     "short": "If you condone something, you allow it, approve of it, or at least can live with it. Some teachers condone chewing gum, and some don't.",
     "url": "https://www.vocabulary.com/dictionary/condone",
     "word": "condone"
+  },
+  "confidant": {
+    "audio_url": "https://audio.vocab.com/1.0/us/C/1LX61S1H6L8TY.mp3",
+    "colored_long": "\u001b[31mConfidants\u001b[0m are people you trust enough to tell anything, like that you cried during \"The Muppet Movie.\" They might give advice, too. The President has lots of confidants in his inner circle who not only know all about secret government issues, but also give their opinions about what actions he should take. Make sure to spell the word with the \u001b[31mant\u001b[0m ending, because \u001b[31mconfident\u001b[0m means something else. Think of confiding in your \u001b[31maunt\u001b[0m, your confidANT.",
+    "colored_short": "A \u001b[31mconfidant\u001b[0m is the person you tell your secrets to. Your \u001b[31mconfidant\u001b[0m has all the dirt on you, so don't forget his birthday or he might start talking...",
+    "has_audio": true,
+    "long": "Confidants are people you trust enough to tell anything, like that you cried during \"The Muppet Movie.\" They might give advice, too. The President has lots of confidants in his inner circle who not only know all about secret government issues, but also give their opinions about what actions he should take. Make sure to spell the word with the ant ending, because confident means something else. Think of confiding in your aunt, your confidANT.",
+    "masked_long": "[...] are people you trust enough to tell anything, like that you cried during \"The Muppet Movie.\" They might give advice, too. The President has lots of confidants in his inner circle who not only know all about secret government issues, but also give their opinions about what actions he should take. Make sure to spell the word with the [...] ending, because [...] means something else. Think of confiding in your [...], your confidANT.",
+    "masked_short": "A [...] is the person you tell your secrets to. Your [...] has all the dirt on you, so don't forget his birthday or he might start talking...",
+    "query_time": 1565110589.9389358,
+    "raw_long": [
+      [
+        1,
+        "Confidants"
+      ],
+      [
+        0,
+        " are people you trust enough to tell anything, like that you cried during \"The Muppet Movie.\" They might give advice, too. The President has lots of confidants in his inner circle who not only know all about secret government issues, but also give their opinions about what actions he should take. Make sure to spell the word with the "
+      ],
+      [
+        1,
+        "ant"
+      ],
+      [
+        0,
+        " ending, because "
+      ],
+      [
+        1,
+        "confident"
+      ],
+      [
+        0,
+        " means something else. Think of confiding in your "
+      ],
+      [
+        1,
+        "aunt"
+      ],
+      [
+        0,
+        ", your confidANT."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "A "
+      ],
+      [
+        1,
+        "confidant"
+      ],
+      [
+        0,
+        " is the person you tell your secrets to. Your "
+      ],
+      [
+        1,
+        "confidant"
+      ],
+      [
+        0,
+        " has all the dirt on you, so don't forget his birthday or he might start talking..."
+      ]
+    ],
+    "short": "A confidant is the person you tell your secrets to. Your confidant has all the dirt on you, so don't forget his birthday or he might start talking...",
+    "url": "https://www.vocabulary.com/dictionary/confidant",
+    "word": "confidant"
+  },
+  "conflated": {
+    "audio_url": "https://audio.vocab.com/1.0/us/C/1O002DJZFQYS1.mp3",
+    "colored_long": "The verb \u001b[31mconflate\u001b[0m comes to us from the Latin word \u001b[31mconflare\u001b[0m, which literally means \"to blow together.\" So think of using this word when you want to talk about two things getting thrown together and combined. Things that have been conflated often seem mixed up or confused, as when you conflate two different ideas, taking parts of one and parts of another to build your own Frankenstein version of things.",
+    "colored_short": "\u001b[31mConflate\u001b[0m is a more formal way to say \"mix together.\" You probably wouldn't say you \u001b[31mconflated\u001b[0m the ingredients for a cake, but if you blended two different stories together to make a new one, \u001b[31mconflate\u001b[0m would work.",
+    "has_audio": true,
+    "long": "The verb conflate comes to us from the Latin word conflare, which literally means \"to blow together.\" So think of using this word when you want to talk about two things getting thrown together and combined. Things that have been conflated often seem mixed up or confused, as when you conflate two different ideas, taking parts of one and parts of another to build your own Frankenstein version of things.",
+    "masked_long": "The verb [...] comes to us from the Latin word [...], which literally means \"to blow together.\" So think of using this word when you want to talk about two things getting thrown together and combined. Things that have been conflated often seem mixed up or confused, as when you conflate two different ideas, taking parts of one and parts of another to build your own Frankenstein version of things.",
+    "masked_short": "[...] is a more formal way to say \"mix together.\" You probably wouldn't say you [...] the ingredients for a cake, but if you blended two different stories together to make a new one, [...] would work.",
+    "query_time": 1565110668.982726,
+    "raw_long": [
+      [
+        0,
+        "The verb "
+      ],
+      [
+        1,
+        "conflate"
+      ],
+      [
+        0,
+        " comes to us from the Latin word "
+      ],
+      [
+        1,
+        "conflare"
+      ],
+      [
+        0,
+        ", which literally means \"to blow together.\" So think of using this word when you want to talk about two things getting thrown together and combined. Things that have been conflated often seem mixed up or confused, as when you conflate two different ideas, taking parts of one and parts of another to build your own Frankenstein version of things."
+      ]
+    ],
+    "raw_short": [
+      [
+        1,
+        "Conflate"
+      ],
+      [
+        0,
+        " is a more formal way to say \"mix together.\" You probably wouldn't say you "
+      ],
+      [
+        1,
+        "conflated"
+      ],
+      [
+        0,
+        " the ingredients for a cake, but if you blended two different stories together to make a new one, "
+      ],
+      [
+        1,
+        "conflate"
+      ],
+      [
+        0,
+        " would work."
+      ]
+    ],
+    "short": "Conflate is a more formal way to say \"mix together.\" You probably wouldn't say you conflated the ingredients for a cake, but if you blended two different stories together to make a new one, conflate would work.",
+    "url": "https://www.vocabulary.com/dictionary/conflate?family=conflated",
+    "word": "conflated"
+  },
+  "conscript": {
+    "audio_url": "https://audio.vocab.com/1.0/us/C/1HOPD0GQIHZI1.mp3",
+    "colored_long": "At the root of \u001b[31mconscript\u001b[0m is the Latin word \u001b[31mconscriptus\u001b[0m, meaning \u201cenroll.\u201d \u001b[31mConscript\u001b[0m does involve enrollment \u2014 but it\u2019s a forced enrollment, used to describe someone who has been forced to join the military, such as someone who has been drafted. As a verb, \u001b[31mconscript\u001b[0m means \"force to join,\" like a military that conscripts new soldiers. In contrast, those who choose to join are recruited; when they enter the service, they enlist.",
+    "colored_short": "If you\u2019re ever drafted into the Turkish army, then you could be called a \u001b[31mconscript\u001b[0m, someone who is forced to join the military.",
+    "has_audio": true,
+    "long": "At the root of conscript is the Latin word conscriptus, meaning \u201cenroll.\u201d Conscript does involve enrollment \u2014 but it\u2019s a forced enrollment, used to describe someone who has been forced to join the military, such as someone who has been drafted. As a verb, conscript means \"force to join,\" like a military that conscripts new soldiers. In contrast, those who choose to join are recruited; when they enter the service, they enlist.",
+    "masked_long": "At the root of [...] is the Latin word [...], meaning \u201cenroll.\u201d [...] does involve enrollment \u2014 but it\u2019s a forced enrollment, used to describe someone who has been forced to join the military, such as someone who has been drafted. As a verb, [...] means \"force to join,\" like a military that conscripts new soldiers. In contrast, those who choose to join are recruited; when they enter the service, they enlist.",
+    "masked_short": "If you\u2019re ever drafted into the Turkish army, then you could be called a [...], someone who is forced to join the military.",
+    "query_time": 1565110698.4601946,
+    "raw_long": [
+      [
+        0,
+        "At the root of "
+      ],
+      [
+        1,
+        "conscript"
+      ],
+      [
+        0,
+        " is the Latin word "
+      ],
+      [
+        1,
+        "conscriptus"
+      ],
+      [
+        0,
+        ", meaning \u201cenroll.\u201d "
+      ],
+      [
+        1,
+        "Conscript"
+      ],
+      [
+        0,
+        " does involve enrollment \u2014 but it\u2019s a forced enrollment, used to describe someone who has been forced to join the military, such as someone who has been drafted. As a verb, "
+      ],
+      [
+        1,
+        "conscript"
+      ],
+      [
+        0,
+        " means \"force to join,\" like a military that conscripts new soldiers. In contrast, those who choose to join are recruited; when they enter the service, they enlist."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "If you\u2019re ever drafted into the Turkish army, then you could be called a "
+      ],
+      [
+        1,
+        "conscript"
+      ],
+      [
+        0,
+        ", someone who is forced to join the military."
+      ]
+    ],
+    "short": "If you\u2019re ever drafted into the Turkish army, then you could be called a conscript, someone who is forced to join the military.",
+    "url": "https://www.vocabulary.com/dictionary/conscript",
+    "word": "conscript"
   },
   "conspicuous": {
     "audio_url": "https://audio.vocab.com/1.0/us/C/SPZTQTJRP0R5.mp3",
@@ -2142,7 +2756,7 @@
     "long": "The word dabble can also often relate to water. It can mean \u201cto splash playfully,\u201d or \u201cto get just a little wet.\u201d A bird can also dabble in water by dipping its bill into it. Each of these meanings of dabble is often followed by the word in. For example, a duck may dabble in the water (and then dribble a few drops afterward from its bill), and you may dabble in shrubbery art.",
     "masked_long": "The word [...] can also often relate to water. It can mean \u201cto splash playfully,\u201d or \u201cto get just a little wet.\u201d A bird can also dabble in water by dipping its bill into it. Each of these meanings of [...] is often followed by the word [...]. For example, a duck may dabble in the water (and then dribble a few drops afterward from its bill), and you may dabble in shrubbery art.",
     "masked_short": "You [...] when you are a little bit involved in an activity, such as an art form or a hobby. Maybe you only [...] in mystery novels, but you are very knowledgeable about comic books.",
-    "query_time": 1564589458.9181945,
+    "query_time": 1565110815.2150154,
     "raw_long": [
       [
         0,
@@ -2198,6 +2812,197 @@
     "short": "You dabble when you are a little bit involved in an activity, such as an art form or a hobby. Maybe you only dabble in mystery novels, but you are very knowledgeable about comic books.",
     "url": "https://www.vocabulary.com/dictionary/dabble",
     "word": "dabble"
+  },
+  "dabbling": {
+    "audio_url": "https://audio.vocab.com/1.0/us/D/8K1H13ELGGMS.mp3",
+    "colored_long": "The word \u001b[31mdabble\u001b[0m can also often relate to water. It can mean \u201cto splash playfully,\u201d or \u201cto get just a little wet.\u201d A bird can also dabble in water by dipping its bill into it. Each of these meanings of \u001b[31mdabble\u001b[0m is often followed by the word \u001b[31min\u001b[0m. For example, a duck may dabble in the water (and then dribble a few drops afterward from its bill), and you may dabble in shrubbery art.",
+    "colored_short": "You \u001b[31mdabble\u001b[0m when you are a little bit involved in an activity, such as an art form or a hobby. Maybe you only \u001b[31mdabble\u001b[0m in mystery novels, but you are very knowledgeable about comic books.",
+    "has_audio": true,
+    "long": "The word dabble can also often relate to water. It can mean \u201cto splash playfully,\u201d or \u201cto get just a little wet.\u201d A bird can also dabble in water by dipping its bill into it. Each of these meanings of dabble is often followed by the word in. For example, a duck may dabble in the water (and then dribble a few drops afterward from its bill), and you may dabble in shrubbery art.",
+    "masked_long": "The word [...] can also often relate to water. It can mean \u201cto splash playfully,\u201d or \u201cto get just a little wet.\u201d A bird can also dabble in water by dipping its bill into it. Each of these meanings of [...] is often followed by the word [...]. For example, a duck may dabble in the water (and then dribble a few drops afterward from its bill), and you may dabble in shrubbery art.",
+    "masked_short": "You [...] when you are a little bit involved in an activity, such as an art form or a hobby. Maybe you only [...] in mystery novels, but you are very knowledgeable about comic books.",
+    "query_time": 1565110824.395042,
+    "raw_long": [
+      [
+        0,
+        "The word "
+      ],
+      [
+        1,
+        "dabble"
+      ],
+      [
+        0,
+        " can also often relate to water. It can mean \u201cto splash playfully,\u201d or \u201cto get just a little wet.\u201d A bird can also dabble in water by dipping its bill into it. Each of these meanings of "
+      ],
+      [
+        1,
+        "dabble"
+      ],
+      [
+        0,
+        " is often followed by the word "
+      ],
+      [
+        1,
+        "in"
+      ],
+      [
+        0,
+        ". For example, a duck may dabble in the water (and then dribble a few drops afterward from its bill), and you may dabble in shrubbery art."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "You "
+      ],
+      [
+        1,
+        "dabble"
+      ],
+      [
+        0,
+        " when you are a little bit involved in an activity, such as an art form or a hobby. Maybe you only "
+      ],
+      [
+        1,
+        "dabble"
+      ],
+      [
+        0,
+        " in mystery novels, but you are very knowledgeable about comic books."
+      ]
+    ],
+    "short": "You dabble when you are a little bit involved in an activity, such as an art form or a hobby. Maybe you only dabble in mystery novels, but you are very knowledgeable about comic books.",
+    "url": "https://www.vocabulary.com/dictionary/dabble?family=dabbling",
+    "word": "dabbling"
+  },
+  "daredevil": {
+    "audio_url": "https://audio.vocab.com/1.0/us/D/5OPMYK2XCEJX.mp3",
+    "colored_long": "A daredevil loves adventure and excitement and tends not to think much about the safety or wisdom of their actions. The man who walked on a wire between the towers of the World Trade Center was a daredevil, and the woman who was the first to ride a barrel over Niagara Falls was also a daredevil. This word is also used as another name for a stunt performer who attempts risky tricks in front of a live audience.",
+    "colored_short": "Do you love the thrill of a terrifying rollercoaster or the risky challenge of doing dangerous tricks on your skateboard? Then you're a \u001b[31mdaredevil\u001b[0m, someone who is recklessly adventurous.",
+    "has_audio": true,
+    "long": "A daredevil loves adventure and excitement and tends not to think much about the safety or wisdom of their actions. The man who walked on a wire between the towers of the World Trade Center was a daredevil, and the woman who was the first to ride a barrel over Niagara Falls was also a daredevil. This word is also used as another name for a stunt performer who attempts risky tricks in front of a live audience.",
+    "masked_long": "A daredevil loves adventure and excitement and tends not to think much about the safety or wisdom of their actions. The man who walked on a wire between the towers of the World Trade Center was a daredevil, and the woman who was the first to ride a barrel over Niagara Falls was also a daredevil. This word is also used as another name for a stunt performer who attempts risky tricks in front of a live audience.",
+    "masked_short": "Do you love the thrill of a terrifying rollercoaster or the risky challenge of doing dangerous tricks on your skateboard? Then you're a [...], someone who is recklessly adventurous.",
+    "query_time": 1565111018.471139,
+    "raw_long": [
+      [
+        0,
+        "A daredevil loves adventure and excitement and tends not to think much about the safety or wisdom of their actions. The man who walked on a wire between the towers of the World Trade Center was a daredevil, and the woman who was the first to ride a barrel over Niagara Falls was also a daredevil. This word is also used as another name for a stunt performer who attempts risky tricks in front of a live audience."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "Do you love the thrill of a terrifying rollercoaster or the risky challenge of doing dangerous tricks on your skateboard? Then you're a "
+      ],
+      [
+        1,
+        "daredevil"
+      ],
+      [
+        0,
+        ", someone who is recklessly adventurous."
+      ]
+    ],
+    "short": "Do you love the thrill of a terrifying rollercoaster or the risky challenge of doing dangerous tricks on your skateboard? Then you're a daredevil, someone who is recklessly adventurous.",
+    "url": "https://www.vocabulary.com/dictionary/daredevil",
+    "word": "daredevil"
+  },
+  "dearth": {
+    "audio_url": "https://audio.vocab.com/1.0/us/D/C58ECLQZYLR6.mp3",
+    "colored_long": "\u001b[31mDearth\u001b[0m is an Old English noun formed from the adjective \u001b[31mdeore\u001b[0m, \"precious, costly,\" and the noun-forming suffix \u001b[31m-th\u001b[0m. Though the relationship of \u001b[31mdearth\u001b[0m meaning \"lack, insufficient amount\" to the adjective \u001b[31mdear\u001b[0m is not so obvious, it is still easy to imagine that something precious is probably also in short supply. \u001b[31mDearth\u001b[0m is used almost exclusively in the phrase \"a dearth of.\"",
+    "colored_short": "If there is a \u001b[31mdearth\u001b[0m of something, there is not enough of it. A \u001b[31mdearth\u001b[0m of cupcakes is unfortunate, but a \u001b[31mdearth\u001b[0m of nutritious food is a serious problem.",
+    "has_audio": true,
+    "long": "Dearth is an Old English noun formed from the adjective deore, \"precious, costly,\" and the noun-forming suffix -th. Though the relationship of dearth meaning \"lack, insufficient amount\" to the adjective dear is not so obvious, it is still easy to imagine that something precious is probably also in short supply. Dearth is used almost exclusively in the phrase \"a dearth of.\"",
+    "masked_long": "[...] is an Old English noun formed from the adjective [...], \"precious, costly,\" and the noun-forming suffix [...]. Though the relationship of [...] meaning \"lack, insufficient amount\" to the adjective [...] is not so obvious, it is still easy to imagine that something precious is probably also in short supply. [...] is used almost exclusively in the phrase \"a dearth of.\"",
+    "masked_short": "If there is a [...] of something, there is not enough of it. A [...] of cupcakes is unfortunate, but a [...] of nutritious food is a serious problem.",
+    "query_time": 1565111170.079279,
+    "raw_long": [
+      [
+        1,
+        "Dearth"
+      ],
+      [
+        0,
+        " is an Old English noun formed from the adjective "
+      ],
+      [
+        1,
+        "deore"
+      ],
+      [
+        0,
+        ", \"precious, costly,\" and the noun-forming suffix "
+      ],
+      [
+        1,
+        "-th"
+      ],
+      [
+        0,
+        ". Though the relationship of "
+      ],
+      [
+        1,
+        "dearth"
+      ],
+      [
+        0,
+        " meaning \"lack, insufficient amount\" to the adjective "
+      ],
+      [
+        1,
+        "dear"
+      ],
+      [
+        0,
+        " is not so obvious, it is still easy to imagine that something precious is probably also in short supply. "
+      ],
+      [
+        1,
+        "Dearth"
+      ],
+      [
+        0,
+        " is used almost exclusively in the phrase \"a dearth of.\""
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "If there is a "
+      ],
+      [
+        1,
+        "dearth"
+      ],
+      [
+        0,
+        " of something, there is not enough of it. A "
+      ],
+      [
+        1,
+        "dearth"
+      ],
+      [
+        0,
+        " of cupcakes is unfortunate, but a "
+      ],
+      [
+        1,
+        "dearth"
+      ],
+      [
+        0,
+        " of nutritious food is a serious problem."
+      ]
+    ],
+    "short": "If there is a dearth of something, there is not enough of it. A dearth of cupcakes is unfortunate, but a dearth of nutritious food is a serious problem.",
+    "url": "https://www.vocabulary.com/dictionary/dearth",
+    "word": "dearth"
   },
   "debilitate": {
     "audio_url": "https://audio.vocab.com/1.0/us/D/1XDYEA61SDH9T.mp3",
@@ -2389,6 +3194,47 @@
     "short": "Deft means \"showing cleverness and skill in handling things.\" What you want to see in football or basketball is some deft handling of the ball.",
     "url": "https://www.vocabulary.com/dictionary/deft",
     "word": "deft"
+  },
+  "demagogue": {
+    "audio_url": "https://audio.vocab.com/1.0/us/D/9BSTRJ3L9YLD.mp3",
+    "colored_long": "Though the Greek root for \u001b[31mdemagogue\u001b[0m literally means \"a leader of the people,\" the word has for centuries had a negative connotation: it actually means a leader who has manipulated the emotions and prejudices of the rabble. The reason for the negative connotation is that in ancient Athens, \"the people\" were considered to be an uncivilized mob. Two of the most famous historical demagogues are said to be Adolf Hitler and Josef Stalin.",
+    "colored_short": "A \u001b[31mdemagogue\u001b[0m is someone who becomes a leader largely because of skills as a speaker or who appeals to emotions and prejudices.",
+    "has_audio": true,
+    "long": "Though the Greek root for demagogue literally means \"a leader of the people,\" the word has for centuries had a negative connotation: it actually means a leader who has manipulated the emotions and prejudices of the rabble. The reason for the negative connotation is that in ancient Athens, \"the people\" were considered to be an uncivilized mob. Two of the most famous historical demagogues are said to be Adolf Hitler and Josef Stalin.",
+    "masked_long": "Though the Greek root for [...] literally means \"a leader of the people,\" the word has for centuries had a negative connotation: it actually means a leader who has manipulated the emotions and prejudices of the rabble. The reason for the negative connotation is that in ancient Athens, \"the people\" were considered to be an uncivilized mob. Two of the most famous historical demagogues are said to be Adolf Hitler and Josef Stalin.",
+    "masked_short": "A [...] is someone who becomes a leader largely because of skills as a speaker or who appeals to emotions and prejudices.",
+    "query_time": 1565111059.431859,
+    "raw_long": [
+      [
+        0,
+        "Though the Greek root for "
+      ],
+      [
+        1,
+        "demagogue"
+      ],
+      [
+        0,
+        " literally means \"a leader of the people,\" the word has for centuries had a negative connotation: it actually means a leader who has manipulated the emotions and prejudices of the rabble. The reason for the negative connotation is that in ancient Athens, \"the people\" were considered to be an uncivilized mob. Two of the most famous historical demagogues are said to be Adolf Hitler and Josef Stalin."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "A "
+      ],
+      [
+        1,
+        "demagogue"
+      ],
+      [
+        0,
+        " is someone who becomes a leader largely because of skills as a speaker or who appeals to emotions and prejudices."
+      ]
+    ],
+    "short": "A demagogue is someone who becomes a leader largely because of skills as a speaker or who appeals to emotions and prejudices.",
+    "url": "https://www.vocabulary.com/dictionary/demagogue",
+    "word": "demagogue"
   },
   "denounce": {
     "audio_url": "https://audio.vocab.com/1.0/us/D/FI0W3NWX6PRI.mp3",
@@ -2666,6 +3512,107 @@
     "url": "https://www.vocabulary.com/dictionary/diffidence",
     "word": "diffidence"
   },
+  "diminutive": {
+    "audio_url": "https://audio.vocab.com/1.0/us/D/18AHOEMKXHCA9.mp3",
+    "colored_long": "A diminutive name or word is formed from another by the addition of a suffix expressing smallness in size: a \u001b[31mbooklet\u001b[0m is a small book, and a \u001b[31mdinette\u001b[0m is a small version of a dining set. The adjective \u001b[31mdiminutive\u001b[0m descends from Middle English, from Old French, from Late Latin \u001b[31md\u012bmin\u016bt\u012bvus\u001b[0m, from Latin \u001b[31md\u0113minuere\u001b[0m, \"to lessen.\"",
+    "colored_short": "\u001b[31mDiminutive\u001b[0m means small. A \u001b[31mdiminutive\u001b[0m person is short and small. A  \u001b[31mdiminutive\u001b[0m  word is a \"cute\" version of a word or name:  for example, \"duckling\" is a  \u001b[31mdiminutive\u001b[0m  of \"duck\" and Billy is a  \u001b[31mdiminutive\u001b[0m  form of the name William.",
+    "has_audio": true,
+    "long": "A diminutive name or word is formed from another by the addition of a suffix expressing smallness in size: a booklet is a small book, and a dinette is a small version of a dining set. The adjective diminutive descends from Middle English, from Old French, from Late Latin d\u012bmin\u016bt\u012bvus, from Latin d\u0113minuere, \"to lessen.\"",
+    "masked_long": "A diminutive name or word is formed from another by the addition of a suffix expressing smallness in size: a [...] is a small book, and a [...] is a small version of a dining set. The adjective [...] descends from Middle English, from Old French, from Late Latin [...], from Latin [...], \"to lessen.\"",
+    "masked_short": "[...] means small. A [...] person is short and small. A  [...]  word is a \"cute\" version of a word or name:  for example, \"duckling\" is a  [...]  of \"duck\" and Billy is a  [...]  form of the name William.",
+    "query_time": 1565110929.201388,
+    "raw_long": [
+      [
+        0,
+        "A diminutive name or word is formed from another by the addition of a suffix expressing smallness in size: a "
+      ],
+      [
+        1,
+        "booklet"
+      ],
+      [
+        0,
+        " is a small book, and a "
+      ],
+      [
+        1,
+        "dinette"
+      ],
+      [
+        0,
+        " is a small version of a dining set. The adjective "
+      ],
+      [
+        1,
+        "diminutive"
+      ],
+      [
+        0,
+        " descends from Middle English, from Old French, from Late Latin "
+      ],
+      [
+        1,
+        "d\u012bmin\u016bt\u012bvus"
+      ],
+      [
+        0,
+        ", from Latin "
+      ],
+      [
+        1,
+        "d\u0113minuere"
+      ],
+      [
+        0,
+        ", \"to lessen.\""
+      ]
+    ],
+    "raw_short": [
+      [
+        1,
+        "Diminutive"
+      ],
+      [
+        0,
+        " means small. A "
+      ],
+      [
+        1,
+        "diminutive"
+      ],
+      [
+        0,
+        " person is short and small. A  "
+      ],
+      [
+        1,
+        "diminutive"
+      ],
+      [
+        0,
+        "  word is a \"cute\" version of a word or name:  for example, \"duckling\" is a  "
+      ],
+      [
+        1,
+        "diminutive"
+      ],
+      [
+        0,
+        "  of \"duck\" and Billy is a  "
+      ],
+      [
+        1,
+        "diminutive"
+      ],
+      [
+        0,
+        "  form of the name William."
+      ]
+    ],
+    "short": "Diminutive means small. A diminutive person is short and small. A  diminutive  word is a \"cute\" version of a word or name:  for example, \"duckling\" is a  diminutive  of \"duck\" and Billy is a  diminutive  form of the name William.",
+    "url": "https://www.vocabulary.com/dictionary/diminutive",
+    "word": "diminutive"
+  },
   "dirge": {
     "audio_url": "https://audio.vocab.com/1.0/us/D/WSM65ZQ96CKF.mp3",
     "colored_long": "The noun \u001b[31mdirge\u001b[0m comes from the Latin \u001b[31mdirige\u001b[0m, which means \u201cdirect,\u201d and is the beginning of a prayer that translates as \u201cDirect my way in your sight, O Lord my God.\u201d \u001b[31mDirge\u001b[0m can still have a religious meaning, but it can also be any sad and mournful song, poem, or hymn composed or performed in memory of someone who has died. You can also say that something mournful sounds like a dirge, using the word in a more poetic sense.",
@@ -2816,7 +3763,7 @@
     "long": "Disparage is a specific way to describe a certain kind of insult, the kind that secures the insulter's place as superior. It often refers to an opinion or criticism lobbed in print or via word of mouth, not necessarily an act done to someone's face. If someone or something is being disparaged, you will often find a competing interest in the wings.",
     "masked_long": "[...] is a specific way to describe a certain kind of insult, the kind that secures the insulter's place as superior. It often refers to an opinion or criticism lobbed in print or via word of mouth, not necessarily an act done to someone's face. If someone or something is being disparaged, you will often find a competing interest in the wings.",
     "masked_short": "If you haven't got anything nice to say, then it's time to [...] someone. It means to belittle or degrade a person or idea.",
-    "query_time": 1564153274.106702,
+    "query_time": 1565110652.733904,
     "raw_long": [
       [
         1,
@@ -3275,6 +4222,140 @@
     "short": "To downplay something is to act as if it's not very important. If you're trying to convince your friends to play poker with you, you might downplay the fact that you're an experienced and competitive player.",
     "url": "https://www.vocabulary.com/dictionary/downplay",
     "word": "downplay"
+  },
+  "dubious": {
+    "audio_url": "https://audio.vocab.com/1.0/us/D/3EJQ7SSJ9SP4.mp3",
+    "colored_long": "\u001b[31mDubious\u001b[0m stems from Latin \u001b[31mdubiosus\u001b[0m, \"doubtful\" or \"uncertain,\" and contains the Latin root \u001b[31mduo\u001b[0m in this case meaning \"of two minds.\" This is apparent in that \u001b[31mdubious\u001b[0m generally describes something that appears one way but is truly another. A dubious claim is probably not true, whereas a dubious website or character is of questionable quality. \u001b[31mDubious\u001b[0m can also be synonymous with \u001b[31mdoubtful\u001b[0m, as in \"she was dubious about the idea.\"",
+    "colored_short": "Choose the adjective \u001b[31mdubious\u001b[0m for something you have doubts about or you suspect is not true. That bridge you just \"bought\" might be of \u001b[31mdubious\u001b[0m value.",
+    "has_audio": true,
+    "long": "Dubious stems from Latin dubiosus, \"doubtful\" or \"uncertain,\" and contains the Latin root duo in this case meaning \"of two minds.\" This is apparent in that dubious generally describes something that appears one way but is truly another. A dubious claim is probably not true, whereas a dubious website or character is of questionable quality. Dubious can also be synonymous with doubtful, as in \"she was dubious about the idea.\"",
+    "masked_long": "[...] stems from Latin [...], \"doubtful\" or \"uncertain,\" and contains the Latin root [...] in this case meaning \"of two minds.\" This is apparent in that [...] generally describes something that appears one way but is truly another. A dubious claim is probably not true, whereas a dubious website or character is of questionable quality. [...] can also be synonymous with [...], as in \"she was dubious about the idea.\"",
+    "masked_short": "Choose the adjective [...] for something you have doubts about or you suspect is not true. That bridge you just \"bought\" might be of [...] value.",
+    "query_time": 1565110868.1233592,
+    "raw_long": [
+      [
+        1,
+        "Dubious"
+      ],
+      [
+        0,
+        " stems from Latin "
+      ],
+      [
+        1,
+        "dubiosus"
+      ],
+      [
+        0,
+        ", \"doubtful\" or \"uncertain,\" and contains the Latin root "
+      ],
+      [
+        1,
+        "duo"
+      ],
+      [
+        0,
+        " in this case meaning \"of two minds.\" This is apparent in that "
+      ],
+      [
+        1,
+        "dubious"
+      ],
+      [
+        0,
+        " generally describes something that appears one way but is truly another. A dubious claim is probably not true, whereas a dubious website or character is of questionable quality. "
+      ],
+      [
+        1,
+        "Dubious"
+      ],
+      [
+        0,
+        " can also be synonymous with "
+      ],
+      [
+        1,
+        "doubtful"
+      ],
+      [
+        0,
+        ", as in \"she was dubious about the idea.\""
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "Choose the adjective "
+      ],
+      [
+        1,
+        "dubious"
+      ],
+      [
+        0,
+        " for something you have doubts about or you suspect is not true. That bridge you just \"bought\" might be of "
+      ],
+      [
+        1,
+        "dubious"
+      ],
+      [
+        0,
+        " value."
+      ]
+    ],
+    "short": "Choose the adjective dubious for something you have doubts about or you suspect is not true. That bridge you just \"bought\" might be of dubious value.",
+    "url": "https://www.vocabulary.com/dictionary/dubious",
+    "word": "dubious"
+  },
+  "duplicitous": {
+    "audio_url": "https://audio.vocab.com/1.0/us/D/1VQPL8BVDQLM1.mp3",
+    "colored_long": "In \u001b[31mduplicitous\u001b[0m, you can see the word \u001b[31mduplicity\u001b[0m, which means \"doubleness.\" Someone who is duplicitous is almost like two people, saying one thing but then doing something very different, even contradictory. Someone who is duplicitous can also be called \"two-faced,\" a vivid way to remember that this person shouldn't be trusted or taken at face value.",
+    "colored_short": "That guy in the drama club who tells everyone he hates organized sports one day and then joins the football team the next? He's being \u001b[31mduplicitous\u001b[0m, or pretending to have feelings that his actions contradict.",
+    "has_audio": true,
+    "long": "In duplicitous, you can see the word duplicity, which means \"doubleness.\" Someone who is duplicitous is almost like two people, saying one thing but then doing something very different, even contradictory. Someone who is duplicitous can also be called \"two-faced,\" a vivid way to remember that this person shouldn't be trusted or taken at face value.",
+    "masked_long": "In [...], you can see the word [...], which means \"doubleness.\" Someone who is duplicitous is almost like two people, saying one thing but then doing something very different, even contradictory. Someone who is duplicitous can also be called \"two-faced,\" a vivid way to remember that this person shouldn't be trusted or taken at face value.",
+    "masked_short": "That guy in the drama club who tells everyone he hates organized sports one day and then joins the football team the next? He's being [...], or pretending to have feelings that his actions contradict.",
+    "query_time": 1565110893.0822132,
+    "raw_long": [
+      [
+        0,
+        "In "
+      ],
+      [
+        1,
+        "duplicitous"
+      ],
+      [
+        0,
+        ", you can see the word "
+      ],
+      [
+        1,
+        "duplicity"
+      ],
+      [
+        0,
+        ", which means \"doubleness.\" Someone who is duplicitous is almost like two people, saying one thing but then doing something very different, even contradictory. Someone who is duplicitous can also be called \"two-faced,\" a vivid way to remember that this person shouldn't be trusted or taken at face value."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "That guy in the drama club who tells everyone he hates organized sports one day and then joins the football team the next? He's being "
+      ],
+      [
+        1,
+        "duplicitous"
+      ],
+      [
+        0,
+        ", or pretending to have feelings that his actions contradict."
+      ]
+    ],
+    "short": "That guy in the drama club who tells everyone he hates organized sports one day and then joins the football team the next? He's being duplicitous, or pretending to have feelings that his actions contradict.",
+    "url": "https://www.vocabulary.com/dictionary/duplicitous",
+    "word": "duplicitous"
   },
   "ebullient": {
     "audio_url": "https://audio.vocab.com/1.0/us/E/1DP6QI6S8R5QC.mp3",
@@ -4282,6 +5363,87 @@
     "url": "https://www.vocabulary.com/dictionary/fortuitous",
     "word": "fortuitous"
   },
+  "fulsome": {
+    "audio_url": "https://audio.vocab.com/1.0/us/F/T4ZEA0COP108.mp3",
+    "colored_long": "Hundreds of years ago \u001b[31mfulsome\u001b[0m used to mean \"abundant,\" but now it's more often used to describe an ingratiating manner or an excess of flattery that might provoke an onlooker to mime gagging. If you find \u001b[31mfulsome\u001b[0m to be a rather clunky word, there are several fun (if vaguely stomach-churning) synonyms, including \u001b[31mbuttery,\u001b[0m \u001b[31moily,\u001b[0m \u001b[31moleaginous,\u001b[0m and \u001b[31msmarmy\u001b[0m.",
+    "colored_short": "Compliments usually make you feel pretty good, but \u001b[31mfulsome\u001b[0m compliments, which are exaggerated and usually insincere, may have the opposite effect.",
+    "has_audio": true,
+    "long": "Hundreds of years ago fulsome used to mean \"abundant,\" but now it's more often used to describe an ingratiating manner or an excess of flattery that might provoke an onlooker to mime gagging. If you find fulsome to be a rather clunky word, there are several fun (if vaguely stomach-churning) synonyms, including buttery, oily, oleaginous, and smarmy.",
+    "masked_long": "Hundreds of years ago [...] used to mean \"abundant,\" but now it's more often used to describe an ingratiating manner or an excess of flattery that might provoke an onlooker to mime gagging. If you find [...] to be a rather clunky word, there are several fun (if vaguely stomach-churning) synonyms, including [...] [...] [...] and [...].",
+    "masked_short": "Compliments usually make you feel pretty good, but [...] compliments, which are exaggerated and usually insincere, may have the opposite effect.",
+    "query_time": 1565110834.778957,
+    "raw_long": [
+      [
+        0,
+        "Hundreds of years ago "
+      ],
+      [
+        1,
+        "fulsome"
+      ],
+      [
+        0,
+        " used to mean \"abundant,\" but now it's more often used to describe an ingratiating manner or an excess of flattery that might provoke an onlooker to mime gagging. If you find "
+      ],
+      [
+        1,
+        "fulsome"
+      ],
+      [
+        0,
+        " to be a rather clunky word, there are several fun (if vaguely stomach-churning) synonyms, including "
+      ],
+      [
+        1,
+        "buttery,"
+      ],
+      [
+        0,
+        " "
+      ],
+      [
+        1,
+        "oily,"
+      ],
+      [
+        0,
+        " "
+      ],
+      [
+        1,
+        "oleaginous,"
+      ],
+      [
+        0,
+        " and "
+      ],
+      [
+        1,
+        "smarmy"
+      ],
+      [
+        0,
+        "."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "Compliments usually make you feel pretty good, but "
+      ],
+      [
+        1,
+        "fulsome"
+      ],
+      [
+        0,
+        " compliments, which are exaggerated and usually insincere, may have the opposite effect."
+      ]
+    ],
+    "short": "Compliments usually make you feel pretty good, but fulsome compliments, which are exaggerated and usually insincere, may have the opposite effect.",
+    "url": "https://www.vocabulary.com/dictionary/fulsome",
+    "word": "fulsome"
+  },
   "gaffe": {
     "audio_url": "https://audio.vocab.com/1.0/us/G/YT3AL21U2VOH.mp3",
     "colored_long": "\u001b[31mGaffe\u001b[0m rhymes with \u001b[31mlaugh\u001b[0m, and you'll be lucky if that's how people respond to your social blunder. A gaffe seems to occur most often when you literally don't know your audience \u00e2\u20ac\u201d you make a joke about the mayor; you didn't know you were talking to his sister. That's definitely a gaffe. And who knew your hosts come from a culture that takes offense if you refuse to try every dish?",
@@ -4290,7 +5452,7 @@
     "long": "Gaffe rhymes with laugh, and you'll be lucky if that's how people respond to your social blunder. A gaffe seems to occur most often when you literally don't know your audience \u00e2\u20ac\u201d you make a joke about the mayor; you didn't know you were talking to his sister. That's definitely a gaffe. And who knew your hosts come from a culture that takes offense if you refuse to try every dish?",
     "masked_long": "[...] rhymes with [...], and you'll be lucky if that's how people respond to your social blunder. A gaffe seems to occur most often when you literally don't know your audience \u00e2\u20ac\u201d you make a joke about the mayor; you didn't know you were talking to his sister. That's definitely a gaffe. And who knew your hosts come from a culture that takes offense if you refuse to try every dish?",
     "masked_short": "A [...] is a mistake that embarrasses you in front of others. If you run into a friend out with her grey-haired father, and you blurt out, \"Oh, hi, you must be Tara's grandfather!\" then you've made a [...].",
-    "query_time": 1564590429.1118505,
+    "query_time": 1565111231.6577704,
     "raw_long": [
       [
         1,
@@ -4383,6 +5545,51 @@
     "short": "If you volunteer to remove a huge, hairy spider from your bathroom ceiling, your whole family will be grateful for your gallant actions. The adjective gallant means \"heroic or brave.\"",
     "url": "https://www.vocabulary.com/dictionary/gallant",
     "word": "gallant"
+  },
+  "gallantry": {
+    "audio_url": "https://audio.vocab.com/1.0/us/G/VPXFLQ1IM6BD.mp3",
+    "colored_long": "Another meaning for \u001b[31mgallantry\u001b[0m is an extreme form of courtesy and respect towards women, often referred to as \u001b[31mchivalry,\u001b[0m and the two words are used interchangeably. The most famous examples of gallantry and chivalry can be found in the stories of the mythical King Arthur and his Knights of the Round Table, who were always fighting other knights for the favor of a fair princess's hand.",
+    "colored_short": "\u001b[31mGallantry\u001b[0m is an old-fashioned word for brave behavior in a man, especially on the battlefield.",
+    "has_audio": true,
+    "long": "Another meaning for gallantry is an extreme form of courtesy and respect towards women, often referred to as chivalry, and the two words are used interchangeably. The most famous examples of gallantry and chivalry can be found in the stories of the mythical King Arthur and his Knights of the Round Table, who were always fighting other knights for the favor of a fair princess's hand.",
+    "masked_long": "Another meaning for [...] is an extreme form of courtesy and respect towards women, often referred to as [...] and the two words are used interchangeably. The most famous examples of gallantry and chivalry can be found in the stories of the mythical King Arthur and his Knights of the Round Table, who were always fighting other knights for the favor of a fair princess's hand.",
+    "masked_short": "[...] is an old-fashioned word for brave behavior in a man, especially on the battlefield.",
+    "query_time": 1565110566.4019778,
+    "raw_long": [
+      [
+        0,
+        "Another meaning for "
+      ],
+      [
+        1,
+        "gallantry"
+      ],
+      [
+        0,
+        " is an extreme form of courtesy and respect towards women, often referred to as "
+      ],
+      [
+        1,
+        "chivalry,"
+      ],
+      [
+        0,
+        " and the two words are used interchangeably. The most famous examples of gallantry and chivalry can be found in the stories of the mythical King Arthur and his Knights of the Round Table, who were always fighting other knights for the favor of a fair princess's hand."
+      ]
+    ],
+    "raw_short": [
+      [
+        1,
+        "Gallantry"
+      ],
+      [
+        0,
+        " is an old-fashioned word for brave behavior in a man, especially on the battlefield."
+      ]
+    ],
+    "short": "Gallantry is an old-fashioned word for brave behavior in a man, especially on the battlefield.",
+    "url": "https://www.vocabulary.com/dictionary/gallantry",
+    "word": "gallantry"
   },
   "galvanize": {
     "audio_url": "https://audio.vocab.com/1.0/us/G/1WKF9GFCRGGOP.mp3",
@@ -5249,6 +6456,128 @@
     "url": "https://www.vocabulary.com/dictionary/incentive",
     "word": "incentive"
   },
+  "inchoate": {
+    "audio_url": "https://audio.vocab.com/1.0/us/I/7HEEICRLHPLV.mp3",
+    "colored_long": "\u001b[31mInchoate\u001b[0m comes from a Latin word for beginning. When something is inchoate, although you don\u2019t yet understand what it is fully, you have a strong sense that it is indeed coming. It\u2019s stronger than the wisp of an idea that never turns into anything. But it\u2019s hard to really find the language to describe an inchoate idea. That\u2019s the whole point: you don\u2019t have the words for it yet!",
+    "colored_short": "\u001b[31mInchoate\u001b[0m means just beginning to form. You can have an \u001b[31minchoate\u001b[0m idea, like the earliest flickers of images for your masterpiece, or an inchoate feeling, like your \u001b[31minchoate\u001b[0m sense of annoyance toward your sister's new talking parrot.",
+    "has_audio": true,
+    "long": "Inchoate comes from a Latin word for beginning. When something is inchoate, although you don\u2019t yet understand what it is fully, you have a strong sense that it is indeed coming. It\u2019s stronger than the wisp of an idea that never turns into anything. But it\u2019s hard to really find the language to describe an inchoate idea. That\u2019s the whole point: you don\u2019t have the words for it yet!",
+    "masked_long": "[...] comes from a Latin word for beginning. When something is inchoate, although you don\u2019t yet understand what it is fully, you have a strong sense that it is indeed coming. It\u2019s stronger than the wisp of an idea that never turns into anything. But it\u2019s hard to really find the language to describe an inchoate idea. That\u2019s the whole point: you don\u2019t have the words for it yet!",
+    "masked_short": "[...] means just beginning to form. You can have an [...] idea, like the earliest flickers of images for your masterpiece, or an inchoate feeling, like your [...] sense of annoyance toward your sister's new talking parrot.",
+    "query_time": 1565110944.7087555,
+    "raw_long": [
+      [
+        1,
+        "Inchoate"
+      ],
+      [
+        0,
+        " comes from a Latin word for beginning. When something is inchoate, although you don\u2019t yet understand what it is fully, you have a strong sense that it is indeed coming. It\u2019s stronger than the wisp of an idea that never turns into anything. But it\u2019s hard to really find the language to describe an inchoate idea. That\u2019s the whole point: you don\u2019t have the words for it yet!"
+      ]
+    ],
+    "raw_short": [
+      [
+        1,
+        "Inchoate"
+      ],
+      [
+        0,
+        " means just beginning to form. You can have an "
+      ],
+      [
+        1,
+        "inchoate"
+      ],
+      [
+        0,
+        " idea, like the earliest flickers of images for your masterpiece, or an inchoate feeling, like your "
+      ],
+      [
+        1,
+        "inchoate"
+      ],
+      [
+        0,
+        " sense of annoyance toward your sister's new talking parrot."
+      ]
+    ],
+    "short": "Inchoate means just beginning to form. You can have an inchoate idea, like the earliest flickers of images for your masterpiece, or an inchoate feeling, like your inchoate sense of annoyance toward your sister's new talking parrot.",
+    "url": "https://www.vocabulary.com/dictionary/inchoate",
+    "word": "inchoate"
+  },
+  "incontrovertible": {
+    "audio_url": "https://audio.vocab.com/1.0/us/I/1D6AYF0J414VX.mp3",
+    "colored_long": "If you look at \u001b[31mincontrovertible\u001b[0m, you see that \u001b[31m-controver-\u001b[0m, as in \u001b[31mcontroversy\u001b[0m, is hiding inside. Add in the prefix, and it's easy to see that \u001b[31mincontrovertible\u001b[0m means there is no controversy about something, or, in other words, it is unchangeable and true.  Incontrovertible evidence or proof is what you are looking for if you suspect that someone is doing something wrong.",
+    "colored_short": "When something is \u001b[31mincontrovertible\u001b[0m, it is undeniably, absolutely, 100 percent, completely true. That rain is wet is an \u001b[31mincontrovertible\u001b[0m fact.",
+    "has_audio": true,
+    "long": "If you look at incontrovertible, you see that -controver-, as in controversy, is hiding inside. Add in the prefix, and it's easy to see that incontrovertible means there is no controversy about something, or, in other words, it is unchangeable and true.  Incontrovertible evidence or proof is what you are looking for if you suspect that someone is doing something wrong.",
+    "masked_long": "If you look at [...], you see that [...], as in [...], is hiding inside. Add in the prefix, and it's easy to see that [...] means there is no controversy about something, or, in other words, it is unchangeable and true.  Incontrovertible evidence or proof is what you are looking for if you suspect that someone is doing something wrong.",
+    "masked_short": "When something is [...], it is undeniably, absolutely, 100 percent, completely true. That rain is wet is an [...] fact.",
+    "query_time": 1565110617.7773848,
+    "raw_long": [
+      [
+        0,
+        "If you look at "
+      ],
+      [
+        1,
+        "incontrovertible"
+      ],
+      [
+        0,
+        ", you see that "
+      ],
+      [
+        1,
+        "-controver-"
+      ],
+      [
+        0,
+        ", as in "
+      ],
+      [
+        1,
+        "controversy"
+      ],
+      [
+        0,
+        ", is hiding inside. Add in the prefix, and it's easy to see that "
+      ],
+      [
+        1,
+        "incontrovertible"
+      ],
+      [
+        0,
+        " means there is no controversy about something, or, in other words, it is unchangeable and true.  Incontrovertible evidence or proof is what you are looking for if you suspect that someone is doing something wrong."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "When something is "
+      ],
+      [
+        1,
+        "incontrovertible"
+      ],
+      [
+        0,
+        ", it is undeniably, absolutely, 100 percent, completely true. That rain is wet is an "
+      ],
+      [
+        1,
+        "incontrovertible"
+      ],
+      [
+        0,
+        " fact."
+      ]
+    ],
+    "short": "When something is incontrovertible, it is undeniably, absolutely, 100 percent, completely true. That rain is wet is an incontrovertible fact.",
+    "url": "https://www.vocabulary.com/dictionary/incontrovertible",
+    "word": "incontrovertible"
+  },
   "indecorous": {
     "audio_url": "https://audio.vocab.com/1.0/us/I/201VI39A39AA.mp3",
     "colored_long": "Rude or off-color remarks are indecorous, and wearing a bikini to a formal dinner would also be indecorous. Indecorous things lack decorum, which is good manners or proper behavior. \u001b[31mIndecorous\u001b[0m, from the Latin \u001b[31mdecorus\u001b[0m, \"becoming or seemly,\" comes from the root word \u001b[31mdecus\u001b[0m, \"ornament,\" and is related to words like \"decorate\" and \"decent.\"",
@@ -5363,6 +6692,91 @@
     "url": "https://www.vocabulary.com/dictionary/indolent",
     "word": "indolent"
   },
+  "indulgent": {
+    "audio_url": "https://audio.vocab.com/1.0/us/I/1GER323Z59I42.mp3",
+    "colored_long": "\u001b[31mIndulgent\u001b[0m is a word that, here in Puritanical North America, is hard to know how to take. Is it okay to \u201c\u001b[31mindulge\u001b[0m yourself\u201d as so many spa advertisements suggest? Or is \u001b[31mindulgent\u001b[0m always associated with excess? You can \u001b[31mindulge\u001b[0m fantasies of figuring out the answer, or you can give in to an \u001b[31mindulgent\u001b[0m shrug and move on to another word.",
+    "colored_short": "Someone who is self-\u001b[31mindulgent\u001b[0m gives themselves a lot of treats. Parents who are \u001b[31mindulgent\u001b[0m cave to every desire their child expresses. \u001b[31mIndulgent\u001b[0m means lenient, or overly generous.",
+    "has_audio": true,
+    "long": "Indulgent is a word that, here in Puritanical North America, is hard to know how to take. Is it okay to \u201cindulge yourself\u201d as so many spa advertisements suggest? Or is indulgent always associated with excess? You can indulge fantasies of figuring out the answer, or you can give in to an indulgent shrug and move on to another word.",
+    "masked_long": "[...] is a word that, here in Puritanical North America, is hard to know how to take. Is it okay to \u201c[...] yourself\u201d as so many spa advertisements suggest? Or is [...] always associated with excess? You can [...] fantasies of figuring out the answer, or you can give in to an [...] shrug and move on to another word.",
+    "masked_short": "Someone who is self-[...] gives themselves a lot of treats. Parents who are [...] cave to every desire their child expresses. [...] means lenient, or overly generous.",
+    "query_time": 1565110862.5021064,
+    "raw_long": [
+      [
+        1,
+        "Indulgent"
+      ],
+      [
+        0,
+        " is a word that, here in Puritanical North America, is hard to know how to take. Is it okay to \u201c"
+      ],
+      [
+        1,
+        "indulge"
+      ],
+      [
+        0,
+        " yourself\u201d as so many spa advertisements suggest? Or is "
+      ],
+      [
+        1,
+        "indulgent"
+      ],
+      [
+        0,
+        " always associated with excess? You can "
+      ],
+      [
+        1,
+        "indulge"
+      ],
+      [
+        0,
+        " fantasies of figuring out the answer, or you can give in to an "
+      ],
+      [
+        1,
+        "indulgent"
+      ],
+      [
+        0,
+        " shrug and move on to another word."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "Someone who is self-"
+      ],
+      [
+        1,
+        "indulgent"
+      ],
+      [
+        0,
+        " gives themselves a lot of treats. Parents who are "
+      ],
+      [
+        1,
+        "indulgent"
+      ],
+      [
+        0,
+        " cave to every desire their child expresses. "
+      ],
+      [
+        1,
+        "Indulgent"
+      ],
+      [
+        0,
+        " means lenient, or overly generous."
+      ]
+    ],
+    "short": "Someone who is self-indulgent gives themselves a lot of treats. Parents who are indulgent cave to every desire their child expresses. Indulgent means lenient, or overly generous.",
+    "url": "https://www.vocabulary.com/dictionary/indulgent",
+    "word": "indulgent"
+  },
   "ineluctable": {
     "audio_url": "https://audio.vocab.com/1.0/us/I/1ORLXQJU8CFSK.mp3",
     "colored_long": "A five syllable beauty like \u001b[31mineluctable\u001b[0m is obviously not the kind of word you throw around in daily speech. It's far more often used as a written word, as in the common phrase \"ineluctable conclusion.\" Used interchangeably with the more common \u001b[31munavoidable,\u001b[0m though \u001b[31mineluctable\u001b[0m implies an unsuccessful attempt to battle against whatever is ineluctable: after all, it comes from the Latin word \"to struggle.\"",
@@ -5427,6 +6841,173 @@
     "short": "Huh? Are you scratching your head at this word? The ineluctable conclusion is that you haven't the faintest idea what it means. Ineluctable means impossible to avoid.",
     "url": "https://www.vocabulary.com/dictionary/ineluctable",
     "word": "ineluctable"
+  },
+  "ineptitude": {
+    "audio_url": "https://audio.vocab.com/1.0/us/I/18ITPVBTJNUQ0.mp3",
+    "colored_long": "\u001b[31mIneptitude\u001b[0m and \u001b[31mincompetence\u001b[0m are synonyms to describe people who have absolutely no idea what they're doing. It's definitely not a quality you'd want in a pilot, who might prove his ineptitude by sending a plane full of passengers hurtling to the ground. Ineptitude also isn't a good quality to have in fields like medicine, where even one careless mistake could be life-threatening.",
+    "colored_short": "\u001b[31mIneptitude\u001b[0m is a lack of skill, ability, or competence. A doctor would prove his \u001b[31mineptitude\u001b[0m at practicing medicine if he mistakenly removed a patient's spleen instead of his kidney.",
+    "has_audio": true,
+    "long": "Ineptitude and incompetence are synonyms to describe people who have absolutely no idea what they're doing. It's definitely not a quality you'd want in a pilot, who might prove his ineptitude by sending a plane full of passengers hurtling to the ground. Ineptitude also isn't a good quality to have in fields like medicine, where even one careless mistake could be life-threatening.",
+    "masked_long": "[...] and [...] are synonyms to describe people who have absolutely no idea what they're doing. It's definitely not a quality you'd want in a pilot, who might prove his ineptitude by sending a plane full of passengers hurtling to the ground. Ineptitude also isn't a good quality to have in fields like medicine, where even one careless mistake could be life-threatening.",
+    "masked_short": "[...] is a lack of skill, ability, or competence. A doctor would prove his [...] at practicing medicine if he mistakenly removed a patient's spleen instead of his kidney.",
+    "query_time": 1565110471.6186728,
+    "raw_long": [
+      [
+        1,
+        "Ineptitude"
+      ],
+      [
+        0,
+        " and "
+      ],
+      [
+        1,
+        "incompetence"
+      ],
+      [
+        0,
+        " are synonyms to describe people who have absolutely no idea what they're doing. It's definitely not a quality you'd want in a pilot, who might prove his ineptitude by sending a plane full of passengers hurtling to the ground. Ineptitude also isn't a good quality to have in fields like medicine, where even one careless mistake could be life-threatening."
+      ]
+    ],
+    "raw_short": [
+      [
+        1,
+        "Ineptitude"
+      ],
+      [
+        0,
+        " is a lack of skill, ability, or competence. A doctor would prove his "
+      ],
+      [
+        1,
+        "ineptitude"
+      ],
+      [
+        0,
+        " at practicing medicine if he mistakenly removed a patient's spleen instead of his kidney."
+      ]
+    ],
+    "short": "Ineptitude is a lack of skill, ability, or competence. A doctor would prove his ineptitude at practicing medicine if he mistakenly removed a patient's spleen instead of his kidney.",
+    "url": "https://www.vocabulary.com/dictionary/ineptitude",
+    "word": "ineptitude"
+  },
+  "inexplicable": {
+    "audio_url": "https://audio.vocab.com/1.0/us/I/QX4OSWM63YD0.mp3",
+    "colored_long": "\u001b[31mInexplicable\u001b[0m is made up of the prefix \u001b[31min\u001b[0m, which means \"not,\" and \u001b[31mexplicable\u001b[0m, which comes from the Latin \u001b[31mexplicabilis\u001b[0m, meaning \"unfolded, unraveled.\" Do you see the double negative? If something is not unfolded, it's folded up and tangled \u00e2\u20ac\u201d like something that doesn't make sense. Your school's decision to call a snow day is inexplicable, if there's barely a layer of snow on the ground.",
+    "colored_short": "Something \u001b[31minexplicable\u001b[0m can't be explained. It doesn't make sense. You don't want to come to the beach on the most beautiful day of the year? That's \u001b[31minexplicable\u001b[0m!",
+    "has_audio": true,
+    "long": "Inexplicable is made up of the prefix in, which means \"not,\" and explicable, which comes from the Latin explicabilis, meaning \"unfolded, unraveled.\" Do you see the double negative? If something is not unfolded, it's folded up and tangled \u00e2\u20ac\u201d like something that doesn't make sense. Your school's decision to call a snow day is inexplicable, if there's barely a layer of snow on the ground.",
+    "masked_long": "[...] is made up of the prefix [...], which means \"not,\" and [...], which comes from the Latin [...], meaning \"unfolded, unraveled.\" Do you see the double negative? If something is not unfolded, it's folded up and tangled \u00e2\u20ac\u201d like something that doesn't make sense. Your school's decision to call a snow day is inexplicable, if there's barely a layer of snow on the ground.",
+    "masked_short": "Something [...] can't be explained. It doesn't make sense. You don't want to come to the beach on the most beautiful day of the year? That's [...]!",
+    "query_time": 1565110431.5009732,
+    "raw_long": [
+      [
+        1,
+        "Inexplicable"
+      ],
+      [
+        0,
+        " is made up of the prefix "
+      ],
+      [
+        1,
+        "in"
+      ],
+      [
+        0,
+        ", which means \"not,\" and "
+      ],
+      [
+        1,
+        "explicable"
+      ],
+      [
+        0,
+        ", which comes from the Latin "
+      ],
+      [
+        1,
+        "explicabilis"
+      ],
+      [
+        0,
+        ", meaning \"unfolded, unraveled.\" Do you see the double negative? If something is not unfolded, it's folded up and tangled \u00e2\u20ac\u201d like something that doesn't make sense. Your school's decision to call a snow day is inexplicable, if there's barely a layer of snow on the ground."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "Something "
+      ],
+      [
+        1,
+        "inexplicable"
+      ],
+      [
+        0,
+        " can't be explained. It doesn't make sense. You don't want to come to the beach on the most beautiful day of the year? That's "
+      ],
+      [
+        1,
+        "inexplicable"
+      ],
+      [
+        0,
+        "!"
+      ]
+    ],
+    "short": "Something inexplicable can't be explained. It doesn't make sense. You don't want to come to the beach on the most beautiful day of the year? That's inexplicable!",
+    "url": "https://www.vocabulary.com/dictionary/inexplicable",
+    "word": "inexplicable"
+  },
+  "infatuation": {
+    "audio_url": "https://audio.vocab.com/1.0/us/I/1P26GQ9TMSS14.mp3",
+    "colored_long": "If something \u001b[31minfatuates\u001b[0m you, it has caused you to become foolish. We say you have an \u001b[31minfatuation\u001b[0m when you express a crazy, extreme love of something\u2013\u2013a person, a style, a band, anything. Infatuations usually don\u2019t last. Like incredibly intense crushes or the stomach flu, infatuations come on strong and then get forgotten.",
+    "colored_short": "Infatuation is falling in love with or becoming extremely interested in someone or something for a short time. If you have an \u001b[31minfatuation\u001b[0m with a particular singer, you probably listen to her on repeat all day long, at least this week.",
+    "has_audio": true,
+    "long": "If something infatuates you, it has caused you to become foolish. We say you have an infatuation when you express a crazy, extreme love of something\u2013\u2013a person, a style, a band, anything. Infatuations usually don\u2019t last. Like incredibly intense crushes or the stomach flu, infatuations come on strong and then get forgotten.",
+    "masked_long": "If something [...] you, it has caused you to become foolish. We say you have an [...] when you express a crazy, extreme love of something\u2013\u2013a person, a style, a band, anything. Infatuations usually don\u2019t last. Like incredibly intense crushes or the stomach flu, infatuations come on strong and then get forgotten.",
+    "masked_short": "Infatuation is falling in love with or becoming extremely interested in someone or something for a short time. If you have an [...] with a particular singer, you probably listen to her on repeat all day long, at least this week.",
+    "query_time": 1565110444.4108162,
+    "raw_long": [
+      [
+        0,
+        "If something "
+      ],
+      [
+        1,
+        "infatuates"
+      ],
+      [
+        0,
+        " you, it has caused you to become foolish. We say you have an "
+      ],
+      [
+        1,
+        "infatuation"
+      ],
+      [
+        0,
+        " when you express a crazy, extreme love of something\u2013\u2013a person, a style, a band, anything. Infatuations usually don\u2019t last. Like incredibly intense crushes or the stomach flu, infatuations come on strong and then get forgotten."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "Infatuation is falling in love with or becoming extremely interested in someone or something for a short time. If you have an "
+      ],
+      [
+        1,
+        "infatuation"
+      ],
+      [
+        0,
+        " with a particular singer, you probably listen to her on repeat all day long, at least this week."
+      ]
+    ],
+    "short": "Infatuation is falling in love with or becoming extremely interested in someone or something for a short time. If you have an infatuation with a particular singer, you probably listen to her on repeat all day long, at least this week.",
+    "url": "https://www.vocabulary.com/dictionary/infatuation",
+    "word": "infatuation"
   },
   "instigate": {
     "audio_url": "https://audio.vocab.com/1.0/us/I/7R21ZI59ST2K.mp3",
@@ -5537,6 +7118,63 @@
     "short": "If you refuse to compromise with your sister about whose turn it is to do the dishes, your mother might accuse you both of intransigence. Intransigence is a stubborn refusal to change your views.",
     "url": "https://www.vocabulary.com/dictionary/intransigence",
     "word": "intransigence"
+  },
+  "inundate": {
+    "audio_url": "https://audio.vocab.com/1.0/us/I/PZSZ7RNEY1SD.mp3",
+    "colored_long": "Commonly used to refer to a deluge of water, \u001b[31minundate\u001b[0m can also refer to an overflow of something less tangible, like information. Right before the holidays, toy stores are often inundated with eager parents scrambling to get the latest action figures and video games. Attempt to read the entire dictionary in one sitting and you'll inundate your mind with vocabulary. But you probably won't remember any of it tomorrow.",
+    "colored_short": "To \u001b[31minundate\u001b[0m means to quickly fill up or overwhelm, just like a flood. Your bathroom could be \u001b[31minundated\u001b[0m with water if the pipes burst, and hopefully your inbox is \u001b[31minundated\u001b[0m with nice emails on your birthday.",
+    "has_audio": true,
+    "long": "Commonly used to refer to a deluge of water, inundate can also refer to an overflow of something less tangible, like information. Right before the holidays, toy stores are often inundated with eager parents scrambling to get the latest action figures and video games. Attempt to read the entire dictionary in one sitting and you'll inundate your mind with vocabulary. But you probably won't remember any of it tomorrow.",
+    "masked_long": "Commonly used to refer to a deluge of water, [...] can also refer to an overflow of something less tangible, like information. Right before the holidays, toy stores are often inundated with eager parents scrambling to get the latest action figures and video games. Attempt to read the entire dictionary in one sitting and you'll inundate your mind with vocabulary. But you probably won't remember any of it tomorrow.",
+    "masked_short": "To [...] means to quickly fill up or overwhelm, just like a flood. Your bathroom could be [...] with water if the pipes burst, and hopefully your inbox is [...] with nice emails on your birthday.",
+    "query_time": 1565111107.6144326,
+    "raw_long": [
+      [
+        0,
+        "Commonly used to refer to a deluge of water, "
+      ],
+      [
+        1,
+        "inundate"
+      ],
+      [
+        0,
+        " can also refer to an overflow of something less tangible, like information. Right before the holidays, toy stores are often inundated with eager parents scrambling to get the latest action figures and video games. Attempt to read the entire dictionary in one sitting and you'll inundate your mind with vocabulary. But you probably won't remember any of it tomorrow."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "To "
+      ],
+      [
+        1,
+        "inundate"
+      ],
+      [
+        0,
+        " means to quickly fill up or overwhelm, just like a flood. Your bathroom could be "
+      ],
+      [
+        1,
+        "inundated"
+      ],
+      [
+        0,
+        " with water if the pipes burst, and hopefully your inbox is "
+      ],
+      [
+        1,
+        "inundated"
+      ],
+      [
+        0,
+        " with nice emails on your birthday."
+      ]
+    ],
+    "short": "To inundate means to quickly fill up or overwhelm, just like a flood. Your bathroom could be inundated with water if the pipes burst, and hopefully your inbox is inundated with nice emails on your birthday.",
+    "url": "https://www.vocabulary.com/dictionary/inundate",
+    "word": "inundate"
   },
   "invigorate": {
     "audio_url": "https://audio.vocab.com/1.0/us/I/1JBD4F7O9SLEC.mp3",
@@ -5676,6 +7314,47 @@
     "url": "https://www.vocabulary.com/dictionary/itinerant",
     "word": "itinerant"
   },
+  "jingle": {
+    "audio_url": "https://audio.vocab.com/1.0/us/J/BSJHWBIRU9ZT.mp3",
+    "colored_long": "Have you ever heard a dog's metal tags banging together? That sound is called a jingle. A jingle is a metallic sound \u00e2\u20ac\u201d a cowboy's spurs and a set of keys being shaken both jingle. If you drop a bunch of change on the ground, it will jingle. A jingle is also a bit of comic poetry, like a little song. Jingles are often made as advertisements because they tend to be catchy.",
+    "colored_short": "To \u001b[31mjingle\u001b[0m is to make a sound like pieces of metal jangling together, like those bells people sing about at Christmas. A \u001b[31mjingle\u001b[0m is also a funny little poem or song.",
+    "has_audio": true,
+    "long": "Have you ever heard a dog's metal tags banging together? That sound is called a jingle. A jingle is a metallic sound \u00e2\u20ac\u201d a cowboy's spurs and a set of keys being shaken both jingle. If you drop a bunch of change on the ground, it will jingle. A jingle is also a bit of comic poetry, like a little song. Jingles are often made as advertisements because they tend to be catchy.",
+    "masked_long": "Have you ever heard a dog's metal tags banging together? That sound is called a jingle. A jingle is a metallic sound \u00e2\u20ac\u201d a cowboy's spurs and a set of keys being shaken both jingle. If you drop a bunch of change on the ground, it will jingle. A jingle is also a bit of comic poetry, like a little song. Jingles are often made as advertisements because they tend to be catchy.",
+    "masked_short": "To [...] is to make a sound like pieces of metal jangling together, like those bells people sing about at Christmas. A [...] is also a funny little poem or song.",
+    "query_time": 1565110961.301439,
+    "raw_long": [
+      [
+        0,
+        "Have you ever heard a dog's metal tags banging together? That sound is called a jingle. A jingle is a metallic sound \u00e2\u20ac\u201d a cowboy's spurs and a set of keys being shaken both jingle. If you drop a bunch of change on the ground, it will jingle. A jingle is also a bit of comic poetry, like a little song. Jingles are often made as advertisements because they tend to be catchy."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "To "
+      ],
+      [
+        1,
+        "jingle"
+      ],
+      [
+        0,
+        " is to make a sound like pieces of metal jangling together, like those bells people sing about at Christmas. A "
+      ],
+      [
+        1,
+        "jingle"
+      ],
+      [
+        0,
+        " is also a funny little poem or song."
+      ]
+    ],
+    "short": "To jingle is to make a sound like pieces of metal jangling together, like those bells people sing about at Christmas. A jingle is also a funny little poem or song.",
+    "url": "https://www.vocabulary.com/dictionary/jingle",
+    "word": "jingle"
+  },
   "knotty": {
     "audio_url": "https://audio.vocab.com/1.0/us/K/1Y0UJTC3VQTUC.mp3",
     "colored_long": "The adjective \u001b[31mknotty\u001b[0m is a way to describe something that\u2019s covered in knots. It can be used in a literal sense to refer to wood that is covered in hard, irregular knots \u2014 you\u2019ve probably seen these circular, knobby imperfections that sometime appear on wood. The word can also be used figuratively to describe something that is intricate and difficult to solve, such as a knotty political problem involving two warring nations or a knotty legal issue involving complicated constitutional issues.",
@@ -5733,7 +7412,7 @@
     "long": "Lavish comes from the Old French lavache meaning \"deluge, torrent\" referring to rain. When you see it, think of a shower of good things coming down on you as you never use lavish with something bad. Didn't your parents lavish you with praise and love when you were small? With lavish as an adjective, you can rephrase that question like this: Didn't your parents offer you lavish praise and love when you were little?",
     "masked_long": "[...] comes from the Old French [...] meaning \"deluge, torrent\" referring to rain. When you see it, think of a shower of good things coming down on you as you never use [...] with something bad. Didn't your parents lavish you with praise and love when you were small? With [...] as an adjective, you can rephrase that question like this: Didn't your parents offer you lavish praise and love when you were little?",
     "masked_short": "[...] means generous and extravagant as an adjective and to give generously as a verb. If you don't like it when people [...] you with attention, you might appreciate a [...] spread of excellent food instead.",
-    "query_time": 1564590814.688401,
+    "query_time": 1565110754.3801877,
     "raw_long": [
       [
         1,
@@ -5806,7 +7485,7 @@
     "long": "When you walk a dog, you hold his leash to guide him along the sidewalk and keep him from chasing squirrels into busy streets. The word leash is also useful for describing a figurative kind of guide or restraint: \"The teachers at that school keep their students on a short leash when they take field trips downtown.\" The students aren't on actual leashes, but they are constrained. Leash comes from the Old French word laissier, or \"loose.\"",
     "masked_long": "When you walk a dog, you hold his leash to guide him along the sidewalk and keep him from chasing squirrels into busy streets. The word [...] is also useful for describing a figurative kind of guide or restraint: \"The teachers at that school keep their students on a short [...] when they take field trips downtown.\" The students aren't on actual leashes, but they are constrained. [...] comes from the Old French word [...], or \"loose.\"",
     "masked_short": "Dog owners who live in the city need a [...], a rope or cord attached to the dog's collar that helps his owner keep him safe and restrained.",
-    "query_time": 1564591401.9271443,
+    "query_time": 1565110408.6798694,
     "raw_long": [
       [
         0,
@@ -5903,6 +7582,79 @@
     "short": "If you've ever had a long, sweet, chewy, black candy, you've probably had licorice. This is a common type of candy made from the dried roots of the licorice plant.",
     "url": "https://www.vocabulary.com/dictionary/licorice",
     "word": "licorice"
+  },
+  "lucrative": {
+    "audio_url": "https://audio.vocab.com/1.0/us/L/16TIOJEX3LEEC.mp3",
+    "colored_long": "This adjective is from the Latin word \u001b[31mlucrum\u001b[0m, meaning \"profit.\" In Latin, \u001b[31mlucrum\u001b[0m also meant \"greed,\" a negative sense preserved in the English phrase \u001b[31mfilthy lucre\u001b[0m, or \"shameful profit or gain.\" But the word \u001b[31mlucrative\u001b[0m doesn't carry a similar sense of shame \u00e2\u20ac\u201d if your lawn-mowing job proves lucrative over the summer, you might be able to buy yourself a used car.",
+    "colored_short": "Use \u001b[31mlucrative\u001b[0m to refer to a business or investment that makes money. While your parents might want you to pursue a \u001b[31mlucrative\u001b[0m career, you're committed to your plan of becoming a professional mime.",
+    "has_audio": true,
+    "long": "This adjective is from the Latin word lucrum, meaning \"profit.\" In Latin, lucrum also meant \"greed,\" a negative sense preserved in the English phrase filthy lucre, or \"shameful profit or gain.\" But the word lucrative doesn't carry a similar sense of shame \u00e2\u20ac\u201d if your lawn-mowing job proves lucrative over the summer, you might be able to buy yourself a used car.",
+    "masked_long": "This adjective is from the Latin word [...], meaning \"profit.\" In Latin, [...] also meant \"greed,\" a negative sense preserved in the English phrase [...], or \"shameful profit or gain.\" But the word [...] doesn't carry a similar sense of shame \u00e2\u20ac\u201d if your lawn-mowing job proves lucrative over the summer, you might be able to buy yourself a used car.",
+    "masked_short": "Use [...] to refer to a business or investment that makes money. While your parents might want you to pursue a [...] career, you're committed to your plan of becoming a professional mime.",
+    "query_time": 1565111160.8938656,
+    "raw_long": [
+      [
+        0,
+        "This adjective is from the Latin word "
+      ],
+      [
+        1,
+        "lucrum"
+      ],
+      [
+        0,
+        ", meaning \"profit.\" In Latin, "
+      ],
+      [
+        1,
+        "lucrum"
+      ],
+      [
+        0,
+        " also meant \"greed,\" a negative sense preserved in the English phrase "
+      ],
+      [
+        1,
+        "filthy lucre"
+      ],
+      [
+        0,
+        ", or \"shameful profit or gain.\" But the word "
+      ],
+      [
+        1,
+        "lucrative"
+      ],
+      [
+        0,
+        " doesn't carry a similar sense of shame \u00e2\u20ac\u201d if your lawn-mowing job proves lucrative over the summer, you might be able to buy yourself a used car."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "Use "
+      ],
+      [
+        1,
+        "lucrative"
+      ],
+      [
+        0,
+        " to refer to a business or investment that makes money. While your parents might want you to pursue a "
+      ],
+      [
+        1,
+        "lucrative"
+      ],
+      [
+        0,
+        " career, you're committed to your plan of becoming a professional mime."
+      ]
+    ],
+    "short": "Use lucrative to refer to a business or investment that makes money. While your parents might want you to pursue a lucrative career, you're committed to your plan of becoming a professional mime.",
+    "url": "https://www.vocabulary.com/dictionary/lucrative",
+    "word": "lucrative"
   },
   "lugubrious": {
     "audio_url": "https://audio.vocab.com/1.0/us/L/BXCS002B92L1.mp3",
@@ -6021,6 +7773,177 @@
     "short": "When a James Bond villain comes up with a plan to destroy the world, he doesn\u2019t use a simple plan. No, he uses a machination \u2014 a complex plot that relies on numerous elements coming together to work.",
     "url": "https://www.vocabulary.com/dictionary/machination",
     "word": "machination"
+  },
+  "madcap": {
+    "audio_url": "https://audio.vocab.com/1.0/us/M/CW5TBYJKQ1SZ.mp3",
+    "colored_long": "The adjective \u001b[31mmadcap\u001b[0m, which can simply mean \"impetuous,\" can also have a sense of \"funny and eccentric.\" A movie that's described as a madcap comedy will probably be full of broad slapstick and laugh-out-loud physical humor. \u001b[31mMadcap\u001b[0m, dating from the 16th century, originally meant \"lunatic\" or \"crazy person,\" from the \"head\" sense of \u001b[31mcap\u001b[0m \u00e2\u20ac\u201d in other words, a madcap was a \"crazy head.\"",
+    "colored_short": "\u001b[31mMadcap\u001b[0m things are done in a foolish, rash, or impulsive way, without planning or thought. Your \u001b[31mmadcap\u001b[0m adventure might include a spur-of-the-moment bus ride to a nearby city without enough money in your pocket to buy lunch.",
+    "has_audio": true,
+    "long": "The adjective madcap, which can simply mean \"impetuous,\" can also have a sense of \"funny and eccentric.\" A movie that's described as a madcap comedy will probably be full of broad slapstick and laugh-out-loud physical humor. Madcap, dating from the 16th century, originally meant \"lunatic\" or \"crazy person,\" from the \"head\" sense of cap \u00e2\u20ac\u201d in other words, a madcap was a \"crazy head.\"",
+    "masked_long": "The adjective [...], which can simply mean \"impetuous,\" can also have a sense of \"funny and eccentric.\" A movie that's described as a madcap comedy will probably be full of broad slapstick and laugh-out-loud physical humor. [...], dating from the 16th century, originally meant \"lunatic\" or \"crazy person,\" from the \"head\" sense of [...] \u00e2\u20ac\u201d in other words, a madcap was a \"crazy head.\"",
+    "masked_short": "[...] things are done in a foolish, rash, or impulsive way, without planning or thought. Your [...] adventure might include a spur-of-the-moment bus ride to a nearby city without enough money in your pocket to buy lunch.",
+    "query_time": 1565111011.4442294,
+    "raw_long": [
+      [
+        0,
+        "The adjective "
+      ],
+      [
+        1,
+        "madcap"
+      ],
+      [
+        0,
+        ", which can simply mean \"impetuous,\" can also have a sense of \"funny and eccentric.\" A movie that's described as a madcap comedy will probably be full of broad slapstick and laugh-out-loud physical humor. "
+      ],
+      [
+        1,
+        "Madcap"
+      ],
+      [
+        0,
+        ", dating from the 16th century, originally meant \"lunatic\" or \"crazy person,\" from the \"head\" sense of "
+      ],
+      [
+        1,
+        "cap"
+      ],
+      [
+        0,
+        " \u00e2\u20ac\u201d in other words, a madcap was a \"crazy head.\""
+      ]
+    ],
+    "raw_short": [
+      [
+        1,
+        "Madcap"
+      ],
+      [
+        0,
+        " things are done in a foolish, rash, or impulsive way, without planning or thought. Your "
+      ],
+      [
+        1,
+        "madcap"
+      ],
+      [
+        0,
+        " adventure might include a spur-of-the-moment bus ride to a nearby city without enough money in your pocket to buy lunch."
+      ]
+    ],
+    "short": "Madcap things are done in a foolish, rash, or impulsive way, without planning or thought. Your madcap adventure might include a spur-of-the-moment bus ride to a nearby city without enough money in your pocket to buy lunch.",
+    "url": "https://www.vocabulary.com/dictionary/madcap",
+    "word": "madcap"
+  },
+  "maverick": {
+    "audio_url": "https://audio.vocab.com/1.0/us/M/2BAQ5VAWA952.mp3",
+    "colored_long": "Samuel A. Maverick owned a lot of cattle, and he let them roam around Texas without a brand, or identification mark, seared into their skins. Samuel was a maverick for going against the common practice of tracking his animals, and his last name became part of the English language as both an adjective and a noun in the 19th century. Someone who acts very independently is a maverick, and individual actions that stand out are maverick, as in \"her maverick jumping style on the ice was both wild and delicate.\"",
+    "colored_short": "A \u001b[31mmaverick\u001b[0m is a rebel, someone who shows a lot of independence. A \u001b[31mmaverick\u001b[0m on a motorcycle might blaze her own trail, traveling around the country and earning money by performing in rodeos.",
+    "has_audio": true,
+    "long": "Samuel A. Maverick owned a lot of cattle, and he let them roam around Texas without a brand, or identification mark, seared into their skins. Samuel was a maverick for going against the common practice of tracking his animals, and his last name became part of the English language as both an adjective and a noun in the 19th century. Someone who acts very independently is a maverick, and individual actions that stand out are maverick, as in \"her maverick jumping style on the ice was both wild and delicate.\"",
+    "masked_long": "Samuel A. Maverick owned a lot of cattle, and he let them roam around Texas without a brand, or identification mark, seared into their skins. Samuel was a maverick for going against the common practice of tracking his animals, and his last name became part of the English language as both an adjective and a noun in the 19th century. Someone who acts very independently is a maverick, and individual actions that stand out are maverick, as in \"her maverick jumping style on the ice was both wild and delicate.\"",
+    "masked_short": "A [...] is a rebel, someone who shows a lot of independence. A [...] on a motorcycle might blaze her own trail, traveling around the country and earning money by performing in rodeos.",
+    "query_time": 1565111076.9249244,
+    "raw_long": [
+      [
+        0,
+        "Samuel A. Maverick owned a lot of cattle, and he let them roam around Texas without a brand, or identification mark, seared into their skins. Samuel was a maverick for going against the common practice of tracking his animals, and his last name became part of the English language as both an adjective and a noun in the 19th century. Someone who acts very independently is a maverick, and individual actions that stand out are maverick, as in \"her maverick jumping style on the ice was both wild and delicate.\""
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "A "
+      ],
+      [
+        1,
+        "maverick"
+      ],
+      [
+        0,
+        " is a rebel, someone who shows a lot of independence. A "
+      ],
+      [
+        1,
+        "maverick"
+      ],
+      [
+        0,
+        " on a motorcycle might blaze her own trail, traveling around the country and earning money by performing in rodeos."
+      ]
+    ],
+    "short": "A maverick is a rebel, someone who shows a lot of independence. A maverick on a motorcycle might blaze her own trail, traveling around the country and earning money by performing in rodeos.",
+    "url": "https://www.vocabulary.com/dictionary/maverick",
+    "word": "maverick"
+  },
+  "mendacity": {
+    "audio_url": "https://audio.vocab.com/1.0/us/M/1X6PV9U5RLV18.mp3",
+    "colored_long": "Anyone in the habit of lying frequently has the characteristic of mendacity. People often accuse government officials of mendacity, or being less than honest. You're bound to get frustrated by the mendacity of your friend who's a pathological liar. \u001b[31mMendacity\u001b[0m comes from the Latin root word \u001b[31mmendacium\u001b[0m, or \"lie.\" Don't confuse \u001b[31mmendacity\u001b[0m with a similar-sounding word, \u001b[31maudacity\u001b[0m \u00e2\u20ac\u201d which means \"fearlessness, daring, or bravery.\"",
+    "colored_short": "\u001b[31mMendacity\u001b[0m is a tendency to lie. Your friend might swear that he didn't eat your secret chocolate stash, but you'll find it hard to believe him if he's known for his \u001b[31mmendacity\u001b[0m.",
+    "has_audio": true,
+    "long": "Anyone in the habit of lying frequently has the characteristic of mendacity. People often accuse government officials of mendacity, or being less than honest. You're bound to get frustrated by the mendacity of your friend who's a pathological liar. Mendacity comes from the Latin root word mendacium, or \"lie.\" Don't confuse mendacity with a similar-sounding word, audacity \u00e2\u20ac\u201d which means \"fearlessness, daring, or bravery.\"",
+    "masked_long": "Anyone in the habit of lying frequently has the characteristic of mendacity. People often accuse government officials of mendacity, or being less than honest. You're bound to get frustrated by the mendacity of your friend who's a pathological liar. [...] comes from the Latin root word [...], or \"lie.\" Don't confuse [...] with a similar-sounding word, [...] \u00e2\u20ac\u201d which means \"fearlessness, daring, or bravery.\"",
+    "masked_short": "[...] is a tendency to lie. Your friend might swear that he didn't eat your secret chocolate stash, but you'll find it hard to believe him if he's known for his [...].",
+    "query_time": 1565110905.8189611,
+    "raw_long": [
+      [
+        0,
+        "Anyone in the habit of lying frequently has the characteristic of mendacity. People often accuse government officials of mendacity, or being less than honest. You're bound to get frustrated by the mendacity of your friend who's a pathological liar. "
+      ],
+      [
+        1,
+        "Mendacity"
+      ],
+      [
+        0,
+        " comes from the Latin root word "
+      ],
+      [
+        1,
+        "mendacium"
+      ],
+      [
+        0,
+        ", or \"lie.\" Don't confuse "
+      ],
+      [
+        1,
+        "mendacity"
+      ],
+      [
+        0,
+        " with a similar-sounding word, "
+      ],
+      [
+        1,
+        "audacity"
+      ],
+      [
+        0,
+        " \u00e2\u20ac\u201d which means \"fearlessness, daring, or bravery.\""
+      ]
+    ],
+    "raw_short": [
+      [
+        1,
+        "Mendacity"
+      ],
+      [
+        0,
+        " is a tendency to lie. Your friend might swear that he didn't eat your secret chocolate stash, but you'll find it hard to believe him if he's known for his "
+      ],
+      [
+        1,
+        "mendacity"
+      ],
+      [
+        0,
+        "."
+      ]
+    ],
+    "short": "Mendacity is a tendency to lie. Your friend might swear that he didn't eat your secret chocolate stash, but you'll find it hard to believe him if he's known for his mendacity.",
+    "url": "https://www.vocabulary.com/dictionary/mendacity",
+    "word": "mendacity"
   },
   "muddled": {
     "audio_url": "https://audio.vocab.com/1.0/us/M/11FWRIT300VWQ.mp3",
@@ -6956,6 +8879,217 @@
     "url": "https://www.vocabulary.com/dictionary/polemical",
     "word": "polemical"
   },
+  "precautionary": {
+    "audio_url": "https://audio.vocab.com/1.0/us/P/1QNE47NOA1ML2.mp3",
+    "colored_long": "If you do it beforehand to protect someone or something, it's precautionary. You may be sure you don't have a concussion after wiping out on your bike, but getting checked out at the emergency room would be a smart, precautionary move anyway. Putting on your helmet before you raced your bike down that hill was also precautionary. The Late Latin source of \u001b[31mprecautionary\u001b[0m is \u001b[31mpraecautionem\u001b[0m, \"a safeguarding,\" from the Latin \u001b[31mpraecavere\u001b[0m, \"to guard against beforehand.\"",
+    "colored_short": "Anything that might prevent something unpleasant or dangerous from happening is \u001b[31mprecautionary\u001b[0m. If you're babysitting your neighbor's three year old triplets, you might want to hide every fragile thing in your house as a \u001b[31mprecautionary\u001b[0m measure first.",
+    "has_audio": true,
+    "long": "If you do it beforehand to protect someone or something, it's precautionary. You may be sure you don't have a concussion after wiping out on your bike, but getting checked out at the emergency room would be a smart, precautionary move anyway. Putting on your helmet before you raced your bike down that hill was also precautionary. The Late Latin source of precautionary is praecautionem, \"a safeguarding,\" from the Latin praecavere, \"to guard against beforehand.\"",
+    "masked_long": "If you do it beforehand to protect someone or something, it's precautionary. You may be sure you don't have a concussion after wiping out on your bike, but getting checked out at the emergency room would be a smart, precautionary move anyway. Putting on your helmet before you raced your bike down that hill was also precautionary. The Late Latin source of [...] is [...], \"a safeguarding,\" from the Latin [...], \"to guard against beforehand.\"",
+    "masked_short": "Anything that might prevent something unpleasant or dangerous from happening is [...]. If you're babysitting your neighbor's three year old triplets, you might want to hide every fragile thing in your house as a [...] measure first.",
+    "query_time": 1565109245.005948,
+    "raw_long": [
+      [
+        0,
+        "If you do it beforehand to protect someone or something, it's precautionary. You may be sure you don't have a concussion after wiping out on your bike, but getting checked out at the emergency room would be a smart, precautionary move anyway. Putting on your helmet before you raced your bike down that hill was also precautionary. The Late Latin source of "
+      ],
+      [
+        1,
+        "precautionary"
+      ],
+      [
+        0,
+        " is "
+      ],
+      [
+        1,
+        "praecautionem"
+      ],
+      [
+        0,
+        ", \"a safeguarding,\" from the Latin "
+      ],
+      [
+        1,
+        "praecavere"
+      ],
+      [
+        0,
+        ", \"to guard against beforehand.\""
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "Anything that might prevent something unpleasant or dangerous from happening is "
+      ],
+      [
+        1,
+        "precautionary"
+      ],
+      [
+        0,
+        ". If you're babysitting your neighbor's three year old triplets, you might want to hide every fragile thing in your house as a "
+      ],
+      [
+        1,
+        "precautionary"
+      ],
+      [
+        0,
+        " measure first."
+      ]
+    ],
+    "short": "Anything that might prevent something unpleasant or dangerous from happening is precautionary. If you're babysitting your neighbor's three year old triplets, you might want to hide every fragile thing in your house as a precautionary measure first.",
+    "url": "https://www.vocabulary.com/dictionary/precautionary",
+    "word": "precautionary"
+  },
+  "precipitous": {
+    "audio_url": "https://audio.vocab.com/1.0/us/P/OZL20I240KBE.mp3",
+    "colored_long": "Look closely and you'll spot most of the word \u001b[31mprecipice\u001b[0m (a sheer, almost vertical cliff) in \u001b[31mprecipitous\u001b[0m. Now imagine how you'd feel standing at the edge peering over, and you'll grasp the sense of impending danger that \u001b[31mprecipitous\u001b[0m tends to imply. \u001b[31mPrecipitous\u001b[0m declines in sales lead to bankruptcy. \u001b[31mPrecipitous\u001b[0m mountainside hiking trails are not for the acrophobic. It can describe an ascent, but \u001b[31mprecipitous\u001b[0m is most often used for things going literally or figuratively downhill.",
+    "colored_short": "A sharp, steep drop \u2014 whether it's in a stock price, a roller coaster, or a star's popularity \u2014 could be described as a \u001b[31mprecipitous\u001b[0m one. Put simply, \u001b[31mprecipitous\u001b[0m means perilously steep.",
+    "has_audio": true,
+    "long": "Look closely and you'll spot most of the word precipice (a sheer, almost vertical cliff) in precipitous. Now imagine how you'd feel standing at the edge peering over, and you'll grasp the sense of impending danger that precipitous tends to imply. Precipitous declines in sales lead to bankruptcy. Precipitous mountainside hiking trails are not for the acrophobic. It can describe an ascent, but precipitous is most often used for things going literally or figuratively downhill.",
+    "masked_long": "Look closely and you'll spot most of the word [...] (a sheer, almost vertical cliff) in [...]. Now imagine how you'd feel standing at the edge peering over, and you'll grasp the sense of impending danger that [...] tends to imply. [...] declines in sales lead to bankruptcy. [...] mountainside hiking trails are not for the acrophobic. It can describe an ascent, but [...] is most often used for things going literally or figuratively downhill.",
+    "masked_short": "A sharp, steep drop \u2014 whether it's in a stock price, a roller coaster, or a star's popularity \u2014 could be described as a [...] one. Put simply, [...] means perilously steep.",
+    "query_time": 1565111207.1939309,
+    "raw_long": [
+      [
+        0,
+        "Look closely and you'll spot most of the word "
+      ],
+      [
+        1,
+        "precipice"
+      ],
+      [
+        0,
+        " (a sheer, almost vertical cliff) in "
+      ],
+      [
+        1,
+        "precipitous"
+      ],
+      [
+        0,
+        ". Now imagine how you'd feel standing at the edge peering over, and you'll grasp the sense of impending danger that "
+      ],
+      [
+        1,
+        "precipitous"
+      ],
+      [
+        0,
+        " tends to imply. "
+      ],
+      [
+        1,
+        "Precipitous"
+      ],
+      [
+        0,
+        " declines in sales lead to bankruptcy. "
+      ],
+      [
+        1,
+        "Precipitous"
+      ],
+      [
+        0,
+        " mountainside hiking trails are not for the acrophobic. It can describe an ascent, but "
+      ],
+      [
+        1,
+        "precipitous"
+      ],
+      [
+        0,
+        " is most often used for things going literally or figuratively downhill."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "A sharp, steep drop \u2014 whether it's in a stock price, a roller coaster, or a star's popularity \u2014 could be described as a "
+      ],
+      [
+        1,
+        "precipitous"
+      ],
+      [
+        0,
+        " one. Put simply, "
+      ],
+      [
+        1,
+        "precipitous"
+      ],
+      [
+        0,
+        " means perilously steep."
+      ]
+    ],
+    "short": "A sharp, steep drop \u2014 whether it's in a stock price, a roller coaster, or a star's popularity \u2014 could be described as a precipitous one. Put simply, precipitous means perilously steep.",
+    "url": "https://www.vocabulary.com/dictionary/precipitous",
+    "word": "precipitous"
+  },
+  "premeditate": {
+    "audio_url": "https://audio.vocab.com/1.0/us/P/QFAEPOXP8817.mp3",
+    "colored_long": "When you meditate, you think deeply. The prefix \u001b[31mpre\u001b[0m- means \u201cbefore,\u201d so to \u001b[31mpremeditate\u001b[0m means to think about a situation before you\u2019ve jumped into it. If you\u2019ve ever cooked a meal, you\u2019ve premeditated the ingredients you need to get started. In a courtroom you\u2019ll hear about \"\u001b[31mpremeditated\u001b[0m murder,\" which means the accused killer planned out his crime and it wasn\u2019t a crime of passion. Premeditating can be a good thing, but not when it involves murder.",
+    "colored_short": "When you premeditate, you are planning ahead. While most people associate this word with crime, let's hope you can think of a better reason to \u001b[31mpremeditate\u001b[0m \u2014 like buying groceries before a storm.",
+    "has_audio": true,
+    "long": "When you meditate, you think deeply. The prefix pre- means \u201cbefore,\u201d so to premeditate means to think about a situation before you\u2019ve jumped into it. If you\u2019ve ever cooked a meal, you\u2019ve premeditated the ingredients you need to get started. In a courtroom you\u2019ll hear about \"premeditated murder,\" which means the accused killer planned out his crime and it wasn\u2019t a crime of passion. Premeditating can be a good thing, but not when it involves murder.",
+    "masked_long": "When you meditate, you think deeply. The prefix [...]- means \u201cbefore,\u201d so to [...] means to think about a situation before you\u2019ve jumped into it. If you\u2019ve ever cooked a meal, you\u2019ve premeditated the ingredients you need to get started. In a courtroom you\u2019ll hear about \"[...] murder,\" which means the accused killer planned out his crime and it wasn\u2019t a crime of passion. Premeditating can be a good thing, but not when it involves murder.",
+    "masked_short": "When you premeditate, you are planning ahead. While most people associate this word with crime, let's hope you can think of a better reason to [...] \u2014 like buying groceries before a storm.",
+    "query_time": 1565109214.3969772,
+    "raw_long": [
+      [
+        0,
+        "When you meditate, you think deeply. The prefix "
+      ],
+      [
+        1,
+        "pre"
+      ],
+      [
+        0,
+        "- means \u201cbefore,\u201d so to "
+      ],
+      [
+        1,
+        "premeditate"
+      ],
+      [
+        0,
+        " means to think about a situation before you\u2019ve jumped into it. If you\u2019ve ever cooked a meal, you\u2019ve premeditated the ingredients you need to get started. In a courtroom you\u2019ll hear about \""
+      ],
+      [
+        1,
+        "premeditated"
+      ],
+      [
+        0,
+        " murder,\" which means the accused killer planned out his crime and it wasn\u2019t a crime of passion. Premeditating can be a good thing, but not when it involves murder."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "When you premeditate, you are planning ahead. While most people associate this word with crime, let's hope you can think of a better reason to "
+      ],
+      [
+        1,
+        "premeditate"
+      ],
+      [
+        0,
+        " \u2014 like buying groceries before a storm."
+      ]
+    ],
+    "short": "When you premeditate, you are planning ahead. While most people associate this word with crime, let's hope you can think of a better reason to premeditate \u2014 like buying groceries before a storm.",
+    "url": "https://www.vocabulary.com/dictionary/premeditate",
+    "word": "premeditate"
+  },
   "prescience": {
     "audio_url": "https://audio.vocab.com/1.0/us/P/5F9VUNUUC34G.mp3",
     "colored_long": "The word \u001b[31mprescience\u001b[0m might look like \u001b[31mpre\u001b[0m + \u001b[31mscience\u001b[0m, but it really comes from the Latin word \u001b[31mpraescientia\u001b[0m, which means \"fore-knowledge\" \u00e2\u20ac\u201d or knowledge you know before anyone else. Don't assume it's a crystal ball kind of power that lets someone with prescience see the future. It's more like a state of mind or level of expertise that allows for excellent foresight and planning.",
@@ -7020,6 +9154,55 @@
     "short": "Do you already know what happens tomorrow? Next week? Next year? If you can see into the future, then you have prescience.",
     "url": "https://www.vocabulary.com/dictionary/prescience",
     "word": "prescience"
+  },
+  "preventative": {
+    "audio_url": "https://audio.vocab.com/1.0/us/P/1OCJ9SRACGO5J.mp3",
+    "colored_long": "If it prevents illness, it's preventative. You can also use the word for things that hinder you, like a preventative speed bump that keeps you from rushing home to watch your favorite TV show, but it's more commonly a medical or health term. \"\u001b[31mPreventative\u001b[0m medicine,\" for example, is focused on avoiding diseases rather than treating them. The Latin root word, \u001b[31mpraeventus\u001b[0m, means \"to hinder.\"",
+    "colored_short": "Use the adjective \u001b[31mpreventative\u001b[0m to describe something that helps keep you free of disease, like a healthy diet and plenty of exercise.",
+    "has_audio": true,
+    "long": "If it prevents illness, it's preventative. You can also use the word for things that hinder you, like a preventative speed bump that keeps you from rushing home to watch your favorite TV show, but it's more commonly a medical or health term. \"Preventative medicine,\" for example, is focused on avoiding diseases rather than treating them. The Latin root word, praeventus, means \"to hinder.\"",
+    "masked_long": "If it prevents illness, it's preventative. You can also use the word for things that hinder you, like a preventative speed bump that keeps you from rushing home to watch your favorite TV show, but it's more commonly a medical or health term. \"[...] medicine,\" for example, is focused on avoiding diseases rather than treating them. The Latin root word, [...], means \"to hinder.\"",
+    "masked_short": "Use the adjective [...] to describe something that helps keep you free of disease, like a healthy diet and plenty of exercise.",
+    "query_time": 1565109233.275359,
+    "raw_long": [
+      [
+        0,
+        "If it prevents illness, it's preventative. You can also use the word for things that hinder you, like a preventative speed bump that keeps you from rushing home to watch your favorite TV show, but it's more commonly a medical or health term. \""
+      ],
+      [
+        1,
+        "Preventative"
+      ],
+      [
+        0,
+        " medicine,\" for example, is focused on avoiding diseases rather than treating them. The Latin root word, "
+      ],
+      [
+        1,
+        "praeventus"
+      ],
+      [
+        0,
+        ", means \"to hinder.\""
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "Use the adjective "
+      ],
+      [
+        1,
+        "preventative"
+      ],
+      [
+        0,
+        " to describe something that helps keep you free of disease, like a healthy diet and plenty of exercise."
+      ]
+    ],
+    "short": "Use the adjective preventative to describe something that helps keep you free of disease, like a healthy diet and plenty of exercise.",
+    "url": "https://www.vocabulary.com/dictionary/preventative",
+    "word": "preventative"
   },
   "pristine": {
     "audio_url": "https://audio.vocab.com/1.0/us/P/WD9YKLHGBNDY.mp3",
@@ -7415,7 +9598,7 @@
     "long": "If you have rapport with someone, you two communicate with trust and sympathy. The word is often used to mean good interaction between people in different positions or roles such as parent and teacher, teacher and student, doctor and patient, supervisor and worker, or speaker and audience. It is always important to establish rapport with people you come into contact with regularly. Pronounce this borrowed word from the French ra-POOR.",
     "masked_long": "If you have rapport with someone, you two communicate with trust and sympathy. The word is often used to mean good interaction between people in different positions or roles such as parent and teacher, teacher and student, doctor and patient, supervisor and worker, or speaker and audience. It is always important to establish rapport with people you come into contact with regularly. Pronounce this borrowed word from the French ra-POOR.",
     "masked_short": "[...] is a good sense of understanding and trust. If you have good [...] with your neighbors, they won't mind if you kick your ball onto their property every now and then.",
-    "query_time": 1564590514.653987,
+    "query_time": 1565110583.5131056,
     "raw_long": [
       [
         0,
@@ -7813,6 +9996,168 @@
     "url": "https://www.vocabulary.com/dictionary/reign",
     "word": "reign"
   },
+  "rejuvenated": {
+    "audio_url": "https://audio.vocab.com/1.0/us/R/1NZPIGCNBFX7H.mp3",
+    "colored_long": "One way to remember the word \u001b[31mrejuvenate\u001b[0m is to pick it apart to its heart, the \u001b[31mjuve\u001b[0m. This \u001b[31mjuve\u001b[0m sounds like \u001b[31mjuvenile\u001b[0m \u2014 which refers to youth. Add the prefix \u001b[31mre\u001b[0m, which means \"again,\" and the \"ate\" suffix, which stands for \"do or make.\" Put them all together and you get \"make young again\" \u2014 the meaning of \u001b[31mrejuvenate\u001b[0m. We all want to be younger, as witnessed by all the ads for products that promise to rejuvenate us through special cosmetics or foods or exercise equipment.",
+    "colored_short": "When you make something young again or give it more life and energy, you \u001b[31mrejuvenate\u001b[0m it. For example, you can often \u001b[31mrejuvenate\u001b[0m a not-quite-dead plant, bringing it back to health with some water and some TLC.",
+    "has_audio": true,
+    "long": "One way to remember the word rejuvenate is to pick it apart to its heart, the juve. This juve sounds like juvenile \u2014 which refers to youth. Add the prefix re, which means \"again,\" and the \"ate\" suffix, which stands for \"do or make.\" Put them all together and you get \"make young again\" \u2014 the meaning of rejuvenate. We all want to be younger, as witnessed by all the ads for products that promise to rejuvenate us through special cosmetics or foods or exercise equipment.",
+    "masked_long": "One way to remember the word [...] is to pick it apart to its heart, the [...]. This [...] sounds like [...] \u2014 which refers to youth. Add the prefix [...], which means \"again,\" and the \"ate\" suffix, which stands for \"do or make.\" Put them all together and you get \"make young again\" \u2014 the meaning of [...]. We all want to be younger, as witnessed by all the ads for products that promise to rejuvenate us through special cosmetics or foods or exercise equipment.",
+    "masked_short": "When you make something young again or give it more life and energy, you [...] it. For example, you can often [...] a not-quite-dead plant, bringing it back to health with some water and some TLC.",
+    "query_time": 1565111122.193043,
+    "raw_long": [
+      [
+        0,
+        "One way to remember the word "
+      ],
+      [
+        1,
+        "rejuvenate"
+      ],
+      [
+        0,
+        " is to pick it apart to its heart, the "
+      ],
+      [
+        1,
+        "juve"
+      ],
+      [
+        0,
+        ". This "
+      ],
+      [
+        1,
+        "juve"
+      ],
+      [
+        0,
+        " sounds like "
+      ],
+      [
+        1,
+        "juvenile"
+      ],
+      [
+        0,
+        " \u2014 which refers to youth. Add the prefix "
+      ],
+      [
+        1,
+        "re"
+      ],
+      [
+        0,
+        ", which means \"again,\" and the \"ate\" suffix, which stands for \"do or make.\" Put them all together and you get \"make young again\" \u2014 the meaning of "
+      ],
+      [
+        1,
+        "rejuvenate"
+      ],
+      [
+        0,
+        ". We all want to be younger, as witnessed by all the ads for products that promise to rejuvenate us through special cosmetics or foods or exercise equipment."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "When you make something young again or give it more life and energy, you "
+      ],
+      [
+        1,
+        "rejuvenate"
+      ],
+      [
+        0,
+        " it. For example, you can often "
+      ],
+      [
+        1,
+        "rejuvenate"
+      ],
+      [
+        0,
+        " a not-quite-dead plant, bringing it back to health with some water and some TLC."
+      ]
+    ],
+    "short": "When you make something young again or give it more life and energy, you rejuvenate it. For example, you can often rejuvenate a not-quite-dead plant, bringing it back to health with some water and some TLC.",
+    "url": "https://www.vocabulary.com/dictionary/rejuvenate?family=rejuvenated",
+    "word": "rejuvenated"
+  },
+  "relegate": {
+    "audio_url": "https://audio.vocab.com/1.0/us/R/UPL6AAGWNLKL.mp3",
+    "colored_long": "\u001b[31mRelegate\u001b[0m rhymes with \u001b[31mdelegate\u001b[0m \u00e2\u20ac\u201d both words derive from the Latin \u001b[31mlegare\u001b[0m, \"to send.\" \u001b[31mRelegate\u001b[0m means to send someone down in rank. \u001b[31mDelegate\u001b[0m means to send someone in your place to complete a task. In the workplace, managers who can't figure out how to delegate may get relegated to a lesser rank.",
+    "colored_short": "\u001b[31mRelegate\u001b[0m means \"to assign to a lower position.\" If the quarterback of the football team stops making decent throws, he might be \u001b[31mrelegated\u001b[0m to the position of benchwarmer.",
+    "has_audio": true,
+    "long": "Relegate rhymes with delegate \u00e2\u20ac\u201d both words derive from the Latin legare, \"to send.\" Relegate means to send someone down in rank. Delegate means to send someone in your place to complete a task. In the workplace, managers who can't figure out how to delegate may get relegated to a lesser rank.",
+    "masked_long": "[...] rhymes with [...] \u00e2\u20ac\u201d both words derive from the Latin [...], \"to send.\" [...] means to send someone down in rank. [...] means to send someone in your place to complete a task. In the workplace, managers who can't figure out how to delegate may get relegated to a lesser rank.",
+    "masked_short": "[...] means \"to assign to a lower position.\" If the quarterback of the football team stops making decent throws, he might be [...] to the position of benchwarmer.",
+    "query_time": 1565110712.1388035,
+    "raw_long": [
+      [
+        1,
+        "Relegate"
+      ],
+      [
+        0,
+        " rhymes with "
+      ],
+      [
+        1,
+        "delegate"
+      ],
+      [
+        0,
+        " \u00e2\u20ac\u201d both words derive from the Latin "
+      ],
+      [
+        1,
+        "legare"
+      ],
+      [
+        0,
+        ", \"to send.\" "
+      ],
+      [
+        1,
+        "Relegate"
+      ],
+      [
+        0,
+        " means to send someone down in rank. "
+      ],
+      [
+        1,
+        "Delegate"
+      ],
+      [
+        0,
+        " means to send someone in your place to complete a task. In the workplace, managers who can't figure out how to delegate may get relegated to a lesser rank."
+      ]
+    ],
+    "raw_short": [
+      [
+        1,
+        "Relegate"
+      ],
+      [
+        0,
+        " means \"to assign to a lower position.\" If the quarterback of the football team stops making decent throws, he might be "
+      ],
+      [
+        1,
+        "relegated"
+      ],
+      [
+        0,
+        " to the position of benchwarmer."
+      ]
+    ],
+    "short": "Relegate means \"to assign to a lower position.\" If the quarterback of the football team stops making decent throws, he might be relegated to the position of benchwarmer.",
+    "url": "https://www.vocabulary.com/dictionary/relegate",
+    "word": "relegate"
+  },
   "remunerate": {
     "audio_url": "https://audio.vocab.com/1.0/us/R/16ZUHCXCGFY0L.mp3",
     "colored_long": "It's nice to be remunerated \u00e2\u20ac\u201d that means someone paid you money that was owed. If an employer makes you work overtime, they will need to remunerate you for that. If you lost your dog, offered a reward, and then someone found the dog, that person should be remunerated. When you see \u001b[31mremunerate\u001b[0m, think \"giving someone money they deserve.\"",
@@ -7821,7 +10166,7 @@
     "long": "It's nice to be remunerated \u00e2\u20ac\u201d that means someone paid you money that was owed. If an employer makes you work overtime, they will need to remunerate you for that. If you lost your dog, offered a reward, and then someone found the dog, that person should be remunerated. When you see remunerate, think \"giving someone money they deserve.\"",
     "masked_long": "It's nice to be remunerated \u00e2\u20ac\u201d that means someone paid you money that was owed. If an employer makes you work overtime, they will need to remunerate you for that. If you lost your dog, offered a reward, and then someone found the dog, that person should be remunerated. When you see [...], think \"giving someone money they deserve.\"",
     "masked_short": "If I owe you money, then I need to [...] you. To [...] is to pay money that is owed.",
-    "query_time": 1564589371.324705,
+    "query_time": 1565110740.0287743,
     "raw_long": [
       [
         0,
@@ -7987,6 +10332,116 @@
     "short": "Reticent means either quiet or restrained. If you're reticent about your feelings, you like to keep them to yourself, and you're probably quiet in rowdy groups where everyone is talking over each other.",
     "url": "https://www.vocabulary.com/dictionary/reticent",
     "word": "reticent"
+  },
+  "retrograde": {
+    "audio_url": "https://audio.vocab.com/1.0/us/R/8TINWJT187Q0.mp3",
+    "colored_long": "This word comes from the Latin \u001b[31mretrogradus\u001b[0m, meaning \"going backward.\" You might hear \u001b[31mretrograde\u001b[0m used in astronomy to describe the movements of the planets. If a planet like Mercury is in retrograde, that means it appears to be moving backwards. \u001b[31mRetrograde\u001b[0m can also describe something that's going from better to worse. The farm's retrograde practice of spraying their crops with harsher and harsher pesticides is causing our health to suffer.",
+    "colored_short": "\u001b[31mRetrograde\u001b[0m describes moving in a backwards or reverse direction. If you're suddenly told that you can no longer vote because you're a woman, that's a \u001b[31mretrograde\u001b[0m affront to your civil rights. Start protesting!",
+    "has_audio": true,
+    "long": "This word comes from the Latin retrogradus, meaning \"going backward.\" You might hear retrograde used in astronomy to describe the movements of the planets. If a planet like Mercury is in retrograde, that means it appears to be moving backwards. Retrograde can also describe something that's going from better to worse. The farm's retrograde practice of spraying their crops with harsher and harsher pesticides is causing our health to suffer.",
+    "masked_long": "This word comes from the Latin [...], meaning \"going backward.\" You might hear [...] used in astronomy to describe the movements of the planets. If a planet like Mercury is in retrograde, that means it appears to be moving backwards. [...] can also describe something that's going from better to worse. The farm's retrograde practice of spraying their crops with harsher and harsher pesticides is causing our health to suffer.",
+    "masked_short": "[...] describes moving in a backwards or reverse direction. If you're suddenly told that you can no longer vote because you're a woman, that's a [...] affront to your civil rights. Start protesting!",
+    "query_time": 1565111187.1647985,
+    "raw_long": [
+      [
+        0,
+        "This word comes from the Latin "
+      ],
+      [
+        1,
+        "retrogradus"
+      ],
+      [
+        0,
+        ", meaning \"going backward.\" You might hear "
+      ],
+      [
+        1,
+        "retrograde"
+      ],
+      [
+        0,
+        " used in astronomy to describe the movements of the planets. If a planet like Mercury is in retrograde, that means it appears to be moving backwards. "
+      ],
+      [
+        1,
+        "Retrograde"
+      ],
+      [
+        0,
+        " can also describe something that's going from better to worse. The farm's retrograde practice of spraying their crops with harsher and harsher pesticides is causing our health to suffer."
+      ]
+    ],
+    "raw_short": [
+      [
+        1,
+        "Retrograde"
+      ],
+      [
+        0,
+        " describes moving in a backwards or reverse direction. If you're suddenly told that you can no longer vote because you're a woman, that's a "
+      ],
+      [
+        1,
+        "retrograde"
+      ],
+      [
+        0,
+        " affront to your civil rights. Start protesting!"
+      ]
+    ],
+    "short": "Retrograde describes moving in a backwards or reverse direction. If you're suddenly told that you can no longer vote because you're a woman, that's a retrograde affront to your civil rights. Start protesting!",
+    "url": "https://www.vocabulary.com/dictionary/retrograde",
+    "word": "retrograde"
+  },
+  "ruffian": {
+    "audio_url": "https://audio.vocab.com/1.0/us/R/JL470LJA96JH.mp3",
+    "colored_long": "Soccer fans have a reputation for being ruffians. Sure, some are sensitive poetry-reading types, but the ones that get the most attention scream obscenities, break things, and fight each other. \u001b[31mRuffian\u001b[0m comes from a Germanic word that literally translates as \u201cscabbiness,\u201d and perhaps ruffians are covered in scabs from all the fights they start. Sometimes a ruffian is a person involved in crime, however, the word is always used to describe someone who\u2019s a cruel, violent jerk.",
+    "colored_short": "A \u001b[31mruffian\u001b[0m is a bully, someone who is violent toward others. Maybe they had a bad childhood, or perhaps they like the sound of people in pain. No matter where they come from, \u001b[31mruffians\u001b[0m are best avoided.",
+    "has_audio": true,
+    "long": "Soccer fans have a reputation for being ruffians. Sure, some are sensitive poetry-reading types, but the ones that get the most attention scream obscenities, break things, and fight each other. Ruffian comes from a Germanic word that literally translates as \u201cscabbiness,\u201d and perhaps ruffians are covered in scabs from all the fights they start. Sometimes a ruffian is a person involved in crime, however, the word is always used to describe someone who\u2019s a cruel, violent jerk.",
+    "masked_long": "Soccer fans have a reputation for being ruffians. Sure, some are sensitive poetry-reading types, but the ones that get the most attention scream obscenities, break things, and fight each other. [...] comes from a Germanic word that literally translates as \u201cscabbiness,\u201d and perhaps ruffians are covered in scabs from all the fights they start. Sometimes a ruffian is a person involved in crime, however, the word is always used to describe someone who\u2019s a cruel, violent jerk.",
+    "masked_short": "A [...] is a bully, someone who is violent toward others. Maybe they had a bad childhood, or perhaps they like the sound of people in pain. No matter where they come from, [...] are best avoided.",
+    "query_time": 1565111029.2705765,
+    "raw_long": [
+      [
+        0,
+        "Soccer fans have a reputation for being ruffians. Sure, some are sensitive poetry-reading types, but the ones that get the most attention scream obscenities, break things, and fight each other. "
+      ],
+      [
+        1,
+        "Ruffian"
+      ],
+      [
+        0,
+        " comes from a Germanic word that literally translates as \u201cscabbiness,\u201d and perhaps ruffians are covered in scabs from all the fights they start. Sometimes a ruffian is a person involved in crime, however, the word is always used to describe someone who\u2019s a cruel, violent jerk."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "A "
+      ],
+      [
+        1,
+        "ruffian"
+      ],
+      [
+        0,
+        " is a bully, someone who is violent toward others. Maybe they had a bad childhood, or perhaps they like the sound of people in pain. No matter where they come from, "
+      ],
+      [
+        1,
+        "ruffians"
+      ],
+      [
+        0,
+        " are best avoided."
+      ]
+    ],
+    "short": "A ruffian is a bully, someone who is violent toward others. Maybe they had a bad childhood, or perhaps they like the sound of people in pain. No matter where they come from, ruffians are best avoided.",
+    "url": "https://www.vocabulary.com/dictionary/ruffian",
+    "word": "ruffian"
   },
   "rumination": {
     "audio_url": "https://audio.vocab.com/1.0/us/R/839HL9275H4E.mp3",
@@ -8256,6 +10711,99 @@
     "url": "https://www.vocabulary.com/dictionary/scathing",
     "word": "scathing"
   },
+  "scintillate": {
+    "audio_url": "https://audio.vocab.com/1.0/us/S/OL43878RM3EL.mp3",
+    "colored_long": "\u001b[31mScintillate\u001b[0m means to be sparkling and lively. \u001b[31mScintillate\u001b[0m has its roots in the Latin words \u001b[31mscintillare\u001b[0m, meaning \"to sparkle,\" and \u001b[31mscintilla\u001b[0m, meaning \"a spark.\" The verb \u001b[31mscintillate\u001b[0m is related to the adjective \u001b[31mscintillating\u001b[0m and the noun \u001b[31mscintilla\u001b[0m. If you enjoy witty repartee, people may say your conversation scintillates with humor and they enjoy how you are so clever.",
+    "colored_short": "The verb \u001b[31mscintillate\u001b[0m means to twinkle or glow, as in a flickering light. You may find it romantic to sit on the deck overlooking a lake on a clear night, where you can enjoy the \u001b[31mscintillating\u001b[0m stars in the sky and the reflection of the moon on the water.",
+    "has_audio": true,
+    "long": "Scintillate means to be sparkling and lively. Scintillate has its roots in the Latin words scintillare, meaning \"to sparkle,\" and scintilla, meaning \"a spark.\" The verb scintillate is related to the adjective scintillating and the noun scintilla. If you enjoy witty repartee, people may say your conversation scintillates with humor and they enjoy how you are so clever.",
+    "masked_long": "[...] means to be sparkling and lively. [...] has its roots in the Latin words [...], meaning \"to sparkle,\" and [...], meaning \"a spark.\" The verb [...] is related to the adjective [...] and the noun [...]. If you enjoy witty repartee, people may say your conversation scintillates with humor and they enjoy how you are so clever.",
+    "masked_short": "The verb [...] means to twinkle or glow, as in a flickering light. You may find it romantic to sit on the deck overlooking a lake on a clear night, where you can enjoy the [...] stars in the sky and the reflection of the moon on the water.",
+    "query_time": 1565110779.1604593,
+    "raw_long": [
+      [
+        1,
+        "Scintillate"
+      ],
+      [
+        0,
+        " means to be sparkling and lively. "
+      ],
+      [
+        1,
+        "Scintillate"
+      ],
+      [
+        0,
+        " has its roots in the Latin words "
+      ],
+      [
+        1,
+        "scintillare"
+      ],
+      [
+        0,
+        ", meaning \"to sparkle,\" and "
+      ],
+      [
+        1,
+        "scintilla"
+      ],
+      [
+        0,
+        ", meaning \"a spark.\" The verb "
+      ],
+      [
+        1,
+        "scintillate"
+      ],
+      [
+        0,
+        " is related to the adjective "
+      ],
+      [
+        1,
+        "scintillating"
+      ],
+      [
+        0,
+        " and the noun "
+      ],
+      [
+        1,
+        "scintilla"
+      ],
+      [
+        0,
+        ". If you enjoy witty repartee, people may say your conversation scintillates with humor and they enjoy how you are so clever."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "The verb "
+      ],
+      [
+        1,
+        "scintillate"
+      ],
+      [
+        0,
+        " means to twinkle or glow, as in a flickering light. You may find it romantic to sit on the deck overlooking a lake on a clear night, where you can enjoy the "
+      ],
+      [
+        1,
+        "scintillating"
+      ],
+      [
+        0,
+        " stars in the sky and the reflection of the moon on the water."
+      ]
+    ],
+    "short": "The verb scintillate means to twinkle or glow, as in a flickering light. You may find it romantic to sit on the deck overlooking a lake on a clear night, where you can enjoy the scintillating stars in the sky and the reflection of the moon on the water.",
+    "url": "https://www.vocabulary.com/dictionary/scintillate",
+    "word": "scintillate"
+  },
   "serpentine": {
     "audio_url": "https://audio.vocab.com/1.0/us/S/KWUC5BM2EK6R.mp3",
     "colored_long": "Not everyone likes snakes, but those who aren\u00e2\u20ac\u2122t grossed out by the highly flexible bodies of serpents might enjoy using the word \u001b[31mserpentine\u001b[0m for things that resemble their snaky, curvy lines. Strands of hair, cracks in dry desert, and roller-coaster rides can look serpentine, and you might tangle with a serpentine hose while minding your own business and watering the plants. Sometimes \u001b[31mserpentine\u001b[0m even describes people who are snakelike or slippery in character.",
@@ -8512,6 +11060,112 @@
     "url": "https://www.vocabulary.com/dictionary/sloth",
     "word": "sloth"
   },
+  "sprightly": {
+    "audio_url": "https://audio.vocab.com/1.0/us/S/1FXW6X0LSZX87.mp3",
+    "colored_long": "The word \u001b[31msprightly\u001b[0m comes from the word \u001b[31msprite\u001b[0m, which is a small, elf-like fairy creature. If someone acts like a happy little fairy, has a lot of enthusiasm, and acts in a youthful way, she\u2019s sprightly. To be sprightly is to be full of spirit and vitality, to be happy, and to have a positive attitude. Someone who radiates energy and positivity is sprightly.",
+    "colored_short": "To be \u001b[31msprightly\u001b[0m is to be full of youthful, vibrant energy. You don\u2019t have to be young to be \u001b[31msprightly\u001b[0m, though, energetic old people can be \u001b[31msprightly\u001b[0m, too. Weeeeeee!",
+    "has_audio": true,
+    "long": "The word sprightly comes from the word sprite, which is a small, elf-like fairy creature. If someone acts like a happy little fairy, has a lot of enthusiasm, and acts in a youthful way, she\u2019s sprightly. To be sprightly is to be full of spirit and vitality, to be happy, and to have a positive attitude. Someone who radiates energy and positivity is sprightly.",
+    "masked_long": "The word [...] comes from the word [...], which is a small, elf-like fairy creature. If someone acts like a happy little fairy, has a lot of enthusiasm, and acts in a youthful way, she\u2019s sprightly. To be sprightly is to be full of spirit and vitality, to be happy, and to have a positive attitude. Someone who radiates energy and positivity is sprightly.",
+    "masked_short": "To be [...] is to be full of youthful, vibrant energy. You don\u2019t have to be young to be [...], though, energetic old people can be [...], too. Weeeeeee!",
+    "query_time": 1565110951.6946278,
+    "raw_long": [
+      [
+        0,
+        "The word "
+      ],
+      [
+        1,
+        "sprightly"
+      ],
+      [
+        0,
+        " comes from the word "
+      ],
+      [
+        1,
+        "sprite"
+      ],
+      [
+        0,
+        ", which is a small, elf-like fairy creature. If someone acts like a happy little fairy, has a lot of enthusiasm, and acts in a youthful way, she\u2019s sprightly. To be sprightly is to be full of spirit and vitality, to be happy, and to have a positive attitude. Someone who radiates energy and positivity is sprightly."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "To be "
+      ],
+      [
+        1,
+        "sprightly"
+      ],
+      [
+        0,
+        " is to be full of youthful, vibrant energy. You don\u2019t have to be young to be "
+      ],
+      [
+        1,
+        "sprightly"
+      ],
+      [
+        0,
+        ", though, energetic old people can be "
+      ],
+      [
+        1,
+        "sprightly"
+      ],
+      [
+        0,
+        ", too. Weeeeeee!"
+      ]
+    ],
+    "short": "To be sprightly is to be full of youthful, vibrant energy. You don\u2019t have to be young to be sprightly, though, energetic old people can be sprightly, too. Weeeeeee!",
+    "url": "https://www.vocabulary.com/dictionary/sprightly",
+    "word": "sprightly"
+  },
+  "squelch": {
+    "audio_url": "https://audio.vocab.com/1.0/us/S/170FWWXOBFBS6.mp3",
+    "colored_long": "This word has several meanings, but it's usually a verb for crushing things. A mean remark could squelch your self-confidence, and a powerful military could squelch an invading country. Squelching can also mean to make a squelch-like sucking sound \u00e2\u20ac\u201d or to slop, slosh, splash, and squish through the mud. There's also a type of electric circuit that cuts off when the signal is weak: that's a squelch circuit, which squelches the connection.",
+    "colored_short": "When you \u001b[31msquelch\u001b[0m something, you're putting an end to it. You can \u001b[31msquelch\u001b[0m an idea or a rebellion.",
+    "has_audio": true,
+    "long": "This word has several meanings, but it's usually a verb for crushing things. A mean remark could squelch your self-confidence, and a powerful military could squelch an invading country. Squelching can also mean to make a squelch-like sucking sound \u00e2\u20ac\u201d or to slop, slosh, splash, and squish through the mud. There's also a type of electric circuit that cuts off when the signal is weak: that's a squelch circuit, which squelches the connection.",
+    "masked_long": "This word has several meanings, but it's usually a verb for crushing things. A mean remark could squelch your self-confidence, and a powerful military could squelch an invading country. Squelching can also mean to make a squelch-like sucking sound \u00e2\u20ac\u201d or to slop, slosh, splash, and squish through the mud. There's also a type of electric circuit that cuts off when the signal is weak: that's a squelch circuit, which squelches the connection.",
+    "masked_short": "When you [...] something, you're putting an end to it. You can [...] an idea or a rebellion.",
+    "query_time": 1565110751.3579607,
+    "raw_long": [
+      [
+        0,
+        "This word has several meanings, but it's usually a verb for crushing things. A mean remark could squelch your self-confidence, and a powerful military could squelch an invading country. Squelching can also mean to make a squelch-like sucking sound \u00e2\u20ac\u201d or to slop, slosh, splash, and squish through the mud. There's also a type of electric circuit that cuts off when the signal is weak: that's a squelch circuit, which squelches the connection."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "When you "
+      ],
+      [
+        1,
+        "squelch"
+      ],
+      [
+        0,
+        " something, you're putting an end to it. You can "
+      ],
+      [
+        1,
+        "squelch"
+      ],
+      [
+        0,
+        " an idea or a rebellion."
+      ]
+    ],
+    "short": "When you squelch something, you're putting an end to it. You can squelch an idea or a rebellion.",
+    "url": "https://www.vocabulary.com/dictionary/squelch",
+    "word": "squelch"
+  },
   "stagnation": {
     "audio_url": "https://audio.vocab.com/1.0/us/S/5HEBD2FBAWVP.mp3",
     "colored_long": "The root of \u001b[31mstagnation\u001b[0m is the Latin word for \"standing water,\" \u001b[31mstagnatum\u001b[0m. The stagnation of water can be a serious problem in parts of the world where mosquitoes spread diseases like malaria, or where there is a shortage of drinkable water. There are also other kinds of stagnation, or inactivity \u00e2\u20ac\u201d like a struggling country's economic stagnation or a writer's mental stagnation that results in writer's block.",
@@ -8564,6 +11218,59 @@
     "short": "Stagnation is the state of being still, or not moving, like a sitting puddle of water where stagnation attracts mosquitoes.",
     "url": "https://www.vocabulary.com/dictionary/stagnation",
     "word": "stagnation"
+  },
+  "stickler": {
+    "audio_url": "https://audio.vocab.com/1.0/us/S/1FXC0VUTLH6NG.mp3",
+    "colored_long": "\u001b[31mStickler\u001b[0m has its origins in a word meaning umpire, which may allude to a stickler\u2019s bossy nature. Difficult problems or puzzles are called sticklers. It is helpful when remembering the definition of \u001b[31mstickler\u001b[0m that it has the word \u201cstick\u201d in it. So someone who \u201csticks\u201d to the rules is a stickler.",
+    "colored_short": "A \u001b[31mstickler\u001b[0m is someone who insists that things are done in a certain way. Say you\u2019re getting married and want to write your own vows, but your partner\u2019s mother demands that you have a traditional ceremony. The mother is a \u001b[31mstickler\u001b[0m for tradition.",
+    "has_audio": true,
+    "long": "Stickler has its origins in a word meaning umpire, which may allude to a stickler\u2019s bossy nature. Difficult problems or puzzles are called sticklers. It is helpful when remembering the definition of stickler that it has the word \u201cstick\u201d in it. So someone who \u201csticks\u201d to the rules is a stickler.",
+    "masked_long": "[...] has its origins in a word meaning umpire, which may allude to a stickler\u2019s bossy nature. Difficult problems or puzzles are called sticklers. It is helpful when remembering the definition of [...] that it has the word \u201cstick\u201d in it. So someone who \u201csticks\u201d to the rules is a stickler.",
+    "masked_short": "A [...] is someone who insists that things are done in a certain way. Say you\u2019re getting married and want to write your own vows, but your partner\u2019s mother demands that you have a traditional ceremony. The mother is a [...] for tradition.",
+    "query_time": 1565111034.4649189,
+    "raw_long": [
+      [
+        1,
+        "Stickler"
+      ],
+      [
+        0,
+        " has its origins in a word meaning umpire, which may allude to a stickler\u2019s bossy nature. Difficult problems or puzzles are called sticklers. It is helpful when remembering the definition of "
+      ],
+      [
+        1,
+        "stickler"
+      ],
+      [
+        0,
+        " that it has the word \u201cstick\u201d in it. So someone who \u201csticks\u201d to the rules is a stickler."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "A "
+      ],
+      [
+        1,
+        "stickler"
+      ],
+      [
+        0,
+        " is someone who insists that things are done in a certain way. Say you\u2019re getting married and want to write your own vows, but your partner\u2019s mother demands that you have a traditional ceremony. The mother is a "
+      ],
+      [
+        1,
+        "stickler"
+      ],
+      [
+        0,
+        " for tradition."
+      ]
+    ],
+    "short": "A stickler is someone who insists that things are done in a certain way. Say you\u2019re getting married and want to write your own vows, but your partner\u2019s mother demands that you have a traditional ceremony. The mother is a stickler for tradition.",
+    "url": "https://www.vocabulary.com/dictionary/stickler",
+    "word": "stickler"
   },
   "stingy": {
     "audio_url": "https://audio.vocab.com/1.0/us/S/10OSLXPMXGV5G.mp3",
@@ -8645,6 +11352,59 @@
     "short": "If you are looking to describe someone with a Scrooge- or Grinch-like tendency to pinch his pennies, then stingy can be your adjective of choice. Or, if you are looking to describe something you have too little of \u2014 like a 43-second coffee break \u2014 you can use stingy as well.",
     "url": "https://www.vocabulary.com/dictionary/stingy",
     "word": "stingy"
+  },
+  "strenuous": {
+    "audio_url": "https://audio.vocab.com/1.0/us/S/1SRSRG28958M3.mp3",
+    "colored_long": "\u001b[31mStrenuous\u001b[0m can also describe something done with lots of energy or force. If your boss asks you to do a strenuous task like carry a couch up a flight of stairs by yourself, and you refuse by jumping up and down in protest, you have a strenuous objection to her request. To remember how to spell it, remember that something strenuous requires the strength of two of you! That's why there are two \u001b[31mu's\u001b[0m in \u001b[31mstrenUoUs\u001b[0m.",
+    "colored_short": "Something \u001b[31mstrenuous\u001b[0m requires all your effort and strength, like a hard workout at the gym or carrying a backpack full of heavy books.",
+    "has_audio": true,
+    "long": "Strenuous can also describe something done with lots of energy or force. If your boss asks you to do a strenuous task like carry a couch up a flight of stairs by yourself, and you refuse by jumping up and down in protest, you have a strenuous objection to her request. To remember how to spell it, remember that something strenuous requires the strength of two of you! That's why there are two u's in strenUoUs.",
+    "masked_long": "[...] can also describe something done with lots of energy or force. If your boss asks you to do a strenuous task like carry a couch up a flight of stairs by yourself, and you refuse by jumping up and down in protest, you have a strenuous objection to her request. To remember how to spell it, remember that something strenuous requires the strength of two of you! That's why there are two [...] in [...].",
+    "masked_short": "Something [...] requires all your effort and strength, like a hard workout at the gym or carrying a backpack full of heavy books.",
+    "query_time": 1565110856.545933,
+    "raw_long": [
+      [
+        1,
+        "Strenuous"
+      ],
+      [
+        0,
+        " can also describe something done with lots of energy or force. If your boss asks you to do a strenuous task like carry a couch up a flight of stairs by yourself, and you refuse by jumping up and down in protest, you have a strenuous objection to her request. To remember how to spell it, remember that something strenuous requires the strength of two of you! That's why there are two "
+      ],
+      [
+        1,
+        "u's"
+      ],
+      [
+        0,
+        " in "
+      ],
+      [
+        1,
+        "strenUoUs"
+      ],
+      [
+        0,
+        "."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "Something "
+      ],
+      [
+        1,
+        "strenuous"
+      ],
+      [
+        0,
+        " requires all your effort and strength, like a hard workout at the gym or carrying a backpack full of heavy books."
+      ]
+    ],
+    "short": "Something strenuous requires all your effort and strength, like a hard workout at the gym or carrying a backpack full of heavy books.",
+    "url": "https://www.vocabulary.com/dictionary/strenuous",
+    "word": "strenuous"
   },
   "submerge": {
     "audio_url": "https://audio.vocab.com/1.0/us/S/R25ED5Y0YFZT.mp3",
@@ -8832,6 +11592,67 @@
     "short": "Kate was out sick for a month with mono, and when she came back to school, Jessie had supplanted her as the funny girl at the lunch table. Supplant means to take the place of.",
     "url": "https://www.vocabulary.com/dictionary/supplant",
     "word": "supplant"
+  },
+  "taunt": {
+    "audio_url": "https://audio.vocab.com/1.0/us/T/1U5QSNYKZOMT5.mp3",
+    "colored_long": "\u001b[31mTaunting\u001b[0m is often associated with large groups picking on an individual. A mob might call out a hated king from his castle with \u001b[31mtaunts\u001b[0m and jeers. \u001b[31mTaunting\u001b[0m the weak is a high-school phenomenon that teachers, administrators, parents, and students are working together to stop.",
+    "colored_short": "A short list of people not to \u001b[31mtaunt\u001b[0m: your big brother, cops, nightclub bouncers, dragons. \u001b[31mTaunts\u001b[0m are insulting comments, and, unless you are a really, really fast runner, keep them to yourself.",
+    "has_audio": true,
+    "long": "Taunting is often associated with large groups picking on an individual. A mob might call out a hated king from his castle with taunts and jeers. Taunting the weak is a high-school phenomenon that teachers, administrators, parents, and students are working together to stop.",
+    "masked_long": "[...] is often associated with large groups picking on an individual. A mob might call out a hated king from his castle with [...] and jeers. [...] the weak is a high-school phenomenon that teachers, administrators, parents, and students are working together to stop.",
+    "masked_short": "A short list of people not to [...]: your big brother, cops, nightclub bouncers, dragons. [...] are insulting comments, and, unless you are a really, really fast runner, keep them to yourself.",
+    "query_time": 1565111234.7111073,
+    "raw_long": [
+      [
+        1,
+        "Taunting"
+      ],
+      [
+        0,
+        " is often associated with large groups picking on an individual. A mob might call out a hated king from his castle with "
+      ],
+      [
+        1,
+        "taunts"
+      ],
+      [
+        0,
+        " and jeers. "
+      ],
+      [
+        1,
+        "Taunting"
+      ],
+      [
+        0,
+        " the weak is a high-school phenomenon that teachers, administrators, parents, and students are working together to stop."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "A short list of people not to "
+      ],
+      [
+        1,
+        "taunt"
+      ],
+      [
+        0,
+        ": your big brother, cops, nightclub bouncers, dragons. "
+      ],
+      [
+        1,
+        "Taunts"
+      ],
+      [
+        0,
+        " are insulting comments, and, unless you are a really, really fast runner, keep them to yourself."
+      ]
+    ],
+    "short": "A short list of people not to taunt: your big brother, cops, nightclub bouncers, dragons. Taunts are insulting comments, and, unless you are a really, really fast runner, keep them to yourself.",
+    "url": "https://www.vocabulary.com/dictionary/taunt",
+    "word": "taunt"
   },
   "taxing": {
     "audio_url": "https://audio.vocab.com/1.0/us/T/NTWM5XYU9B8E.mp3",
@@ -9389,6 +12210,71 @@
     "short": "When you want to indicate that something is silly or overused, you would call it trite. A love song with lyrics about holding hands in the sunshine? Totally trite.",
     "url": "https://www.vocabulary.com/dictionary/trite",
     "word": "trite"
+  },
+  "troupe": {
+    "audio_url": "https://audio.vocab.com/1.0/us/T/1153KK3HHD9DK.mp3",
+    "colored_long": "If you love performing improvisational comedy, you may want to join a local improv troupe, and if you like the idea of caroling at Christmas time, you can form a troupe of singers to sing carols with in December. \u001b[31mTroupe\u001b[0m is a French word meaning \"company of performers,\" which earlier meant \"company of soldiers.\" It shares a root with \u001b[31mtroop\u001b[0m.",
+    "colored_short": "You can call a group of performers a \u001b[31mtroupe\u001b[0m. The kids you dance with are your dance \u001b[31mtroupe\u001b[0m, and the jugglers and clowns at your friend's party might be a circus \u001b[31mtroupe\u001b[0m.",
+    "has_audio": true,
+    "long": "If you love performing improvisational comedy, you may want to join a local improv troupe, and if you like the idea of caroling at Christmas time, you can form a troupe of singers to sing carols with in December. Troupe is a French word meaning \"company of performers,\" which earlier meant \"company of soldiers.\" It shares a root with troop.",
+    "masked_long": "If you love performing improvisational comedy, you may want to join a local improv troupe, and if you like the idea of caroling at Christmas time, you can form a troupe of singers to sing carols with in December. [...] is a French word meaning \"company of performers,\" which earlier meant \"company of soldiers.\" It shares a root with [...].",
+    "masked_short": "You can call a group of performers a [...]. The kids you dance with are your dance [...], and the jugglers and clowns at your friend's party might be a circus [...].",
+    "query_time": 1565111146.5546727,
+    "raw_long": [
+      [
+        0,
+        "If you love performing improvisational comedy, you may want to join a local improv troupe, and if you like the idea of caroling at Christmas time, you can form a troupe of singers to sing carols with in December. "
+      ],
+      [
+        1,
+        "Troupe"
+      ],
+      [
+        0,
+        " is a French word meaning \"company of performers,\" which earlier meant \"company of soldiers.\" It shares a root with "
+      ],
+      [
+        1,
+        "troop"
+      ],
+      [
+        0,
+        "."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "You can call a group of performers a "
+      ],
+      [
+        1,
+        "troupe"
+      ],
+      [
+        0,
+        ". The kids you dance with are your dance "
+      ],
+      [
+        1,
+        "troupe"
+      ],
+      [
+        0,
+        ", and the jugglers and clowns at your friend's party might be a circus "
+      ],
+      [
+        1,
+        "troupe"
+      ],
+      [
+        0,
+        "."
+      ]
+    ],
+    "short": "You can call a group of performers a troupe. The kids you dance with are your dance troupe, and the jugglers and clowns at your friend's party might be a circus troupe.",
+    "url": "https://www.vocabulary.com/dictionary/troupe",
+    "word": "troupe"
   },
   "tumultuous": {
     "audio_url": "https://audio.vocab.com/1.0/us/T/14GRFH9XHJ71Z.mp3",
