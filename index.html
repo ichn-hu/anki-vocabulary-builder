@@ -12,15 +12,16 @@
     <div class="container">
         <h1>Vocabulary Builder Revision Panel</h1>
         <div id="review_panel">
-            <div v-for="word in words">
-                <details>
+            <div v-for="word in words" :key=word.word :id=word.word>
+                <details @click.stop.prevent="toggle($event, word)" :open="word.open" style="border: dotted 1px black;">
                     <summary>
                         {{ word.word }}
                     </summary>
                     {{ word.short }}
                     </br>
                     {{ word.long }}
-
+                    </br>
+                    <audio :src=word.audio_url></audio>
                 </details>
             </div>
         </div>
@@ -41,7 +42,14 @@
                 words: [],
             },
             methods: {
-
+                toggle(event, word) {
+                    // console.log(event);
+                    document.querySelector(`#${word.word} audio`).play();
+                    summary = document.querySelector(`#${word.word}`);
+                    summary.open = !summary.open;
+                    word.open = !word.open;
+                    console.log(summary.open);
+                }
             },
             mounted: function () {
                 data = this
@@ -50,6 +58,7 @@
                     for (var word in db) {
                         var info = db[word];
                         info.word = word;
+                        info.open = false;
                         words.push(info);
                     }
                     data.words = words.sort(cmp);
