@@ -6,6 +6,12 @@ A python script works with Anki that helps you build your vocabulary
 
 Anki is great for vocabulary building, but add personal learning cards to it is tedious, you don't want to click and type for adding a word each time, this script automate the procedure, which allows you to add card to Anki use dictionary from [vocabulary.com](https://www.vocabulary.com/) in your console.
 
+Update:
+
+Now we have the revision panel with PWA support! Try install it on your mobile phone and enjoy the offline experience!
+
+![pwa](/static/pwa.jpg)
+
 ## setup
 
 * Anki: Version 2.1.14 (7b93e985)
