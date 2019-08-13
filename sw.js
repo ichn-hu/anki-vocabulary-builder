@@ -22,8 +22,8 @@ const CACHE_NAME = 'b654c393fa3685f12a9e2e746d11fe00cbe80082';
 
 // CODELAB: Add list of files to cache here.
 const FILES_TO_CACHE = [
-    '/index.html',
-    '/db.json',
+    'index.html',
+    'db.json',
 ];
 
 self.addEventListener('install', (evt) => {
