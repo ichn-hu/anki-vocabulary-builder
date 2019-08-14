@@ -86,7 +86,6 @@
 
         function cmp(a, b) {
             var res = b.query_time - a.query_time;
-            console.log(res)
             return res > 0 ? 1 : -1;
         }
 
@@ -102,7 +101,6 @@
                     summary = document.querySelector(`#${word.word}`);
                     summary.open = !summary.open;
                     word.open = !word.open;
-                    console.log(summary.open);
                 }
             },
             mounted: function () {
