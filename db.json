@@ -759,6 +759,71 @@
     "url": "https://www.vocabulary.com/dictionary/ailment",
     "word": "ailment"
   },
+  "alacrity": {
+    "audio_url": "https://audio.vocab.com/1.0/us/A/XUL0UI5M5OC7.mp3",
+    "colored_long": "While the noun \u001b[31malacrity\u001b[0m normally refers to someone's peppy behavior, it can also describe a certain mood or tempo of a musical composition, indicating how the music should be played. \u001b[31mAlacrity\u001b[0m comes from the Latin \u001b[31malacritas\u001b[0m, and the Italian musical term \u001b[31mallegro\u001b[0m is a near relation.",
+    "colored_short": "Someone with \u001b[31malacrity\u001b[0m shows cheerful willingness and eager behavior, like a kid whose mother has told him he can buy anything in a candy store.",
+    "has_audio": true,
+    "long": "While the noun alacrity normally refers to someone's peppy behavior, it can also describe a certain mood or tempo of a musical composition, indicating how the music should be played. Alacrity comes from the Latin alacritas, and the Italian musical term allegro is a near relation.",
+    "masked_long": "While the noun [...] normally refers to someone's peppy behavior, it can also describe a certain mood or tempo of a musical composition, indicating how the music should be played. [...] comes from the Latin [...], and the Italian musical term [...] is a near relation.",
+    "masked_short": "Someone with [...] shows cheerful willingness and eager behavior, like a kid whose mother has told him he can buy anything in a candy store.",
+    "query_time": 1565810610.1722474,
+    "raw_long": [
+      [
+        0,
+        "While the noun "
+      ],
+      [
+        1,
+        "alacrity"
+      ],
+      [
+        0,
+        " normally refers to someone's peppy behavior, it can also describe a certain mood or tempo of a musical composition, indicating how the music should be played. "
+      ],
+      [
+        1,
+        "Alacrity"
+      ],
+      [
+        0,
+        " comes from the Latin "
+      ],
+      [
+        1,
+        "alacritas"
+      ],
+      [
+        0,
+        ", and the Italian musical term "
+      ],
+      [
+        1,
+        "allegro"
+      ],
+      [
+        0,
+        " is a near relation."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "Someone with "
+      ],
+      [
+        1,
+        "alacrity"
+      ],
+      [
+        0,
+        " shows cheerful willingness and eager behavior, like a kid whose mother has told him he can buy anything in a candy store."
+      ]
+    ],
+    "short": "Someone with alacrity shows cheerful willingness and eager behavior, like a kid whose mother has told him he can buy anything in a candy store.",
+    "url": "https://www.vocabulary.com/dictionary/alacrity",
+    "word": "alacrity"
+  },
   "allege": {
     "audio_url": "https://audio.vocab.com/1.0/us/A/UNW0BVRW7IK5.mp3",
     "colored_long": "If you ever watch news programs, you often hear the verb \u001b[31mallege\u001b[0m. A reporter might say that detectives allege that a certain person, who is now being held without bail, set a fire. This can be confusing: If the person is in jail, then he or she must have set that fire, right? In reality, the person is a suspect, awaiting trial. In our country, people are assumed innocent until proven guilty in a court of law. That's why we used \u001b[31mallege\u001b[0m until we know for sure.",

@@ -85,7 +85,9 @@
     <script>
 
         function cmp(a, b) {
-            return b.query_time - a.query_time;
+            var res = b.query_time - a.query_time;
+            console.log(res)
+            return res > 0 ? 1 : -1;
         }
 
         new Vue({
