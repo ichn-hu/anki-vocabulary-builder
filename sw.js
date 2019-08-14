@@ -18,7 +18,7 @@
 'use strict';
 
 // CODELAB: Update cache names any time any of the cached files change.
-const CACHE_NAME = 'bd62b0d013afc40a03ad1de5f70911838f5e4c1a';
+const CACHE_NAME = '90ca4934c7e7116edf361644e840da13dd9eca22';
 
 // CODELAB: Add list of files to cache here.
 const FILES_TO_CACHE = [
