@@ -13829,7 +13829,7 @@
     "long": "Inane comes from the Latin inanis, for empty, and you can think of it as empty-headed.  We call something inane if it states the obvious, or is really silly in a way that seems unintelligent. If you give your boss a presentation in a bunny suit and sing a song about being happy, she might say, \"Get out of here with your inane bunny act!\"  Other synonyms are stupid, vacuous, ridiculous, pointless.",
     "masked_long": "[...] comes from the Latin [...], for empty, and you can think of it as empty-headed.  We call something inane if it states the obvious, or is really silly in a way that seems unintelligent. If you give your boss a presentation in a bunny suit and sing a song about being happy, she might say, \"Get out of here with your inane bunny act!\"  Other synonyms are [...].",
     "masked_short": "If something is [...], it's silly or senseless. If you just want to space out, you won't mind the [...] chatter on TV, as long as it's on.",
-    "query_time": 1565367429.1455956,
+    "query_time": 1566200755.058104,
     "raw_long": [
       [
         1,
@@ -17538,6 +17538,87 @@
     "url": "https://www.vocabulary.com/dictionary/notoriety",
     "word": "notoriety"
   },
+  "nutrient": {
+    "audio_url": "https://audio.vocab.com/1.0/us/N/1QHJ2LEG9O4Z9.mp3",
+    "colored_long": "The words \u001b[31mnutrient\u001b[0m and \u001b[31mnourish\u001b[0m both come from the Latin word \u001b[31mn\u016btr\u012bre\u001b[0m, \"to feed, nurse, support, preserve.\" Although usually used as a noun, the word \u001b[31mnutrient\u001b[0m started out in 1650 as an adjective meaning \"providing nourishment.\" It's important to your health to get the proper nutrients, so the food pyramid was developed by nutritionists to show you the balance of foods you need each day.",
+    "colored_short": "A \u001b[31mnutrient\u001b[0m is anything that nourishes a living being. We humans get our \u001b[31mnutrients\u001b[0m from what we eat, plants get theirs from the soil. While the best \u001b[31mnutrients\u001b[0m are natural, we can also get them from vitamins in a bottle.",
+    "has_audio": true,
+    "long": "The words nutrient and nourish both come from the Latin word n\u016btr\u012bre, \"to feed, nurse, support, preserve.\" Although usually used as a noun, the word nutrient started out in 1650 as an adjective meaning \"providing nourishment.\" It's important to your health to get the proper nutrients, so the food pyramid was developed by nutritionists to show you the balance of foods you need each day.",
+    "masked_long": "The words [...] and [...] both come from the Latin word [...], \"to feed, nurse, support, preserve.\" Although usually used as a noun, the word [...] started out in 1650 as an adjective meaning \"providing nourishment.\" It's important to your health to get the proper nutrients, so the food pyramid was developed by nutritionists to show you the balance of foods you need each day.",
+    "masked_short": "A [...] is anything that nourishes a living being. We humans get our [...] from what we eat, plants get theirs from the soil. While the best [...] are natural, we can also get them from vitamins in a bottle.",
+    "query_time": 1566017481.6643379,
+    "raw_long": [
+      [
+        0,
+        "The words "
+      ],
+      [
+        1,
+        "nutrient"
+      ],
+      [
+        0,
+        " and "
+      ],
+      [
+        1,
+        "nourish"
+      ],
+      [
+        0,
+        " both come from the Latin word "
+      ],
+      [
+        1,
+        "n\u016btr\u012bre"
+      ],
+      [
+        0,
+        ", \"to feed, nurse, support, preserve.\" Although usually used as a noun, the word "
+      ],
+      [
+        1,
+        "nutrient"
+      ],
+      [
+        0,
+        " started out in 1650 as an adjective meaning \"providing nourishment.\" It's important to your health to get the proper nutrients, so the food pyramid was developed by nutritionists to show you the balance of foods you need each day."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "A "
+      ],
+      [
+        1,
+        "nutrient"
+      ],
+      [
+        0,
+        " is anything that nourishes a living being. We humans get our "
+      ],
+      [
+        1,
+        "nutrients"
+      ],
+      [
+        0,
+        " from what we eat, plants get theirs from the soil. While the best "
+      ],
+      [
+        1,
+        "nutrients"
+      ],
+      [
+        0,
+        " are natural, we can also get them from vitamins in a bottle."
+      ]
+    ],
+    "short": "A nutrient is anything that nourishes a living being. We humans get our nutrients from what we eat, plants get theirs from the soil. While the best nutrients are natural, we can also get them from vitamins in a bottle.",
+    "url": "https://www.vocabulary.com/dictionary/nutrient",
+    "word": "nutrient"
+  },
   "obdurate": {
     "audio_url": "https://audio.vocab.com/1.0/us/O/D0MMPQKBHNFS.mp3",
     "colored_long": "This adjective descends from Latin \u001b[31mobdurare\u001b[0m, \"to harden.\" A near synonym is \u001b[31madamant\u001b[0m, from Latin \u001b[31madamas\u001b[0m, \"hard metal, diamond.\" So both of these synonyms derive from the quality of hardness being associated with a stubborn personality.",
@@ -19932,7 +20013,7 @@
     "long": "Profuse is an adjective meaning, basically, \"a lot.\" Add the -ly and there's the adverb profusely, used to describe something that's giving off a lot \u2014 of blood, sweat, and tears for example. You might bleed profusely after you cut your thumb and cry profusely when your sweetie doesn't even offer you a Band-Aid. Other words with similar meanings include abundantly, extravagantly, lavishly, and richly. The French author Francois de la Rochefoucauld said, \u201cNothing is given so profusely as advice.\u201d",
     "masked_long": "[...] is an adjective meaning, basically, \"a lot.\" Add the [...] and there's the adverb [...], used to describe something that's giving off a lot \u2014 of blood, sweat, and tears for example. You might bleed profusely after you cut your thumb and cry profusely when your sweetie doesn't even offer you a Band-Aid. Other words with similar meanings include [...], [...], [...], and [...]. The French author Francois de la Rochefoucauld said, \u201cNothing is given so [...] as advice.\u201d",
     "masked_short": "[...] is another way of saying \"excessively.\" If you sweat [...] whenever your crush walks into a room, you might reconsider your ban on deodorant before asking him out.",
-    "query_time": 1565366129.6823874,
+    "query_time": 1566019118.5538557,
     "raw_long": [
       [
         1,
