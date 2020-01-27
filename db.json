@@ -6550,6 +6550,55 @@
     "url": "https://www.vocabulary.com/dictionary/crumple",
     "word": "crumple"
   },
+  "cult": {
+    "audio_url": "https://audio.vocab.com/1.0/us/C/ZLFSDLP9GJ6L.mp3",
+    "colored_long": "A \u001b[31mcult\u001b[0m is group of people defined by a \"religious\" devotion to something \u2014 often a self-appointed leader. Most people view cults as strange and frightening, mostly because cults have, over the years, done some strange and frightening things, including murders and mass suicides. Sometimes, too, you'll see \u001b[31mcult\u001b[0m used as an adjective to describe something or someone with a small, devoted fan-base. John Water's movies are cult favorites, adored by a select group of film lovers but not by the public at large.",
+    "colored_short": "People argue about whether the major religions of the world are just well-established \u001b[31mcults\u001b[0m \u2014 that, age and size aside, they are no different from any group that follows a spiritual leader.",
+    "has_audio": true,
+    "long": "A cult is group of people defined by a \"religious\" devotion to something \u2014 often a self-appointed leader. Most people view cults as strange and frightening, mostly because cults have, over the years, done some strange and frightening things, including murders and mass suicides. Sometimes, too, you'll see cult used as an adjective to describe something or someone with a small, devoted fan-base. John Water's movies are cult favorites, adored by a select group of film lovers but not by the public at large.",
+    "masked_long": "A [...] is group of people defined by a \"religious\" devotion to something \u2014 often a self-appointed leader. Most people view cults as strange and frightening, mostly because cults have, over the years, done some strange and frightening things, including murders and mass suicides. Sometimes, too, you'll see [...] used as an adjective to describe something or someone with a small, devoted fan-base. John Water's movies are cult favorites, adored by a select group of film lovers but not by the public at large.",
+    "masked_short": "People argue about whether the major religions of the world are just well-established [...] \u2014 that, age and size aside, they are no different from any group that follows a spiritual leader.",
+    "query_time": 1580094191.1027446,
+    "raw_long": [
+      [
+        0,
+        "A "
+      ],
+      [
+        1,
+        "cult"
+      ],
+      [
+        0,
+        " is group of people defined by a \"religious\" devotion to something \u2014 often a self-appointed leader. Most people view cults as strange and frightening, mostly because cults have, over the years, done some strange and frightening things, including murders and mass suicides. Sometimes, too, you'll see "
+      ],
+      [
+        1,
+        "cult"
+      ],
+      [
+        0,
+        " used as an adjective to describe something or someone with a small, devoted fan-base. John Water's movies are cult favorites, adored by a select group of film lovers but not by the public at large."
+      ]
+    ],
+    "raw_short": [
+      [
+        0,
+        "People argue about whether the major religions of the world are just well-established "
+      ],
+      [
+        1,
+        "cults"
+      ],
+      [
+        0,
+        " \u2014 that, age and size aside, they are no different from any group that follows a spiritual leader."
+      ]
+    ],
+    "short": "People argue about whether the major religions of the world are just well-established cults \u2014 that, age and size aside, they are no different from any group that follows a spiritual leader.",
+    "url": "https://www.vocabulary.com/dictionary/cult",
+    "word": "cult"
+  },
   "curtail": {
     "audio_url": "https://audio.vocab.com/1.0/us/C/18RBLHXHCCMQJ.mp3",
     "colored_long": "\u001b[31mCurtail\u001b[0m is an official-sounding word for stopping or slowing things down. The police try to curtail crime \u2014 they want there to be less crime in the world. A company may want to curtail their employees' computer time, so they spend more time working and less time goofing around. Teachers try to curtail whispering and note-passing in class. When something is curtailed, it's either stopped entirely or stopped quite a bit \u2014 it's cut short.",
@@ -31074,7 +31123,7 @@
     "long": "From the words warder, meaning \u201cto protect\u201d, and robe, meaning a \u201cpiece of clothing,\u201d wardrobe originally meant an entire room where a person's clothing was stored. Nowadays, most people don\u2019t have an entire room for their clothes, so the word wardrobe has downsized to just a large cabinet, or the clothing itself. A wardrobe can also be the costumes (or the costume department) of a theater company or  movie.",
     "masked_long": "From the words [...], meaning \u201cto protect\u201d, and [...], meaning a \u201cpiece of clothing,\u201d [...] originally meant an entire room where a person's clothing was stored. Nowadays, most people don\u2019t have an entire room for their clothes, so the word [...] has downsized to just a large cabinet, or the clothing itself. A wardrobe can also be the costumes (or the costume department) of a theater company or  movie.",
     "masked_short": "All of the clothes in your closet make up your [...]. If you're tired of your [...],  it just might be time to go shopping.",
-    "query_time": 1565844446.017757,
+    "query_time": 1580094614.783614,
     "raw_long": [
       [
         0,
